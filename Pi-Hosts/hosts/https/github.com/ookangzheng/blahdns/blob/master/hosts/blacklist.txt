@@ -1,0 +1,123 @@
+## This blacklist maintaince by @ookangzheng
+## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+# Malicious -- redirected
+0.0.0.0 zer0day.ch
+
+0.0.0.0 discuz.gtimg.cn
+0.0.0.0 hao.360.cn
+0.0.0.0 ip.ia22.com
+0.0.0.0 l.ad4.com.cn
+0.0.0.0 log.sina.cn
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 main.exoclick.com
+0.0.0.0 mathtype.cn
+0.0.0.0 sa.tuisong.baidu.com
+0.0.0.0 sa1.tuisong.baidu.com
+
+# APP tracker
+0.0.0.0 api.branch.io
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.com
+0.0.0.0 onesignal.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 go.ero-advertising.com
+0.0.0.0 www.eroadvertising.com
+
+# Panda.tv
+0.0.0.0 aplay.wan.panda.tv
+0.0.0.0 caesar.wan.panda.tv
+0.0.0.0 play.wan.panda.tv
+0.0.0.0 wan.panda.tv
+
+# 斗鱼
+0.0.0.0 g.wan.douyu.com
+0.0.0.0 cdn.g.wan.douyu.com
+
+# ggsafe.com
+0.0.0.0 wifi.ggsafe.com
+
+# 游族的公司投放页游广告
+0.0.0.0 v3m.youzu.com
+
+# Unlisted
+0.0.0.0 adver7.clickmon.co.kr
+0.0.0.0 adver11.clickmon.co.kr
+0.0.0.0 e5019.e2.akamaiedge.net
+0.0.0.0 wahaha.work
+0.0.0.0 notify.zhushou.sogou.com
+0.0.0.0 i10c.net
+0.0.0.0 ad2iction.com
+0.0.0.0 adcl.pchome.com.tw
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 appier.net
+0.0.0.0 appsflyer.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 dable.io
+0.0.0.0 doublemax.net
+0.0.0.0 s.zimedia.com.tw
+0.0.0.0 popin.cc
+0.0.0.0 r.search.yahoo.com
+0.0.0.0 securegfm.com
+0.0.0.0 tenmax.io
+
+# Mostly Microsoft telemetry, spying smartTVs, IG/Facebook trackers, Google analytics, and mobile app analytics. Google Ads, Amazon Ads, and MoatAds
+0.0.0.0 trk.pinterest.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 win1710.ipv6.microsoft.com
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 mss.handmark.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 e.reddit.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 e.crashlytics.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 z.moatads.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 combine.urbanairship.com
+0.0.0.0 mads.amazon.com
+0.0.0.0 secure-dcr-cert.imrworldwide.com
+0.0.0.0 app.adjust.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 control2.tvinteractive.tv
+0.0.0.0 i10c.net
+0.0.0.0 ad2iction.com
+0.0.0.0 adcl.pchome.com.tw
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 appier.net
+0.0.0.0 appsflyer.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 dable.io
+0.0.0.0 doublemax.net
+0.0.0.0 s.zimedia.com.tw
+0.0.0.0 popin.cc
+0.0.0.0 r.search.yahoo.com
+0.0.0.0 securegfm.com
+0.0.0.0 tenmax.io
+0.0.0.0 adver10.clickmon.co.kr
+0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 config2.mparticle.com
+

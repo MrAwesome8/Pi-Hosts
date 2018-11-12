@@ -23,6 +23,7 @@ namespace Pi_Hosts {
 
     public enum ListType {
         Good,
+        Cached,
         BackedUp,
         Missing
     }
@@ -36,6 +37,7 @@ namespace Pi_Hosts {
         private static ISet<string> MissingList;
         private static ISet<string> BlockLists;
         private const string Hole = "0.0.0.0";
+        private const int MaxFileSize = 80; //github maxfile upload is 100MB. (rec.50MB)
 
         private static TreeNode<string> BuildTree() {
             TreeNode<string> blockTree = new TreeNode<string>("hosts");
@@ -43,7 +45,13 @@ namespace Pi_Hosts {
             BlockLists.AsParallel().ForAll(list => {
                 var url = new Uri(list);
 
-                var segments = url.Segments.Where(x => !x.Equals("/") && !string.IsNullOrEmpty(x) && !string.IsNullOrWhiteSpace(x));
+                var segments = url.Segments.Where(x => !x.Equals("/") && !string.IsNullOrEmpty(x) && !string.IsNullOrWhiteSpace(x)).ToArray();
+
+                if (!string.IsNullOrEmpty(url.Query)) {
+                    if (segments.Count() > 0) {
+                        segments[segments.Length - 1] += url.Query;
+                    }
+                }
 
                 TreeNode<string> curNode;
                 lock (blockTree) {
@@ -53,6 +61,8 @@ namespace Pi_Hosts {
                 foreach (var node in segments) {
                     curNode = curNode.AddChild(node.Replace("/", ""));
                 }
+
+                //curNode = curNode.AddChild(url.Query);
             });
 
             return blockTree;
@@ -72,25 +82,34 @@ namespace Pi_Hosts {
             switch (type) {
                 default:
                 case ListType.Good:
-                    GoodList.Add(list);
+                case ListType.Cached:
+                    lock (GoodList) GoodList.Add(list);
                     return;
 
                 case ListType.BackedUp:
-                    BackupList.Add(list);
+                    lock (BackupList) BackupList.Add(list);
                     return;
 
                 case ListType.Missing:
-                    MissingList.Add(list);
+                    lock (MissingList) MissingList.Add(list);
                     return;
             }
         }
 
+        private const int MIB = 1049000;
+
+        private static double BytesToMebibytes(long bytes) => bytes / (double)MIB;
+
         private static int GetOccuranceCount(string src, string sub) => (src.Length - src.Replace(sub, "").Length) / sub.Length;
 
-        private static IEnumerable<string> DownloadBlockList(string url) {
-            Console.Write($"Attempting to download: {url}...");
-            if(!url.IsValid()) {
-                Console.WriteLine("Failed.");
+        private static Encoding[] retries = new[] { Encoding.UTF8, Encoding.Unicode, Encoding.ASCII, Encoding.UTF32, Encoding.UTF7, Encoding.BigEndianUnicode };
+        private static int retryCount = 0;
+
+        private static IEnumerable<string> DownloadBlockList(string url, Encoding encoding) {
+            string results = $"Attempting to download: {url}...";
+
+            if (!url.IsValid()) {
+                Console.WriteLine(results + "Failed");
                 return null;
             }
             if (url.Contains("github.com") && !url.Contains("/raw")) {
@@ -98,30 +117,44 @@ namespace Pi_Hosts {
             }
             string n = "\n";
 
-            using (WebClient client = new WebClient() { Encoding = Encoding.UTF8 }) {
+            using (WebClient client = new WebClient() { Encoding = encoding }) {
                 client.Headers.Add("user-agent", "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705;)"); //pretend to be web browser https://stackoverflow.com/a/40275488
 
-                var page = client.DownloadString(url);
-                page = page.Replace("\t", "").Replace("\n\r", "\n").Replace(Environment.NewLine, "\n");
-                page= Regex.Replace(page, @"[ ]{2,}", "");
+                string page = null;
 
-                var sample = page.Substring(0, 500);
-                if (sample.StartsWith("[Adblock") || GetOccuranceCount(sample,"||")>3|| GetOccuranceCount(sample, "!") > 3) {
+                try {
+                    page = client.DownloadString(url);
+                } catch (Exception) {
+                    if (retryCount >= retries.Length - 1) {
+                        return null;
+                    }
+                    return DownloadBlockList(url, retries[retryCount++]);
+                }
+
+                retryCount = 0;
+
+                page = page.Replace("\n\r", "\n").Replace(Environment.NewLine, "\n");
+                page = Regex.Replace(page, @"[ \t]+", " ");
+
+                var sample = page.Substring(0, page.Length > 500 ? 500 : page.Length);
+                if (sample.StartsWith("[Adblock") || GetOccuranceCount(sample, "||") > 3 || GetOccuranceCount(sample, "!") > 3) {
                     //probably an adblock filter, we don't want to touch it
-                    Console.WriteLine("Format: Adblock");
+                    Console.WriteLine(results + "Format: Adblock");
+
                     return page.Split(n);
                 }
 
                 if (GetOccuranceCount(sample, "http://") > 5 || GetOccuranceCount(sample, "https://") > 5) {
                     //probably a url filter, we don't want to touch it
-                    Console.WriteLine("Format: URL");
+                    Console.WriteLine(results + "Format: URL");
+
                     return page.Split(n);
                 }
 
-                Console.WriteLine("Format: Domains");
-
+                Console.WriteLine(results + "Format: Domains");
 
                 return page.Split(n/*, StringSplitOptions.RemoveEmptyEntries*/).Select(line => {
+                    line = line.Trim();
                     if (string.IsNullOrWhiteSpace(line) || line.StartsWith('#')) return line;
                     var prot = line.Split(' ');
 
@@ -130,50 +163,78 @@ namespace Pi_Hosts {
                 });
             }
         }
-        
+
+        private static void WriteListToFile(string path, string url) {
+            var dnld = DownloadBlockList(url, Encoding.Default);
+            if (dnld != null && dnld.Count() > 0) {
+                File.WriteAllLines(path, dnld);
+                FileInfo file = new FileInfo(path);
+                if (BytesToMebibytes(file.Length) > MaxFileSize) {
+                    Console.WriteLine($"File too large ({BytesToMebibytes(file.Length)}) ({url})");
+                    file.SplitFile(MaxFileSize * MIB);
+                    File.Delete(file.FullName);
+                }
+                MarkListAs(url, ListType.Good);
+            } else {
+                MarkListAs(url, ListType.Missing);
+            }
+        }
+
         private static void Main(string[] args) {
             Directory.SetCurrentDirectory(Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.FullName);
 
-            using (Timer t = new Timer()) {
-                Console.WriteLine("Parsing BlockList...");
-                BlockLists = new SortedSet<string>(File.ReadAllLines(BlockListPath).AsParallel().Select(StringHelper.NormalizeUrl));//.ToHashSet();
-                BlockLists.Remove(string.Empty);
-                Console.WriteLine($"Blocklists: Count={BlockLists.Count()}:\n");
-                File.WriteAllLines(BlockListPath, BlockLists); //lists which are active
-            }
-            return;
+            //using (Timer t = new Timer()) {
+            Console.WriteLine("Parsing BlockList...");
+            BlockLists = File.ReadAllLines(BlockListPath).AsParallel().Select(StringHelper.NormalizeUrl).ToHashSet();
+            BlockLists.Remove(string.Empty);
+            Console.WriteLine($"Blocklists: Count={BlockLists.Count()}:\n");
+            //}
+
             BackupList = new SortedSet<string>(File.Exists(BackupListPath) ? File.ReadAllLines(BackupListPath) : new string[0]);
-            MissingList = new SortedSet<string>(File.Exists(DeadListPath)?File.ReadAllLines(DeadListPath):new string[0]);
+            MissingList = new SortedSet<string>(File.Exists(DeadListPath) ? File.ReadAllLines(DeadListPath) : new string[0]);
 
             Console.WriteLine("Building Tree...");
             TreeNode<string> blockTree = BuildTree();
 
-            blockTree.Print();
+            //blockTree.Print();
 
-            var shouldUpdateLists = false;
+            var shouldUpdateLists = true;
 
             Console.WriteLine("Working...");
 
+            List<TreeNode<string>> leafs = new List<TreeNode<string>>();
             blockTree.ForEachNode(node => {
                 if (!node.HasChildren) {
-                    string path = BuildPath(node);
+                    leafs.Add(node);
+                }
+            });
 
-                    var url = path.Substring("hosts\\".Length);
-                    var scheme = url.Substring(0, url.IndexOf("\\"));
-                    url = url.Substring(url.IndexOf("\\") + 1).Replace("\\", "/");
-                    url = $"{scheme}://{url}";
+            leafs./*AsParallel().ForAll*/ForEach(node => {
+                string path = BuildPath(node);
+
+                var url = path.Substring("hosts\\".Length);
+                var scheme = url.Substring(0, url.IndexOf("\\"));
+                url = url.Substring(url.IndexOf("\\") + 1).Replace("\\", "/");
+                url = $"{scheme}://{url}";
+
+                if (path.Contains('?')) {
+                    path = path.Substring(0, path.IndexOf('?')); //remove query from path
+                }
+
+                try {
+                    FileInfo file = new FileInfo(path);
+                    if (file.Attributes == FileAttributes.Directory) {
+                        file = new FileInfo(Path.Combine(path, "unnamed.txt"));
+                    }
+                    path = file.FullName;
 
                     bool valid = url.IsValid();
-                    if (Directory.Exists(path)) {
+                    if (file.Exists) {
                         if (valid) {
                             if (shouldUpdateLists) {
-                                var dnld = DownloadBlockList(url);
-                                if(dnld!=null && dnld.Count()>0) {
-                                    File.WriteAllLines(path, dnld);
-                                    MarkListAs(url, ListType.Good);
-                                } else {
-                                    MarkListAs(url, ListType.BackedUp);
-                                }
+                                WriteListToFile(path, url);
+                            } else {
+                                MarkListAs(url, ListType.Cached);
                             }
                         } else {
                             MarkListAs(url, ListType.BackedUp);
@@ -186,19 +247,14 @@ namespace Pi_Hosts {
                         }
 
                         //create path
-                        FileInfo file = new FileInfo(path);
                         file.Directory.Create();
-                        using (File.Create(path)) ;
+                        using (File.Create(path)) { }
 
                         //download content
-                        var dnld = DownloadBlockList(url);
-                        if (dnld != null && dnld.Count() > 0) {
-                            File.WriteAllLines(path, dnld);
-                            MarkListAs(url, ListType.Good);
-                        } else {
-                            MarkListAs(url, ListType.BackedUp);
-                        }
+                        WriteListToFile(path, url);
                     }
+                } catch (Exception) {
+                    MarkListAs(url, ListType.Missing);
                 }
             });
 

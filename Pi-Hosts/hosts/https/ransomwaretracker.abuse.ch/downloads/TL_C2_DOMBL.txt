@@ -1,0 +1,42 @@
+##########################################################################
+# TorrentLocker Ransomware C2 domain blocklist (TL_C2_DOMBL) #
+# Generated on 2018-11-12 05:10:02 UTC #
+# #
+# For questions please refer to: #
+# https://ransomwaretracker.abuse.ch/blocklist/ #
+##########################################################################
+0.0.0.0 dirtyslim.org
+0.0.0.0 bigdoggi.biz
+0.0.0.0 kinomix.org
+0.0.0.0 verekt.biz
+0.0.0.0 feellgood.org
+0.0.0.0 baggir.org
+0.0.0.0 olimpian.org
+0.0.0.0 bedrifg.org
+0.0.0.0 velodrivve.biz
+0.0.0.0 freemooon.org
+0.0.0.0 redtable.biz
+0.0.0.0 dumberg.org
+0.0.0.0 vitrok.org
+0.0.0.0 sfasdik.com
+0.0.0.0 vizkore.biz
+0.0.0.0 cerbyk.org
+0.0.0.0 hgdre.org
+0.0.0.0 ghdeg.com
+0.0.0.0 gfjhfg.com
+0.0.0.0 geriky.org
+0.0.0.0 fhgetyh.com
+0.0.0.0 xxryposdrt.org
+0.0.0.0 velajsweg.com
+0.0.0.0 oprtiwyx.com
+0.0.0.0 nerfetyv.org
+0.0.0.0 ropytowero.com
+0.0.0.0 wotreposdo.net
+0.0.0.0 birufolen.com
+0.0.0.0 sawsvore.net
+0.0.0.0 pakezspohos.org
+0.0.0.0 kowoplosezox.com
+0.0.0.0 xefarporove.net
+0.0.0.0 peqbkinexyr.org
+# 33 entries
+
