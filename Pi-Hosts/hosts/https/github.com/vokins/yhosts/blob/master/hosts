@@ -1,5 +1,5 @@
 
-#version=201811111505
+#version=201811121402
 #url=https://github.com/vokins/yhosts
 0.0.0.0 activate.adobe.com
 0.0.0.0 ereg.adobe.com
@@ -1015,9 +1015,9 @@
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
 0.0.0.0 broadcasthost
+::1 localhost
 0.0.0.0 localhost
-0.0.0.0 localhost
-0.0.0.0 ip6-localhost
+::1 ip6-localhost
 0.0.0.0 XiaoQiang
 0.0.0.0 geo2.adobe.com
 0.0.0.0 get3.adobe.com
@@ -2011,7 +2011,6 @@
 0.0.0.0 e.scouc.com
 0.0.0.0 e.uzhaj.com
 0.0.0.0 h.txt2017.com
-0.0.0.0 m.fpzw.com
 0.0.0.0 m.mbiek.com
 0.0.0.0 m.mcaik.com
 0.0.0.0 m.scouc.com

@@ -21,6 +21,7 @@ namespace Pi_Hosts {
         private const string BackupListPath = "backup.list";
         private const string BlockListPath = "block.list";
         private const string DeadListPath = "dead.list";
+        private const string StatusPath = "status.txt";
 
         private static bool shouldUpdate = true;
 
@@ -153,16 +154,30 @@ namespace Pi_Hosts {
             Console.WriteLine("Working...");
             ArchiveLists(blockTree);
 
-            //if (shouldUpdate && MissingList.Count() > 0) {
-            //    ArchiveLists(BuildTree(MissingList, "hosts")); //check to see if any missing lists have returned
+            //check to see if any missing lists have returned
+            //if (shouldUpdate) {
+            //    if (BackupList.Count() > 0) {
+            //        ArchiveLists(BuildTree(BackupList, "hosts"));
+            //    }
+            //    if (MissingList.Count() > 0) {
+            //        ArchiveLists(BuildTree(MissingList, "hosts"));
+            //    }
             //}
 
             File.WriteAllLines(BlockListPath, GoodList); //lists which are active
             File.WriteAllLines(BackupListPath, BackupList); //no longer active, but we have a copy
             File.WriteAllLines(DeadListPath, MissingList); //no longer active and no copy
+
+            using (var status = new StreamWriter(StatusPath)) {
+                status.WriteLine("Pi-Hosts Status Report");
+                status.WriteLine($"Last Update: {DateTime.Today.ToShortDateString()}");
+                status.WriteLine($"Active Lists: {GoodList.Count()}");
+                status.WriteLine($"Backup Lists: {BackupList.Count()}");
+                status.WriteLine($"Dead   Lists: {MissingList.Count()}");
+            }
         }
 
-        private static void ArchiveLists(TreeNode<string> root) {
+            private static void ArchiveLists(TreeNode<string> root) {
             List<TreeNode<string>> leafs = new List<TreeNode<string>>();
             root.ForEachNode(node => {
                 if (!node.HasChildren) {
@@ -193,7 +208,12 @@ namespace Pi_Hosts {
                     if (file.Exists && file.Length > 0) {
                         if (valid) {
                             if (shouldUpdate) {
-                                WriteListToFile(path, url);
+                                var result = WriteListToFile(path, url);
+                                if(result == ListType.Good) {
+                                    MarkListAs(url, ListType.Good);
+                                } else {
+                                    MarkListAs(url, ListType.BackedUp);
+                                }
                             } else {
                                 MarkListAs(url, ListType.Cached);
                             }
@@ -212,7 +232,8 @@ namespace Pi_Hosts {
                         using (File.Create(path)) { }
 
                         //download content
-                        WriteListToFile(path, url);
+                        var result = WriteListToFile(path, url);
+                        MarkListAs(url, result);
                     }
                 } catch (Exception) {
                     MarkListAs(url, ListType.Missing);
@@ -238,7 +259,7 @@ namespace Pi_Hosts {
             }
         }
 
-        private static void WriteListToFile(string path, string url) {
+        private static ListType WriteListToFile(string path, string url) {
             var dnld = DownloadBlockList(url, Encoding.Default);
             if (dnld != null && dnld.Count() > 0) {
                 File.WriteAllLines(path, dnld);
@@ -248,9 +269,9 @@ namespace Pi_Hosts {
                     file.SplitFile(MaxFileSizeMb * MIB);
                     File.Delete(file.FullName);
                 }
-                MarkListAs(url, ListType.Good);
+                return ListType.Good;
             } else {
-                MarkListAs(url, ListType.Missing);
+                return ListType.Missing;
             }
         }
     }

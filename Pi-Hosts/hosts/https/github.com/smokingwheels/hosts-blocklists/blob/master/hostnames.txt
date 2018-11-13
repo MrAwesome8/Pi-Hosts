@@ -48,7 +48,7 @@
 # - https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
 ##############################[LOCALHOSTS]###############################
 0.0.0.0 localhost
-0.0.0.0 localhost
+::1 localhost
 #############################[COMBINED_LIST]#############################
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0000shgfdskjhgfoffice365.000webhostapp.com

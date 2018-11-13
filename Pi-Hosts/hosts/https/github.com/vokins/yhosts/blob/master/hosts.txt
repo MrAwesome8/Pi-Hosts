@@ -1,11 +1,11 @@
 0.0.0.0 @direct/1os
 #ios
 0.0.0.0 broadcasthost
-0.0.0.0 localhost
+::1 localhost
 #common
 0.0.0.0 localhost
 #android
-0.0.0.0 ip6-localhost
+::1 ip6-localhost
 #miwifi
 0.0.0.0 XiaoQiang
 0.0.0.0 @direct/official
@@ -2485,7 +2485,6 @@
 0.0.0.0 e.scouc.com
 0.0.0.0 e.uzhaj.com
 0.0.0.0 h.txt2017.com
-0.0.0.0 m.fpzw.com
 0.0.0.0 m.mbiek.com
 0.0.0.0 m.mcaik.com
 0.0.0.0 m.scouc.com

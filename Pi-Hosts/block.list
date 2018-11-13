@@ -1,5 +1,3 @@
-http://malwaredomains.lehigh.edu/files/BOOT
-http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 https://adaway.org/hosts.txt
@@ -93,7 +91,6 @@ https://github.com/notracking/hosts-blocklists/blob/master/hostnames.txt
 https://github.com/ookangzheng/blahdns/blob/master/hosts/blacklist.txt
 https://github.com/ozark46/pihole-list-prepend/blob/master/lists/big_list.list
 https://github.com/ozark46/pihole-list-prepend/blob/master/lists/phishing.list
-https://github.com/ozark46/pihole-list-prepend/tree/master/lists
 https://github.com/Perflyst/PiHoleBlocklist/blob/master/android-tracking.txt
 https://github.com/Perflyst/PiHoleBlocklist/blob/master/SessionReplay.txt
 https://github.com/Perflyst/PiHoleBlocklist/blob/master/SmartTV.txt

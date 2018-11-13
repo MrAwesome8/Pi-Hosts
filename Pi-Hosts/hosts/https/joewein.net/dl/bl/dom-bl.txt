@@ -33,6 +33,7 @@
 0.0.0.0 alwaysbestsurv.info
 0.0.0.0 alzheicure.info
 0.0.0.0 alzhimersbrain.bid;1
+0.0.0.0 alzimeralertfood.bid;1
 0.0.0.0 amzbestgf.info
 0.0.0.0 amzingskinstoday.icu
 0.0.0.0 analyzepersonal.info
@@ -54,8 +55,9 @@
 0.0.0.0 avakm.site
 0.0.0.0 avidamaraita.info
 0.0.0.0 avveoi.tokyo
-0.0.0.0 axiom5ddg.top;1
+0.0.0.0 awayzhipflex.bid;1
 0.0.0.0 aygtc.site
+0.0.0.0 b-business.biz;1
 0.0.0.0 b1txb.site
 0.0.0.0 b7lqg.site
 0.0.0.0 bankmitravf.info
@@ -118,9 +120,11 @@
 0.0.0.0 capilarstrongs.icu
 0.0.0.0 capricegf.icu
 0.0.0.0 cardway.info
+0.0.0.0 caremuchinfo.info;1
 0.0.0.0 cariottaaubrie.ru
 0.0.0.0 carlishairs.icu
 0.0.0.0 carlotamirabelle.su
+0.0.0.0 carporthire.online;1
 0.0.0.0 carrierayna.ru
 0.0.0.0 castthediets.icu
 0.0.0.0 cateehaity.icu
@@ -150,6 +154,7 @@
 0.0.0.0 collysayre.com
 0.0.0.0 comfortableknife.bid;1
 0.0.0.0 comut.tokyo
+0.0.0.0 condton-nw.xyz
 0.0.0.0 confiadopharma.info
 0.0.0.0 conoupostr.icu
 0.0.0.0 cooliqonbrains.icu
@@ -183,6 +188,7 @@
 0.0.0.0 demog.icu
 0.0.0.0 dendei.tokyo
 0.0.0.0 desperatescfedit.info
+0.0.0.0 destroyerfatloss.bid;1
 0.0.0.0 dglyz.site
 0.0.0.0 diabetesreves.icu
 0.0.0.0 diabeticworld.info
@@ -228,9 +234,11 @@
 0.0.0.0 ehjvuifgsp.tokyo
 0.0.0.0 eiuslie.tokyo
 0.0.0.0 ekokx.tokyo
+0.0.0.0 emarket-af.pw
+0.0.0.0 emarket-us.pw
 0.0.0.0 eomch.tokyo
 0.0.0.0 eoqoeou.tokyo
-0.0.0.0 eruditesd.top;1
+0.0.0.0 erewrd.info;1
 0.0.0.0 eryzpswp.online
 0.0.0.0 essnce-pre.xyz
 0.0.0.0 eteefood.us
@@ -240,6 +248,7 @@
 0.0.0.0 executes.biz
 0.0.0.0 exicgc.cf;1
 0.0.0.0 expirespot-account.com
+0.0.0.0 extensaohome.info;1
 0.0.0.0 facethenerves.icu
 0.0.0.0 fakebsw.tokyo
 0.0.0.0 fareytry.icu
@@ -348,6 +357,8 @@
 0.0.0.0 highpressure.info
 0.0.0.0 hislijkt.tokyo
 0.0.0.0 hlpi-nture.xyz
+0.0.0.0 hlth-dit.xyz
+0.0.0.0 hm-staffing.site;1
 0.0.0.0 hme-entrir.xyz
 0.0.0.0 homprotect.icu
 0.0.0.0 hosponline.info
@@ -359,6 +370,7 @@
 0.0.0.0 hwkeedt.tokyo
 0.0.0.0 hypesprout.us
 0.0.0.0 iakii.tokyo
+0.0.0.0 ibdmcp.ga
 0.0.0.0 ibvfbv.biz
 0.0.0.0 ichiyouraifuku85a-amear.biz
 0.0.0.0 ifttajs.site
@@ -369,6 +381,7 @@
 0.0.0.0 iluvsample.icu
 0.0.0.0 imacaco.tokyo
 0.0.0.0 imdark.pw
+0.0.0.0 immuregs.fun
 0.0.0.0 impactrange.top
 0.0.0.0 impubleniz.icu
 0.0.0.0 inducedmayhem.info
@@ -376,6 +389,7 @@
 0.0.0.0 information-sirece.cf;1
 0.0.0.0 inkeen.tokyo
 0.0.0.0 insetbrainhere.icu
+0.0.0.0 integratoriperdimagrire.us;1
 0.0.0.0 inteligenttinnitus.icu
 0.0.0.0 intellibrainnows.icu
 0.0.0.0 investiingaltr.icu
@@ -408,6 +422,7 @@
 0.0.0.0 kauf2019.com
 0.0.0.0 kealatu.icu
 0.0.0.0 keeplowerbp.icu
+0.0.0.0 ketofuel1112.us;1
 0.0.0.0 keurmtch.bid;1
 0.0.0.0 kingcodnnc.fun
 0.0.0.0 klaunnose.icu
@@ -459,6 +474,7 @@
 0.0.0.0 masfrompressure.icu
 0.0.0.0 mastersbrain.info
 0.0.0.0 maxgiftings.info
+0.0.0.0 maxmailing.com.ar;1
 0.0.0.0 mayflap.info
 0.0.0.0 mbp01.com;1
 0.0.0.0 mcexam.ga
@@ -468,6 +484,7 @@
 0.0.0.0 membersfrom.bid;1
 0.0.0.0 memoryrecov.info
 0.0.0.0 mentestoxlife.info
+0.0.0.0 milcosas4you.com;1
 0.0.0.0 minralizekit.us
 0.0.0.0 miyakhlifa.info
 0.0.0.0 mln88.site
@@ -507,6 +524,7 @@
 0.0.0.0 newhotprice.ru
 0.0.0.0 newktosis.icu
 0.0.0.0 newresultse.icu
+0.0.0.0 newwebevent.ru;1
 0.0.0.0 ng-presidency.org;419
 0.0.0.0 ngg60.site
 0.0.0.0 nicerussians.info
@@ -550,6 +568,7 @@
 0.0.0.0 oblei.icu
 0.0.0.0 obsson-scrt.xyz
 0.0.0.0 ocdzat.ga
+0.0.0.0 oddfasionsurvs.info;1
 0.0.0.0 oddthepressure.icu
 0.0.0.0 offtheteacbd.icu
 0.0.0.0 ofrtudy.us
@@ -559,6 +578,7 @@
 0.0.0.0 onefeelsders.info
 0.0.0.0 ongkosdgf.icu
 0.0.0.0 onlinesafemall.com
+0.0.0.0 ookinatamanegi-2018nen.jp
 0.0.0.0 opinessh.icu
 0.0.0.0 otherdermasolution.icu
 0.0.0.0 othernutbrans.icu
@@ -572,7 +592,9 @@
 0.0.0.0 p0y57.site
 0.0.0.0 painfixstretch.bid;1
 0.0.0.0 painrelieffoodwear.stream;1
+0.0.0.0 pamq.ml;1
 0.0.0.0 pasttinninow.icu
+0.0.0.0 pathsupersite.com;1
 0.0.0.0 paymenowor.tk;1
 0.0.0.0 pcglohn.xyz
 0.0.0.0 pctr6.site
@@ -644,11 +666,13 @@
 0.0.0.0 safeherbcompany.ru
 0.0.0.0 saferxdeal.com
 0.0.0.0 safewelnessvalue.su
+0.0.0.0 saleshopclub.ru;1
 0.0.0.0 salorieity.icu
 0.0.0.0 scgha.site
 0.0.0.0 scrbrr.us
 0.0.0.0 sellaorelallix.ru
 0.0.0.0 seppeda.xyz
+0.0.0.0 servise-post-genovese.online;1
 0.0.0.0 settifvnd.top
 0.0.0.0 sgz2017.com
 0.0.0.0 shaketoerect.info
@@ -718,6 +742,8 @@
 0.0.0.0 todygetoffr0.us
 0.0.0.0 todyspcll.us
 0.0.0.0 tokusurukeiba-houdou.com
+0.0.0.0 tonarinotoroko315iiyo.jp
+0.0.0.0 toptenevent.ru;1
 0.0.0.0 towersends.com
 0.0.0.0 trollocks.tokyo
 0.0.0.0 trrttm.loan;1
@@ -740,6 +766,7 @@
 0.0.0.0 ultraomegafat.us
 0.0.0.0 unclib.icu
 0.0.0.0 unltmte-rcepe.xyz
+0.0.0.0 unsereeinladung.cf;1
 0.0.0.0 upcyclesd.us
 0.0.0.0 update-pluse-limitednow.org
 0.0.0.0 upjwb.site
@@ -773,9 +800,11 @@
 0.0.0.0 wheretofinds.info
 0.0.0.0 willcurepressure.icu
 0.0.0.0 winterlbs.info
+0.0.0.0 winxloks.ml;1
 0.0.0.0 wirecompleteguide.xyz
 0.0.0.0 wjbeejp.space
 0.0.0.0 workhomelife.info
+0.0.0.0 wowerat.ml;1
 0.0.0.0 wpgeneralsoftpro.com
 0.0.0.0 wr8m2.site
 0.0.0.0 wvixf.site

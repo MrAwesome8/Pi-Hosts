@@ -2,15 +2,15 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated: Sat, 03 Nov 2018 13:46:53 GMT
-# entries: 2924
+# last updated: Mon, 12 Nov 2018 13:30:40 GMT
+# entries: 2934
 # format: hosts (hosts -- in hosts file format)
 # credits: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
 # other formats: https://pgl.yoyo.org/adservers/formats.php
 # policy: https://pgl.yoyo.org/adservers/policy.php
 #
-# start date: Tue, 17 Nov 1998 00:00:00
+# start date: Wed, 18 Nov 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -778,6 +778,7 @@
 0.0.0.0 adsfac.us
 0.0.0.0 adside.com
 0.0.0.0 adsk2.co
+0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsklick.de
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmart.com
@@ -1383,6 +1384,7 @@
 0.0.0.0 dapper.net
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
+0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 dbbsrv.com
 0.0.0.0 dc-storm.com
 0.0.0.0 de17a.com
@@ -1634,6 +1636,7 @@
 0.0.0.0 gmads.net
 0.0.0.0 go-clicks.de
 0.0.0.0 go-rank.de
+0.0.0.0 go2affise.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
 0.0.0.0 gondolagnome.com
@@ -1677,6 +1680,7 @@
 0.0.0.0 highfalutinroom.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 hilltopads.net
 0.0.0.0 histats.com
 0.0.0.0 historicalrequest.com
 0.0.0.0 hit-parade.com
@@ -1774,6 +1778,7 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectorclick.com
+0.0.0.0 install.365-stream.com
 0.0.0.0 instantmadness.com
 0.0.0.0 instinctiveads.com
 0.0.0.0 instrumentsponge.com
@@ -1802,6 +1807,7 @@
 0.0.0.0 ivykiosk.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jaizouji.com
 0.0.0.0 jcount.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
@@ -1973,6 +1979,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 mlm.de
 0.0.0.0 mmismm.com
+0.0.0.0 mmstat.com
 0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
 0.0.0.0 mobclix.com
@@ -2262,6 +2269,7 @@
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pushazer.com
 0.0.0.0 pushengage.com
 0.0.0.0 puzzlingfall.com
 0.0.0.0 px.dynamicyield.com
@@ -2457,6 +2465,7 @@
 0.0.0.0 simplisticnose.com
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sincerespy.com
+0.0.0.0 sinefight-skinesia.com
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
@@ -2786,6 +2795,7 @@
 0.0.0.0 variablefitness.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 ventivmedia.com
+0.0.0.0 verblife-3.co
 0.0.0.0 vericlick.com
 0.0.0.0 vertadnet.com
 0.0.0.0 veruta.com

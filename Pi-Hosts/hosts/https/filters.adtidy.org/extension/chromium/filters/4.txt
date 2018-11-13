@@ -1,8 +1,8 @@
-! Checksum: Kznwvg3jH62CKu4K3IBycw
+! Checksum: g8kcCh7F2h9Z2Tg2YLuYQw
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets (Like buttons and such)
-! Version: 2.0.6.43
-! TimeUpdated: 2018-11-09T21:04:28+00:00
+! Version: 2.0.6.44
+! TimeUpdated: 2018-11-12T15:07:05+00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#social
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -175,6 +175,7 @@
 !
 ! Contains usorted urls
 !
+||s3.feedly.com/img/follows/$third-party
 /wp-content/plugins/wpupper-share-buttons/*
 /wp-content/plugins/ultimate-social-media-plus/*
 ||st-hatena.com/js/bookmark_button_wo_al.js$third-party,domain=~hatena.com
@@ -4150,6 +4151,7 @@ translate.yandex.ru,translate.yandex.ua,translate.yandex.by,translate.yandex.com
 !+ NOT_OPTIMIZED
 ##.view_sns
 !
+~feedly.com##a[href^="https://feedly.com/i/subscription/"]
 ~vkrugudruzei.ru##a[href^="http://vkrugudruzei.ru/x/button?url="]
 ~hatena.com##.social-hatena
 ##.jw-sharing-dock-btn

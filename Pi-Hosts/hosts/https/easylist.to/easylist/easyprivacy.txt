@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201811120312
+! Version: 201811130330
 ! Title: EasyPrivacy
-! Last modified: 12 Nov 2018 03:12 UTC
+! Last modified: 13 Nov 2018 03:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1930,6 +1930,7 @@
 /js/quantcast-
 /js/sophus/*
 /js/tagging/tagtrack.js
+/js/targeting.js
 /js/tophits_
 /js/tracker.js
 /js/tracking.js
@@ -3405,6 +3406,7 @@
 /trackerGif?
 /TrackerHandler.
 /trackerpixel.js
+/trackers/hp_conversion-
 /trackerstatistik.
 /trackEvent.js?
 /trackEvent.min.js?
@@ -3464,6 +3466,7 @@
 /tracking/epixels.
 /tracking/events?
 /tracking/fingerprint/*
+/tracking/getty/*
 /tracking/impression/*
 /tracking/index.
 /tracking/log.php?
@@ -7825,6 +7828,7 @@ _mongo_stats/
 ||hiperstat.com^$third-party
 ||hitcountersonline.com^$third-party
 ||imetrix.it^$third-party
+||iolam.it^$third-party
 ||ipfrom.com^$third-party
 ||italianadirectory.com^$third-party
 ||keyxel.com^$third-party
@@ -10661,6 +10665,7 @@ _mongo_stats/
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
 ||httdev.it/e/c?
+||iol.it^*/clickserver.js
 ||livestats.matrix.it^
 ||log.superweb.ws^
 ||logger.kataweb.it^

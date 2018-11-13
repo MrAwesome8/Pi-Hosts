@@ -2967,7 +2967,6 @@
 0.0.0.0 a4wypa44-cbp.com;1
 0.0.0.0 a4zoq-sfy.com;1
 0.0.0.0 a5df.com
-0.0.0.0 a5ipzk79.com;1
 0.0.0.0 a5rz44y-j54.com;1
 0.0.0.0 a5w46.tk
 0.0.0.0 a6596az.net;1
@@ -11688,7 +11687,6 @@
 0.0.0.0 axillaruninstinctive.pw
 0.0.0.0 axinenavi.com;1
 0.0.0.0 axint.us;1
-0.0.0.0 axiom5ddg.top;1
 0.0.0.0 axiommeat.info;1
 0.0.0.0 axiompharmaceuticals.co.uk
 0.0.0.0 axisartistic.com;1
@@ -16393,7 +16391,6 @@
 0.0.0.0 bkfxsuf.tk
 0.0.0.0 bkgroup.org;1
 0.0.0.0 bkhepml-luj.com;1
-0.0.0.0 bkhs.info;1
 0.0.0.0 bkipjbv.tk
 0.0.0.0 bkirutyetdg.info;1
 0.0.0.0 bkiwfpxu.in;1
@@ -27053,7 +27050,6 @@
 0.0.0.0 clubfromsams.com
 0.0.0.0 clubfromsamz.com
 0.0.0.0 clubgain.com.br;1
-0.0.0.0 clubgreatprice.ru;1
 0.0.0.0 clubhotelier-nantes.fr
 0.0.0.0 clubkp777.eu
 0.0.0.0 clublipcud.com;1
@@ -42510,7 +42506,6 @@
 0.0.0.0 erubypalacemagic.com;1
 0.0.0.0 erubypalacenight.pl
 0.0.0.0 erubypowerclub.com;1
-0.0.0.0 eruditesd.top;1
 0.0.0.0 erugamijylow.tk
 0.0.0.0 eruniomal.xyz;1
 0.0.0.0 erunk.us;1
@@ -45234,7 +45229,6 @@
 0.0.0.0 fatultraburn.review;1
 0.0.0.0 faturadecobranca.com
 0.0.0.0 faturamento-novo2018.top
-0.0.0.0 faturasimplesltda.com
 0.0.0.0 faturix.us
 0.0.0.0 fatuufat.info;1
 0.0.0.0 fatwitter.ir
@@ -50021,7 +50015,6 @@
 0.0.0.0 fussexact.com;1
 0.0.0.0 fussv.us;1
 0.0.0.0 fussymail.com
-0.0.0.0 fustdj.tokyo
 0.0.0.0 fustierpew.com;1
 0.0.0.0 fustif.info;1
 0.0.0.0 fustress.net
@@ -61511,7 +61504,6 @@
 0.0.0.0 htosick.us
 0.0.0.0 htostab.us
 0.0.0.0 htpb-7unj-8dt6.shop
-0.0.0.0 htrfjnbf.org
 0.0.0.0 hts-pro.eu;1
 0.0.0.0 htshop.top;1
 0.0.0.0 htsmm.win;1
@@ -68349,8 +68341,6 @@
 0.0.0.0 jnwwrmqn.nl
 0.0.0.0 jnyccm.stream
 0.0.0.0 jnycly.bid;1
-0.0.0.0 jnytjmk.co
-0.0.0.0 jnytjmk.com
 0.0.0.0 joa-hardware.com;1
 0.0.0.0 joa-news.com;1
 0.0.0.0 joabsesweoork.com
@@ -77740,7 +77730,6 @@
 0.0.0.0 lonnieclaudia.asia;1
 0.0.0.0 lonnieronni.in;1
 0.0.0.0 lonny.ru
-0.0.0.0 lonofep.accountant
 0.0.0.0 lonrfax.net
 0.0.0.0 lonue.us
 0.0.0.0 looattract.com
@@ -83962,7 +83951,6 @@
 0.0.0.0 megahelper.su
 0.0.0.0 megahosterspro.org
 0.0.0.0 megahotclubvip.at
-0.0.0.0 megahotsale.ru;1
 0.0.0.0 megajet.fr
 0.0.0.0 megallegal.com.br
 0.0.0.0 megalotclubvip.at
@@ -86277,7 +86265,6 @@
 0.0.0.0 mnogokupit.ru
 0.0.0.0 mnoiv.site
 0.0.0.0 mnosh.us;1
-0.0.0.0 mnsi7rgtszw.com;1
 0.0.0.0 mnusmyg.com;1
 0.0.0.0 mnvrest.icu
 0.0.0.0 mnwudqj.tk
@@ -88364,7 +88351,6 @@
 0.0.0.0 mybrady.link;1
 0.0.0.0 mybrainboosterbetter.us
 0.0.0.0 mybrainiq.info;1
-0.0.0.0 mybrandlife.ru;1
 0.0.0.0 mybrandmarket.su
 0.0.0.0 mybrandtrade.ru;1
 0.0.0.0 mybrassring.us
@@ -89965,8 +89951,6 @@
 0.0.0.0 nazarsun.com;1
 0.0.0.0 nazirepp.com;1
 0.0.0.0 nb-90y-sps.com;1
-0.0.0.0 nb3qc.website
-0.0.0.0 nb3qcnow.online
 0.0.0.0 nb57ix9jq92oi.in
 0.0.0.0 nb5q1c8v.work
 0.0.0.0 nbabae.com;419
@@ -92547,7 +92531,6 @@
 0.0.0.0 nlwpmgc.tk
 0.0.0.0 nlynik.bid;1
 0.0.0.0 nlyw-twhc-ik5n.shop
-0.0.0.0 nm-wvc-kqt.net;1
 0.0.0.0 nm5yf3jr.biz
 0.0.0.0 nmagraj.date
 0.0.0.0 nmaoweaszac.com
@@ -94357,7 +94340,6 @@
 0.0.0.0 oarteliterubygrand.pl
 0.0.0.0 oaryn.us;1
 0.0.0.0 oascurb.us
-0.0.0.0 oaseattle.info;1
 0.0.0.0 oasf.info;1
 0.0.0.0 oasispromo1.in;1
 0.0.0.0 oasispromo3.in;1
@@ -99079,7 +99061,6 @@
 0.0.0.0 parkerbridgetv.com
 0.0.0.0 parkerderrik.ru
 0.0.0.0 parkerepbvmk.eu
-0.0.0.0 parketacentrs.info;1
 0.0.0.0 parkourn.com
 0.0.0.0 parkplatzsexforum.org
 0.0.0.0 parksdzhasper.ru
@@ -116876,7 +116857,6 @@
 0.0.0.0 service-mail.co.za
 0.0.0.0 service-mashaheed.com
 0.0.0.0 service-msolle.com
-0.0.0.0 service-onbools.com
 0.0.0.0 service-paypale.com;1
 0.0.0.0 service-siglinde-kraus.com
 0.0.0.0 service-zerbct.com
@@ -118289,7 +118269,6 @@
 0.0.0.0 shopgiftsjcp.com
 0.0.0.0 shopgj.biz;1
 0.0.0.0 shopgooda.cc
-0.0.0.0 shopgreat.su
 0.0.0.0 shopguccihandbagjp.com
 0.0.0.0 shopguccijapan.org
 0.0.0.0 shopguccijp.com
@@ -127420,7 +127399,6 @@
 0.0.0.0 technologydata-provider.com
 0.0.0.0 technologyenglish.com
 0.0.0.0 technologyview.us
-0.0.0.0 technomanagement.info;1
 0.0.0.0 technoplaneta.com;1
 0.0.0.0 technopri.me
 0.0.0.0 technord-gree.ru

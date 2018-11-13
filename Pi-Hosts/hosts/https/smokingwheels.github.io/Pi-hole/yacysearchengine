@@ -51462,7 +51462,7 @@
 0.0.0.0 zen.2miners.com
 0.0.0.0 FooterAd
 0.0.0.0 pagebottomAd
-0.0.0.0 localhost
+::1 localhost #IPv6 localhost
 0.0.0.0 .uniAdBox
 0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kalender-365.de
 0.0.0.0 /_werbung/*

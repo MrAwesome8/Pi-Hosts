@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xq1z2xy1z3JtWp6RPcC9qw
-! Version: 201811120452
+! Checksum: Pcd29d+uXLUGb8dHsiHHdg
+! Version: 201811130702
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 12 Nov 2018 04:52 UTC
+! Last Modified: 13 Nov 2018 07:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -980,6 +980,7 @@ ubmcmm.baidustatic.com
 ||189.gd^*.html$third-party
 ||18tzx.com^
 ||1999sg.com^
+||1d1a.com^
 ||1d1px.net^
 ||1i580.com^
 ||1kmb.cn^
@@ -2565,6 +2566,7 @@ ubmcmm.baidustatic.com
 ||wcnmd.top^
 ||wdzsb.com.cn^
 ||weareqy.com^$third-party
+||webofxm.cn^
 ||weddingeeos.com^$third-party
 ||weihuiyungou.com^
 ||weiqiqu.cn^
@@ -3266,6 +3268,7 @@ mg*.6park.com/img/$image
 ||2ccc.com/images/show/
 ||2ccc.com/images/sino.gif
 ||2ccc.com/images/WebXone.gif
+||2cq.com/third/tieba/sidebar
 ||2ujj.com/js/bo.js
 ||2zzt.com/images/
 ||310v.com/images/lingdai.gif
@@ -4428,6 +4431,7 @@ mg*.6park.com/img/$image
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dhzw.org/m-
 ||dianmi.net/tj/tj1.js
+||dianyingbar.com/api/get.json
 ||dichan.com.au/newhouse/pinnacle/images/bcastr3.swf
 ||diediao.com/js/loading.html
 ||dig.chouti.com/advert
@@ -5302,6 +5306,7 @@ mg*.6park.com/img/$image
 ||ioio.cc*/dm/*.swf
 ||ioio.cc/adtui/
 ||ip-cdn.com/img/a_
+||ip-cdn.com/img/jd_
 ||ip38.qiniudn.com/js/zzsc.js
 ||ipeen.com.tw/js/frame/ad-actions.js
 ||ipeen.com.tw/photo/ad/
@@ -7040,6 +7045,7 @@ mg*.6park.com/img/$image
 ||ygdy8.com/jsy/
 ||ygdy8.net/js1/
 ||yibo5.cn/img0
+||yigujin.cn/tp/abc/*yun
 ||yikeyz.com/pm.js
 ||yimg.com/bf/homerun/ysm_
 ||yimg.com/cv/ae/default/*_STATIC-JPEG_
@@ -7223,6 +7229,7 @@ mg*.6park.com/img/$image
 ||zp365.com/newImages/201*.swf
 ||zpgjz.com/cdn/new1/4.gif
 ||zpiyi.com/public/js/global.js
+||zqzqbf.com:3389/da.aspx
 ||zrblog.net/zanzhu/
 ||zsjjob.com/user/member/google.htm
 ||zsnews.cn/js/adControl-
@@ -7231,6 +7238,8 @@ mg*.6park.com/img/$image
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||zuiacg.com/images/client/
 ||zuidaima.com/images/1/201606/20160616135714978.
+||zuixingkong.com/gao/
+||zuixingkong.com^*mygg/
 ||zuoche.com/promo/*.jspx
 ||zwwooooo.com/images/hengtian.
 ||zxip.com/2013_ad/
@@ -7243,10 +7252,8 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||dianyingbar.com/api/get.json
-||zqzqbf.com:3389/da.aspx
+||lancdn.com^*/uneed
 !------------------------Specific element hiding rules------------------------!
-dianyingbar.com###sidebar-quan
 szxx.com.cn###A0
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -8111,7 +8118,7 @@ qqjia.com###myadsL
 javjunkies.com###naked-ad
 narutom.com###naruto_desk
 28188.com,28188.net,yxad.com###nav
-ccav1.com###nav-menu > ul > .menu-item > a[href^="http"]:not([href*="://www.ccav1."])
+ccav1.com###nav-menu > ul > .menu-item > a[href^="http"]:not([href*="yigujin."])
 cctime.com###nav_banner
 tgbus.com###neck_970
 40407.com###nei_fmt
@@ -8343,9 +8350,11 @@ iplaysoft.com###sidebar > ul > .widget:first-child
 iplaysoft.com###sidebar > ul > .widget:nth-child(3)
 ipcfun.com###sidebar > ul > div[style]
 ipcfun.com###sidebar > ul > li[style]
+yigujin.cn###sidebar img[src*="/abc/"]
 xici.net###sidebar-bd > #pbox:last-child
 elecfans.com###sidebar-firstad
 gaoqing.la###sidebar-follow
+dianyingbar.com###sidebar-quan
 jobbole.com###sidebar-recommend
 vikilife.com###sidebar-tab[style^="height:"]
 iplaysoft.com###sidebar_scroll_bdad
@@ -11041,7 +11050,6 @@ ifeng.com##[id^="cl"]
 sinolub.com##[id^="xker"]
 kisssub.org##a > img[src*=".0o0.ooo/"]
 5dm.tv##a > img[src*=".sinaimg."]
-yigujin.cn##a > img[src*="/abc/"]
 ruanyifeng.com##a > img[src*="wangbase.com/blogimg/asset/"]
 acgnx.se##a > img[src^="/images/"]
 doub.io##a > img[src^="https://img.doub.pw/thumbs/"]
@@ -11071,7 +11079,7 @@ qu.la##a[href*=".350.com"]
 iav77.com##a[href*=".77av.net"]
 163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 ip.cn##a[href*=".ali"]
-techweb.com.cn##a[href*=".aliyun.com/"]
+techweb.com.cn##a[href*=".aliyun.com"]
 iqiyi.com##a[href*=".banggo."]
 zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
 backchina.com##a[href*=".cardbenefit.com/"]
@@ -11172,6 +11180,7 @@ fx112.com##a[href^="/union."]
 muchong.com##a[href^="adlog."] > img[height="90"]
 muchong.com##a[href^="adlog.php?adid="]
 muchong.com##a[href^="alog.php?id="]
+yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/abc/"]
 chapaofan.com##a[href^="http"]:not([href*=".chapaofan."]) > img[src*=".sinaimg."]
 css88.com##a[href^="http"]:not([href*=".css88.com"]) > img
 jrzj.com##a[href^="http"]:not([href*=".jrzj."]) > img[src^="https://img."]
@@ -11895,6 +11904,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||5w8s.com/myads/img/otherwp.gif
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -12289,7 +12299,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||piccool.com/2home/phpAdsNew/
 @@||pigol.cn/myinc/js/wap.js
 @@||pinduoduo.com/advert/$~third-party
-@@||poedb.tw/js/ads.js
+@@||poedb.tw/js/
 @@||popart.hk/newweb/$generichide
 @@||pos.baidu.com^$script,domain=www.pctowap.com
 @@||pos.baidu.com^*?di=1147177&$domain=fxpan.com
@@ -13857,6 +13867,7 @@ duanwenxue.com##.qgzdwx
 ||kxhie.com^
 ||kyxnz.cn^
 ||kz8tr2.cn^
+||l9c4s.cn^
 ||lanhouhou.cn^
 ||laojiayoufang.com^
 ||layyi.com^

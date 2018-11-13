@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z4Fb3X1p2d0hN/F5zcocSQ
-! Version: 201811120500
+! Checksum: LfePER3j7f7CE24W8B3Kaw
+! Version: 201811130710
 ! Title: Adblock Warning Removal List
-! Last modified: 12 Nov 2018 05:00 UTC
+! Last modified: 13 Nov 2018 07:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 !

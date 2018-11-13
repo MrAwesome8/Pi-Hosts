@@ -1,4 +1,4 @@
-# Last Update: Sun Nov 11 06:27:26 EST 2018
+# Last Update: Mon Nov 12 10:59:51 EST 2018
 #
 # sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org. -Made In USA-
 # Blacklists by Squidblacklist.org are licensed under a creative commons attribution-noderivatives 4.0 international license.
@@ -342,7 +342,6 @@
 0.0.0.0 adisn.com
 0.0.0.0 adition.com
 0.0.0.0 adition.de
-0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adit-media.com
 0.0.0.0 adizio.com
@@ -612,6 +611,7 @@
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.ayads.co
 0.0.0.0 adsb4track.com
+0.0.0.0 ads.beenetworks.net
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
@@ -1770,7 +1770,6 @@
 0.0.0.0 click4free.info
 0.0.0.0 clickability.com
 0.0.0.0 clickable.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 clickad.pl
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -2565,6 +2564,7 @@
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
 0.0.0.0 jque.net
+0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 js.users.51.la
@@ -2877,6 +2877,7 @@
 0.0.0.0 monkeybroker.net
 0.0.0.0 monsoonads.com
 0.0.0.0 monsterpops.com
+0.0.0.0 mootermedia.com
 0.0.0.0 moritava.com
 0.0.0.0 motrixi.com
 0.0.0.0 mottnow.com
@@ -3111,7 +3112,6 @@
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pageranktop.com
 0.0.0.0 pagerank-united.de
-0.0.0.0 pagesinxt.com
 0.0.0.0 paidonresults.net
 0.0.0.0 paidsearchexperts.com
 0.0.0.0 pakbanners.com
@@ -3417,7 +3417,6 @@
 0.0.0.0 revenue.com
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuegiants.com
-0.0.0.0 revenuehits.com
 0.0.0.0 revenuemantra.com
 0.0.0.0 revenuemax.de
 0.0.0.0 revenue.net

@@ -16647,7 +16647,7 @@
 0.0.0.0 verticalnetwork.de/scripts/*/supb.js
 0.0.0.0 ci3ixee8.com^$third-party
 0.0.0.0 track.xtrasize.nl^$third-party
-0.0.0.0 localhost
+::1 localhost #IPv6 localhost
 0.0.0.0 adbars.net^$third-party
 0.0.0.0 authedmine.eu
 0.0.0.0 youporn.com^$subdocument,~third-party

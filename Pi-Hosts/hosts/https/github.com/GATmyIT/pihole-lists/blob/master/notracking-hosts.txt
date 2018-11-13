@@ -13,7 +13,7 @@
 # addn-hosts=/path/to/hostnames.txt
 ###############################[LOCALHOST]###############################
 0.0.0.0 localhost
-0.0.0.0 localhost
+::1 localhost
 ###############################[HOSTNAMES]###############################
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com

@@ -44,7 +44,7 @@
 # or C:\Windows\System32\drivers\etc\hosts
 
 0.0.0.0 localhost
-0.0.0.0 localhost
+::1 localhost #[IPv6]
 
 # START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 0.0.0.0 000free.us

@@ -4,7 +4,7 @@
 # This file will NOT protect you against malicious domains
 #
 0.0.0.0 localhost
-0.0.0.0 localhost
+::1 localhost #IPv6 localhost
 #
 # AD SERVERS START HERE
 #
