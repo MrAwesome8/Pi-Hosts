@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace Pi_Hosts {
+
     internal class TreeNode<T> : IComparable<TreeNode<T>> where T : IComparable<T> {
         public SortedSet<TreeNode<T>> Children { get; } = new SortedSet<TreeNode<T>>();
 
@@ -21,10 +22,8 @@ namespace Pi_Hosts {
         public TreeNode<T> AddChild(T item) {
             var existingChild = GetChildWith(item);
             if (existingChild == null) {
-                TreeNode<T> nodeItem = new TreeNode<T>(item);
-                nodeItem.Parent = this;
-                lock (Children)
-                    Children.Add(nodeItem);
+                TreeNode<T> nodeItem = new TreeNode<T>(item) { Parent = this };
+                lock (Children) Children.Add(nodeItem);
                 return nodeItem;
             }
             return existingChild;
@@ -40,7 +39,7 @@ namespace Pi_Hosts {
                 indent += "| ";
             }
             Console.WriteLine(Item);
-            
+
             for (int i = 0; i < Children.Count; ++i) {
                 Children.ElementAt(i).Print(indent, i == Children.Count - 1);
             }
@@ -63,5 +62,6 @@ namespace Pi_Hosts {
         }
 
         public int CompareTo(TreeNode<T> other) => this.Item.CompareTo(other.Item);
+        
     }
 }

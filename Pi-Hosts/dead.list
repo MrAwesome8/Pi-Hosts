@@ -1,6 +1,4 @@
 http://localhost/adblock.hosts
-http://malwaredomains.lehigh.edu/files/BOOT
-http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 https://adzhosts.fr/hosts/adzhosts-mac-linux.txt
 https://gist.github.com/CHEF-KOCH/080efada22b9659ef61241029122873b
 https://gist.github.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1
@@ -23,15 +21,4 @@ https://github.com/StevenBlack/hosts/blob/master/data/SpotifyAds/hosts
 https://github.com/StevenBlack/hosts/blob/master/data/tyzbit/hosts
 https://github.com/TechPatriot/blocklist/blob/master/msm_list.txt
 https://github.com/ZeroDot1/CoinBlockerLists/blob/master/hosts
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/emd.txt
-https://hosts-file.net/exp.txt
-https://hosts-file.net/fsa.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/mmt.txt
-https://hosts-file.net/pha.txt
-https://hosts-file.net/psh.txt
-https://hosts-file.net/pup.txt
-https://hosts-file.net/wrz.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt

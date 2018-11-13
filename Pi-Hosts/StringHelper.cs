@@ -6,20 +6,36 @@ namespace Pi_Hosts {
 
     internal static class StringHelper {
 
+        public static bool Exists(this string value) => !string.IsNullOrEmpty(value) && !string.IsNullOrWhiteSpace(value);
+
+        public static string GetNormalGithub(string raw) {
+            if (raw.Contains("gist.githubusercontent")) {
+                return raw.Substring(0, raw.IndexOf("/raw/")).Replace("gist.githubusercontent", "gist.github");
+            }
+            return raw.Replace("raw.githubusercontent", "github").Replace("/master", "/blob/master");
+        }
+
+        public static int GetOccuranceCount(string src, string sub) => (src.Length - src.Replace(sub, "").Length) / sub.Length;
+
+        public static string GetRawGithub(string normal) {
+            if (normal.Contains("gist.github")) {
+                return $"{normal}/raw";
+            }
+            return normal.Replace("blob/", "raw/");
+        }
+
         public static bool IsValid(this string url) {
             using (var client = new MyClient()) {
                 client.HeadOnly = true;
                 try {
-                    client.DownloadString(url);
+                    client.DownloadString(url); //head only prevents page from being downloaded fully
                     return true;
                 } catch (Exception e) {
-                    //Console.WriteLine($"{e.Message} on {url}");
+                    Console.WriteLine($"{e.Message} on {url}");
                     return false;
                 }
             }
         }
-
-        public static bool Exists(this string value) => !string.IsNullOrEmpty(value) && !string.IsNullOrWhiteSpace(value);
 
         public static string NormalizeUrl(this string url) {
             url = url.Trim().TrimEnd('/');
@@ -39,20 +55,6 @@ namespace Pi_Hosts {
             }
 
             return url;
-        }
-
-        public static string GetNormalGithub(string raw) {
-            if (raw.Contains("gist.githubusercontent")) {
-                return raw.Substring(0, raw.IndexOf("/raw/")).Replace("gist.githubusercontent", "gist.github");
-            }
-            return raw.Replace("raw.githubusercontent", "github").Replace("/master", "/blob/master");
-        }
-
-        public static string GetRawGithub(string normal) {
-            if (normal.Contains("gist.github")) {
-                return $"{normal}/raw";
-            }
-            return normal.Replace("blob/", "raw/");
         }
 
         //https://stackoverflow.com/a/16901426
