@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Pcd29d+uXLUGb8dHsiHHdg
-! Version: 201811130702
+! Checksum: gyKajPuEpW2Q+hUWqbBRKQ
+! Version: 201811150713
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 Nov 2018 07:02 UTC
+! Last Modified: 15 Nov 2018 07:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -791,6 +791,7 @@ _xiuno_com_ad/
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||maxfull.info^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -1020,6 +1021,7 @@ ubmcmm.baidustatic.com
 ||2d-c.cn^
 ||2f.com^$third-party
 ||2m2n.com^
+||31365y.com^
 ||321tui.cn^$third-party
 ||321tui.com^$third-party
 ||32414.com^$third-party
@@ -1678,6 +1680,7 @@ ubmcmm.baidustatic.com
 ||game3737.com^$third-party
 ||gamecps.com^$third-party
 ||gameone.com^$third-party
+||gangtiebang.net^
 ||gansha.co^$third-party
 ||gaoxiaocup.com^
 ||gclick.cn^$third-party
@@ -2327,6 +2330,7 @@ ubmcmm.baidustatic.com
 ||shbywsd.cn^
 ||shenyian.net^
 ||shiftrro.com^
+||shkywh.com^
 ||sho9wbox.com^$third-party
 ||show.kc.taotaosou.com^
 ||shucaihangjia.com^
@@ -2952,7 +2956,6 @@ ubmcmm.baidustatic.com
 /biz_icon/*$domain=cs090.com|wm090.com
 /cari/banner/*
 /cari/daybanner/*
-/da.aspx|$domain=live8bo.com|live8bo.net|live8bo1.com|zqzq.com
 /dealer1.gif$domain=oldpig.org
 /dhfun_ad/*
 /dzwww/ad_dzw_inner.js
@@ -3548,6 +3551,7 @@ mg*.6park.com/img/$image
 ||88gs.com/agfile/
 ||88liu.com/data/attachment/portal/
 ||88ys.ml/ad/
+||8bo.com/template/default/8bo/j/app.js
 ||8d8d.me/images/dealer.gif
 ||8jkx.com^
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
@@ -5274,6 +5278,7 @@ mg*.6park.com/img/$image
 ||img2.titan007.com^
 ||img2.win007.com/image/*.jpg
 ||img588.net/images/*.gif
+||img599.net^$domain=18board.com|18p2p.com
 ||imgadsame.liba.com^
 ||imgbus.com^$domain=88files.net
 ||imgchili.net/media/image*.gif
@@ -5379,7 +5384,7 @@ mg*.6park.com/img/$image
 ||itopdog.cn/itopdog/d*.js
 ||ituba.cc/uploads/allimg/201610/603/
 ||itv.hexun.com
-||iviewui.com/v1/asd/
+||iviewui.com/v1/asd
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
 ||iyaxin.com^*/o.js
@@ -5590,6 +5595,7 @@ mg*.6park.com/img/$image
 ||lancdn.com^*/Apple_
 ||lancdn.com^*/cp-lz-
 ||lancdn.com^*/LinuxProbe_
+||lancdn.com^*/uneed
 ||lancdn.com^*/wisecare
 ||language-center.com.tw/udn/
 ||langxi.org/langxi/*900$image,object
@@ -6505,6 +6511,8 @@ mg*.6park.com/img/$image
 ||sootoo.com/son_media/msg/2010/11/16/30324.jpg
 ||sopan.me/images/1.gif
 ||soufunimg.com/imgd/viewimage/*/640x210
+||souid.com/images/css/123.js
+||souid.com/templets/js/sougg.js
 ||soulu365.com/images/zhuce.jpg
 ||south-plus.*/images/men
 ||southmoney.com/page/pc/
@@ -6685,6 +6693,7 @@ mg*.6park.com/img/$image
 ||tui22.com/b/
 ||tui22.com/cc/
 ||tumb8r.com/zb_users/upload/20*.gif
+||turnpage.com/image/product/common/appcgn.png
 ||tuwan.com/myad/
 ||tuyiyi.com/images/zone/201706/1-1F62G232310-L.png
 ||tv1box.com/Runtime/Js/
@@ -7180,6 +7189,7 @@ mg*.6park.com/img/$image
 ||zhimg.com^*_600x250
 ||zhiys.com/img_new/mobilemo2.jpg
 ||zhongyi.ifeng.com/a/zt.js
+||zhongyoo.com/img/js/tongji.js
 ||zhongzijun.com/js/adurl.js
 ||zhuashi.oss-cn-beijing.aliyuncs.com^
 ||zhuji.net/2007_ad/
@@ -7229,7 +7239,7 @@ mg*.6park.com/img/$image
 ||zp365.com/newImages/201*.swf
 ||zpgjz.com/cdn/new1/4.gif
 ||zpiyi.com/public/js/global.js
-||zqzqbf.com:3389/da.aspx
+||zqzq*.com:*/da.aspx
 ||zrblog.net/zanzhu/
 ||zsjjob.com/user/member/google.htm
 ||zsnews.cn/js/adControl-
@@ -7252,7 +7262,6 @@ mg*.6park.com/img/$image
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||lancdn.com^*/uneed
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -10067,6 +10076,7 @@ myexception.cn##.m_a
 lgn.yy.com##.m_left
 163.com##.m_papa
 hupu.com##.m_text_ad
+8bo.com##.mad
 hupu.com##.maibghref
 th7.cn##.main > .mb5
 firefox.com.cn,firefoxchina.cn##.main-promote-sites
@@ -11904,7 +11914,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
-@@||5w8s.com/myads/img/otherwp.gif
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=cnprint.org|huhupan.com|rjno1.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -12010,6 +12019,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||58huanbao.com/skin/defaultcs2660/images/ad
 @@||590103.idv.tw/advertisement.js
 @@||5w8.me/myads/img/thunder
+@@||5w8s.com/myads/img/otherwp.gif
 @@||5w8s.com^*/thunder$image
 @@||61.164.108.104:4275/*/*.gif
 @@||61.164.108.184/tb/*.gif
@@ -12568,7 +12578,7 @@ jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ###container > .item.title_top
 ###container > .wrapper > .fl
 ###container > a.block
-###container > a.item
+###container.container > a.item
 ###cpro_container
 ###img-txt-wrapper > #title_desc_div
 ###wrapper > div[style="padding:3px;"] > #pic
@@ -13230,7 +13240,7 @@ jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ##.footer > #box[style="width:100%;height:100%;position:fixed;top:0"]
 ##a[href*=".gotourls.bid"]
 ##a[href^="http://yunbofangbt."]
-|http*://$script,subdocument,third-party,xmlhttprequest,domain=alicili.me|btdiggs.net|btlibrary.xyz|cilidaquan.co|cilidb.net|cilifanhao.co|cnbtkitty.me|cnbtspread.xyz|cntorrentkitty.org|diggbts.xyz|feifeibt.org|kikibt.cc|nanrenbt.cc|renrencili.cc|savebt.cc|storebt.co|storetorrents.com|torrentsearchweb.cc|torrentsearchweb.pw|zhainanbt.org|zhongzicili.xyz|zhongzifuli.me|zhongzishenqi.co|zhongzishenqi.net
+|http*://$script,subdocument,third-party,xmlhttprequest,domain=alicili.me|btdiggs.net|btlibrary.xyz|cilidaquan.co|cilidb.net|cilifanhao.co|cnbtkitty.me|cnbtkitty.pw|cnbtspread.xyz|cntorrentkitty.org|diggbts.xyz|feifeibt.cc|kikibt.cc|nanrenbt.cc|renrencili.cc|savebt.cc|storebt.co|storetorrents.com|torrentsearchweb.cc|torrentsearchweb.pw|zhainanbt.org|zhongzicili.xyz|zhongzifuli.me|zhongzishenqi.co|zhongzishenqi.net
 ||0377shujuhuifu.top^
 ||0531mnk.net^
 ||2013sh.com^
@@ -13249,6 +13259,7 @@ jandan.net,jintang114.org,makepolo.com,wayqq.cn##iframe[src*="?"]
 ||cdxyb.cn^
 ||chinahdcm.com^
 ||dfcwg.com^
+||dsgy521.com^
 ||dupinpu.com^
 ||enyayinxiang.com^
 ||etg98.com^
@@ -13527,6 +13538,7 @@ duanwenxue.com##.qgzdwx
 ||114com.cc^
 ||118ex.cn^
 ||1mb034.cn^
+||1x26q3.cn^
 ||23txt.com^$third-party
 ||24haitao.net^
 ||2r3485.cn^
@@ -14187,6 +14199,7 @@ duanwenxue.com##.qgzdwx
 ||zgfszs.com^
 ||zgjjkk.com^
 ||zgjkv.com^
+||zgncpjyw.cn^
 ||zgsxhx.com^
 ||zhenben.cc/2000/
 ||zhfyws.com^

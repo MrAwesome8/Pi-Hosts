@@ -11,7 +11,6 @@
 0.0.0.0 ya-googl.ws
 0.0.0.0 q2melbourne.com
 0.0.0.0 bohoth.com
-0.0.0.0 dusmin.com
 0.0.0.0 www26.llbb88.com
 0.0.0.0 buyonshop.com
 0.0.0.0 selak.info
@@ -28,7 +27,6 @@
 0.0.0.0 buthoprus.narod.ru
 0.0.0.0 sisters.truyen24h.info
 0.0.0.0 akshatadesigns.in
-0.0.0.0 sorclan.za.pl
 0.0.0.0 wtr1.ru
 0.0.0.0 ziejpzrv.cz.cc
 0.0.0.0 dog.halfbirthdayproducts.com
@@ -36,7 +34,6 @@
 0.0.0.0 kele1688.web23.badudns.cc
 0.0.0.0 b54.in
 0.0.0.0 dwcreations.net
-0.0.0.0 brandschutztechnik-hartmann.de
 0.0.0.0 xobjzmhopjbboqkmc.com
 0.0.0.0 jefaerosol.free.fr
 0.0.0.0 daguogroup.com
@@ -44,21 +41,19 @@
 0.0.0.0 cheapness.byefelicia.fr
 0.0.0.0 prosperity.charifree.org
 0.0.0.0 sicken.cede.cl
-0.0.0.0 lavoixdesmots.free.fr
 0.0.0.0 981718.cn
+0.0.0.0 lavoixdesmots.free.fr
 0.0.0.0 lectscalimertdr43.land.ru
 0.0.0.0 lem-computers.net
 0.0.0.0 pcbangv.com
 0.0.0.0 sgruber.com.br
 0.0.0.0 5-g.cn
-0.0.0.0 junshi366.com
 0.0.0.0 wypromuj.nazwa.pl
 0.0.0.0 faloge.com
 0.0.0.0 czmlfc.sxtm30.badudns.cc
 0.0.0.0 818tl.com
 0.0.0.0 ghidneamt.ro
 0.0.0.0 yttestsite.com
-0.0.0.0 xxxporno18.ru
 0.0.0.0 gqwhyjh.com
 0.0.0.0 seopoint.com
 0.0.0.0 kineclick.free.fr
@@ -68,13 +63,11 @@
 0.0.0.0 pattayabazaar.com
 0.0.0.0 behave.nualias.com
 0.0.0.0 vstart.net
-0.0.0.0 dfclamp.com
 0.0.0.0 downlaod.vstart.net
 0.0.0.0 downlaod1.vstart.net
 0.0.0.0 laos.luangprabang.free.fr
 0.0.0.0 dinkelbrezel.de
 0.0.0.0 druming.free.fr
-0.0.0.0 nexprice.com
 0.0.0.0 720movies.net
 0.0.0.0 accurate.gutterhalment.com
 0.0.0.0 fas.nirmala.life
@@ -107,7 +100,6 @@
 0.0.0.0 banana.automaxcenter.ro
 0.0.0.0 reflexonature.free.fr
 0.0.0.0 remyyadan.online.fr
-0.0.0.0 vasfagah.ru
 0.0.0.0 myfileupload.ru
 0.0.0.0 rogersandstephens.com
 0.0.0.0 yixingim.com
@@ -115,8 +107,8 @@
 0.0.0.0 ideamasale.com
 0.0.0.0 191gm.com
 0.0.0.0 cow.gutterheaters.org
-0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 ecdlszczecin.eu
+0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 gotoip55.com
@@ -126,7 +118,6 @@
 0.0.0.0 sushischool.ru
 0.0.0.0 llbb88.com
 0.0.0.0 regis.foultier.free.fr
-0.0.0.0 elite-bijou.com.ua
 0.0.0.0 vrot.stervapoimenialena.info
 0.0.0.0 junggomania.nefficient.co.kr
 0.0.0.0 choongmoosports.co.kr

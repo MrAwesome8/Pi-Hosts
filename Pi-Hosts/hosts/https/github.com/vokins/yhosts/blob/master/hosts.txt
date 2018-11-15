@@ -18,43 +18,6 @@
 0.0.0.0 iadctest.qwapi.com
 #MicroSoft
 0.0.0.0 ieonline.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 watson.live.com
-0.0.0.0 choice.microsoft.com.nsatc.net
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net
-0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0 df.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
-0.0.0.0 services.wes.df.telemetry.microsoft.com
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 bingads.microsoft.com
-0.0.0.0 choice.microsoft.com
-0.0.0.0 corp.sts.microsoft.com
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0 diagnostics.support.microsoft.com
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 settings-sandbox.data.microsoft.com
-0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.ws.microsoft.com
-0.0.0.0 survey.watson.microsoft.com
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 www.bingads.microsoft.com
 0.0.0.0 @direct/3rd
 #acdsee
 0.0.0.0 acdid.acdsystems.com
@@ -772,7 +735,6 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 bdsp.x.jd.com
-0.0.0.0 ccc-x.jd.com
 0.0.0.0 cm.jd.com
 0.0.0.0 gia.jd.com
 0.0.0.0 im-x.jd.com
@@ -825,14 +787,83 @@
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 vcdn.adnxs.com
-#msn
-0.0.0.0 ads1.msads.net
-0.0.0.0 mobileads.msn.com
-0.0.0.0 c.msn.com
-0.0.0.0 otf.msn.com
+#bing
+0.0.0.0 telemetry.appex.bing.net
 #linkedin.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
+#live.com
+0.0.0.0 analytics.live.com
+0.0.0.0 c.live.com
+0.0.0.0 digg.analytics.live.com
+0.0.0.0 ms.analytics.live.com
+0.0.0.0 watson.live.com
+#microsoft.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 crl.microsoft.com
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 www.bingads.microsoft.com
+#msads.net
+0.0.0.0 a.global.msads.net
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads2.msads.net
+0.0.0.0 global.msads.net
+#msn.com
+0.0.0.0 0.r.msn.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 ac3.msn.com
+0.0.0.0 ads.eu.msn.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msn.com
+0.0.0.0 ads2.msn.com
+0.0.0.0 adsyndication.msn.com
+0.0.0.0 analytics.msn.com
+0.0.0.0 analytics.r.msn.com
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 c.msn.com
+0.0.0.0 c.msn.com.cn
+0.0.0.0 catalog.video.msn.com
+0.0.0.0 h.msn.com
+0.0.0.0 mobileads.msn.com
+0.0.0.0 otf.msn.com
+0.0.0.0 popup.msn.com
+0.0.0.0 r.msn.com
+0.0.0.0 rmads.eu.msn.com
+0.0.0.0 rmads.msn.com
+0.0.0.0 toolbar.msn.com
+#nsatc.net
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 #mstat/report
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 android.rqd.qq.com
@@ -1199,7 +1230,6 @@
 0.0.0.0 img.x.jd.com
 0.0.0.0 jrclick.jd.com
 0.0.0.0 stat.m.jd.com
-0.0.0.0 union-click.jd.com
 0.0.0.0 @errorpage/click
 0.0.0.0 go.fcwr8.com
 0.0.0.0 pro.yyhudong.com
@@ -2627,6 +2657,24 @@
 0.0.0.0 www.kiaokuayoutui.com
 0.0.0.0 xvyljkr.com
 0.0.0.0 alifixed.cn
+0.0.0.0 vsqf.nal5h.cn
+0.0.0.0 xzc.wxgctz.com
+0.0.0.0 e.gtuoj.com
+0.0.0.0 m.dsgy521.com
+0.0.0.0 m.gtuoj.com
+0.0.0.0 m.wbanv.com
+0.0.0.0 m.ysgsq.cn
+0.0.0.0 photo.zgncpjyw.cn
+0.0.0.0 pwbs.l9c4s.cn
+0.0.0.0 u.qijads.com
+0.0.0.0 www.kngcjx.com
+0.0.0.0 www.shkywh.com
+0.0.0.0 www.whxhhjx.com
+0.0.0.0 xffg.1x26q3.cn
+0.0.0.0 m.czxjx.cn
+0.0.0.0 img.sxcol.cn
+0.0.0.0 aff.simibo.net
+0.0.0.0 xingmengxia.cn
 #https://m.micaitu.com/
 0.0.0.0 m.ilancc.com
 0.0.0.0 y.ilancc.com
@@ -5301,13 +5349,6 @@
 0.0.0.0 syndication.intel.com
 0.0.0.0 www.cnetdirectintl.com
 0.0.0.0 www91.intel.com
-#live.com
-0.0.0.0 analytics.live.com
-0.0.0.0 c.live.com
-0.0.0.0 digg.analytics.live.com
-0.0.0.0 ms.analytics.live.com
-0.0.0.0 watson.live.com
-0.0.0.0 msnportal.112.2o7.net
 #lycos.com
 0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 ads.tripod.lycos.de
@@ -5324,33 +5365,6 @@
 0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 fe.lea.lycos.co.uk
 0.0.0.0 hit.webcentre.lycos.co.uk
-#msn.com
-0.0.0.0 ads1.msn.com
-0.0.0.0 0.r.msn.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 ac3.msn.com
-0.0.0.0 ads.eu.msn.com
-0.0.0.0 ads.msn.com
-0.0.0.0 ads2.msn.com
-0.0.0.0 adsyndication.msn.com
-0.0.0.0 analytics.msn.com
-0.0.0.0 analytics.r.msn.com
-0.0.0.0 b.ads1.msn.com
-0.0.0.0 ads.ninemsn.com.au
-0.0.0.0 c.msn.com.cn
-0.0.0.0 catalog.video.msn.com
-0.0.0.0 h.msn.com
-0.0.0.0 popup.msn.com
-0.0.0.0 r.msn.com
-0.0.0.0 rmads.eu.msn.com
-0.0.0.0 rmads.msn.com
-0.0.0.0 toolbar.msn.com
-0.0.0.0 a.global.msads.net
-0.0.0.0 ads2.msads.net
-0.0.0.0 global.msads.net
-0.0.0.0 crl.microsoft.com
-0.0.0.0 watson.microsoft.com
 #playboy.com
 0.0.0.0 ads.playboy.com
 0.0.0.0 pei-ads.playboy.com

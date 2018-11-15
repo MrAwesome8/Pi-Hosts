@@ -3375,6 +3375,7 @@
 0.0.0.0 hiperstat.com
 0.0.0.0 hitcountersonline.com
 0.0.0.0 imetrix.it
+0.0.0.0 iolam.it
 0.0.0.0 ipfrom.com
 0.0.0.0 italianadirectory.com
 0.0.0.0 keyxel.com
@@ -3946,6 +3947,7 @@
 0.0.0.0 cr.loszona.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 csp.archant.co.uk
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.needlive.com

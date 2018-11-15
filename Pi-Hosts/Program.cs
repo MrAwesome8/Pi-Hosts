@@ -21,21 +21,74 @@ namespace Pi_Hosts {
         private const string BackupListPath = "backup.list";
         private const string BlockListPath = "block.list";
         private const string DeadListPath = "dead.list";
-        private const string StatusPath = "status.txt";
-
-        private static bool shouldUpdate = true;
-
         private const string Hole = "0.0.0.0";
-        private const int MaxFileSizeMb = 80; //github maxfile upload is 100MB. (rec.50MB)
+        private const int MaxFileSizeMb = 80;
+
+        //github maxfile upload is 100MB. (rec.50MB)
         private const int MIB = 1049000;
+
+        private const string StatusPath = "status.txt";
 
         private static ISet<string> BackupList;
         private static ISet<string> BlockLists;
         private static ISet<string> GoodList = new SortedSet<string>();
         private static ISet<string> MissingList;
-
         private static Encoding[] retries = new[] { Encoding.UTF8, Encoding.Unicode, Encoding.ASCII, Encoding.UTF32, Encoding.UTF7, Encoding.BigEndianUnicode };
         private static int retryCount = 0;
+        private static bool shouldUpdate = true;
+
+        private static void ArchiveLists(TreeNode<string> root) {
+            List<TreeNode<string>> leafs = new List<TreeNode<string>>();
+            root.ForEachNode(node => {
+                if (!node.HasChildren) {
+                    leafs.Add(node);
+                }
+            });
+
+            leafs./*AsParallel().ForAll*/ForEach(node => {
+                string path = BuildPath(node);
+
+                var url = GetUrlFromNodePath(path);
+
+                if (path.Contains('?')) {
+                    path = path.Substring(0, path.IndexOf('?')); //remove query from path
+                }
+
+                try {
+                    FileInfo file = new FileInfo(path);
+                    if (file.Attributes == FileAttributes.Directory) {
+                        file = new FileInfo(Path.Combine(path, "unnamed.txt"));
+                    }
+                    path = file.FullName;
+
+                    bool valid = url.IsValid();
+                    if (file.Exists && file.Length > 0) {
+                        if (!valid) { MarkListAs(url, ListType.BackedUp); return; }
+
+                        if (!shouldUpdate) { MarkListAs(url, ListType.Cached); return; }
+
+                        var result = WriteListToFile(path, url);
+                        if (result == ListType.Good) {
+                            MarkListAs(url, ListType.Good);
+                        } else {
+                            MarkListAs(url, ListType.BackedUp);
+                        }
+                    } else {
+                        if (!valid) { MarkListAs(url, ListType.Missing); return; } //url doesnt exist and we have no backup :(
+
+                        //create path
+                        file.Directory.Create();
+                        using (File.Create(path)) { }
+
+                        //download content
+                        var result = WriteListToFile(path, url);
+                        MarkListAs(url, result);
+                    }
+                } catch (Exception) {
+                    MarkListAs(url, ListType.Missing);
+                }
+            });
+        }
 
         private static string BuildPath(TreeNode<string> node) {
             string path = "";
@@ -76,7 +129,7 @@ namespace Pi_Hosts {
             return blockTree;
         }
 
-        private static double BytesToMebibytes(long bytes) => bytes / (double) MIB;
+        private static double BytesToMebibytes(long bytes) => bytes / (double)MIB;
 
         private static IEnumerable<string> DownloadBlockList(string url, Encoding encoding) {
             string results = $"Attempting to download: {url}...";
@@ -134,6 +187,15 @@ namespace Pi_Hosts {
             }
         }
 
+        private static string GetUrlFromNodePath(string path) {
+            var url = path.Substring("hosts\\".Length);
+            var scheme = url.Substring(0, url.IndexOf("\\"));
+            url = url.Substring(url.IndexOf("\\") + 1).Replace("\\", "/");
+            url = $"{scheme}://{url}";
+
+            return url;
+        }
+
         private static void Main(string[] args) {
             Directory.SetCurrentDirectory(Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.FullName);
 
@@ -175,70 +237,6 @@ namespace Pi_Hosts {
                 status.WriteLine($"Backup Lists: {BackupList.Count()}");
                 status.WriteLine($"Dead   Lists: {MissingList.Count()}");
             }
-        }
-
-            private static void ArchiveLists(TreeNode<string> root) {
-            List<TreeNode<string>> leafs = new List<TreeNode<string>>();
-            root.ForEachNode(node => {
-                if (!node.HasChildren) {
-                    leafs.Add(node);
-                }
-            });
-
-            leafs./*AsParallel().ForAll*/ForEach(node => {
-                string path = BuildPath(node);
-
-                var url = path.Substring("hosts\\".Length);
-                var scheme = url.Substring(0, url.IndexOf("\\"));
-                url = url.Substring(url.IndexOf("\\") + 1).Replace("\\", "/");
-                url = $"{scheme}://{url}";
-
-                if (path.Contains('?')) {
-                    path = path.Substring(0, path.IndexOf('?')); //remove query from path
-                }
-
-                try {
-                    FileInfo file = new FileInfo(path);
-                    if (file.Attributes == FileAttributes.Directory) {
-                        file = new FileInfo(Path.Combine(path, "unnamed.txt"));
-                    }
-                    path = file.FullName;
-
-                    bool valid = url.IsValid();
-                    if (file.Exists && file.Length > 0) {
-                        if (valid) {
-                            if (shouldUpdate) {
-                                var result = WriteListToFile(path, url);
-                                if(result == ListType.Good) {
-                                    MarkListAs(url, ListType.Good);
-                                } else {
-                                    MarkListAs(url, ListType.BackedUp);
-                                }
-                            } else {
-                                MarkListAs(url, ListType.Cached);
-                            }
-                        } else {
-                            MarkListAs(url, ListType.BackedUp);
-                        }
-                    } else {
-                        if (!valid) {
-                            //url doesnt exist and we have no backup :(
-                            MarkListAs(url, ListType.Missing);
-                            return;
-                        }
-
-                        //create path
-                        file.Directory.Create();
-                        using (File.Create(path)) { }
-
-                        //download content
-                        var result = WriteListToFile(path, url);
-                        MarkListAs(url, result);
-                    }
-                } catch (Exception) {
-                    MarkListAs(url, ListType.Missing);
-                }
-            });
         }
 
         private static void MarkListAs(string list, ListType type) {

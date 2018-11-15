@@ -1,4 +1,4 @@
-# Last Update: Mon Nov 12 10:59:51 EST 2018
+# Last Update: Wed Nov 14 10:40:03 EST 2018
 #
 # sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org. -Made In USA-
 # Blacklists by Squidblacklist.org are licensed under a creative commons attribution-noderivatives 4.0 international license.
@@ -61,7 +61,6 @@
 0.0.0.0 888promos.com
 0.0.0.0 8s8.eu
 0.0.0.0 8yxupue8.com
-0.0.0.0 9376ec23d50b1.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
@@ -824,7 +823,6 @@
 0.0.0.0 adshopping.com
 0.0.0.0 adshost2.com
 0.0.0.0 adshot.de
-0.0.0.0 ads.iafrica.com
 0.0.0.0 ads.ibest.com.br
 0.0.0.0 ads.ibtracking.com
 0.0.0.0 ads.icq.com
@@ -1141,7 +1139,7 @@
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiser.authenticshows.com
 0.0.0.0 advertiser.wbtrk.net
-0.0.0.0 advertiser.xyou.com
+0.0.0.0 advertisespace.com
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertising365.com
 0.0.0.0 advertising.aol.com
@@ -1854,6 +1852,7 @@
 0.0.0.0 commissionfactory.com.au
 0.0.0.0 commissionlounge.com
 0.0.0.0 commissionmonster.com
+0.0.0.0 comparecards.com
 0.0.0.0 comprabanner.it
 0.0.0.0 comscore.com
 0.0.0.0 concernrain.com
@@ -2218,7 +2217,6 @@
 0.0.0.0 flyertown.ca
 0.0.0.0 fmpub.net
 0.0.0.0 fmsads.com
-0.0.0.0 fogzyads.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foodieblogroll.com
 0.0.0.0 footnote.com
@@ -2249,6 +2247,7 @@
 0.0.0.0 ga87z2o.com
 0.0.0.0 gagacon.com
 0.0.0.0 gainmoneyfast.com
+0.0.0.0 galleyn.com
 0.0.0.0 gambling-affiliation.com
 0.0.0.0 gameads.com
 0.0.0.0 game-advertising-online.com
@@ -2562,9 +2561,7 @@
 0.0.0.0 jo7cofh3.com
 0.0.0.0 jobtarget.com
 0.0.0.0 joetec.net
-0.0.0.0 joytocash.com
 0.0.0.0 jque.net
-0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 js.users.51.la
@@ -2640,6 +2637,7 @@
 0.0.0.0 leadzu.com
 0.0.0.0 lean.com
 0.0.0.0 leaptrade.com
+0.0.0.0 lendingtree.com
 0.0.0.0 leohd59.ru
 0.0.0.0 lepinsar.com
 0.0.0.0 lepintor.com
@@ -3056,6 +3054,7 @@
 0.0.0.0 online-adnetwork.com
 0.0.0.0 onlinecash.com
 0.0.0.0 online-media24.de
+0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onlyalad.net
 0.0.0.0 on-mobi.com
 0.0.0.0 onrampadvertising.com
@@ -3482,6 +3481,7 @@
 0.0.0.0 samvaulter.com
 0.0.0.0 samvinva.info
 0.0.0.0 sankei-ad-info.com
+0.0.0.0 saoboo.com
 0.0.0.0 sape.ru
 0.0.0.0 sascdn.com
 0.0.0.0 saveads.net
@@ -3819,9 +3819,7 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
-0.0.0.0 topauto10.com
 0.0.0.0 topbarh.box.sk
-0.0.0.0 topbucks.com
 0.0.0.0 top-casting-termine.de
 0.0.0.0 topeuro.biz
 0.0.0.0 topfox.co.uk
@@ -4302,7 +4300,6 @@
 0.0.0.0 w1.apnnz.com
 0.0.0.0 w4.com
 0.0.0.0 w5statistics.info
-0.0.0.0 wafmedia3.com
 0.0.0.0 wagershare.com
 0.0.0.0 wahoha.com
 0.0.0.0 wamnetwork.com

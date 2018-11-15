@@ -1,15 +1,15 @@
-! Checksum: Oa/wAZClegrCKB5vEdw7YQ
+! Checksum: cGiRhh1Aa56Niuu2f840wg
 ! Title: AdGuard Simplified domain names filter
 ! Description: Filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.2.80
-! TimeUpdated: 2018-11-12T15:06:50+00:00
+! Version: 2.0.2.82
+! TimeUpdated: 2018-11-14T15:08:58+00:00
 ! Expires: 2 days (update frequency)
 !
 !
 ! Title: AdGuard Simplified Domain Names filter
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2018-11-12 14:45:10
+! Last modified: 2018-11-14 14:45:24
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 !
 ! [Inclusion: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt]
@@ -17,6 +17,9 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||tdstorage.site^
+||v0hs81ev3vepjr.ru^
+||paripartners.online^
 ||u2tshop.ru^
 ||amzbr.com^
 ||wer.glib-cough.fun^
@@ -3637,6 +3640,10 @@ ws*://video.docfilms.info^
 !
 ! The rules with hints are at the end of file
 !
+||ukdtx.31202.fun^
+||nativepu.sh^
+||glothouw.link^
+||a.doko.moe^
 ||renaissanto.com^
 ||6c4t5.cn^
 ||201d5.cn^
@@ -8729,6 +8736,7 @@ www.llllllllllll.net^
 ||ikzikistheking.com^
 ||imageadnet.com^
 ||imageadvantage.net^
+||imagehostnetwork.com^
 ||imedia.co.il^
 ||imediaaudiences.com^
 ||imediarevenue.com^
@@ -12145,6 +12153,7 @@ www.llllllllllll.net^
 ||aizopowmtnho.com^
 ||ajoaorexnieym.com^
 ||ajttqxeqg.com^
+||akdzimverrss.com^
 ||akmihtdbbz.com^
 ||akzvxmjnubq.com^
 ||aljsuubo.com^
@@ -12254,6 +12263,7 @@ www.llllllllllll.net^
 ||cxxsegmhltakq.com^
 ||cxzisvjhpt.com^
 ||cybzsdkmrqgy.com^
+||cyfzthaduxhb.com^
 ||cyhcpeprgy.com^
 ||cytpfucbb.com^
 ||czqrilwnayq.com^
@@ -12269,6 +12279,7 @@ www.llllllllllll.net^
 ||dfjaoecxqyox.com^
 ||dfkpqvhcl.com^
 ||dgnuumyxpqiget.com^
+||dgrvnlhz.com^
 ||dhtqupvxujyfp.com^
 ||dieohupl.com^
 ||dijutbdzbv.com^
@@ -12301,6 +12312,7 @@ www.llllllllllll.net^
 ||efebafmqn.com^
 ||egcocjwpzqsa.com^
 ||ekggptrw.com^
+||ekxlneryaiefwn.com^
 ||elcolpplwua.com^
 ||elvfmxguozafu.com^
 ||elwbhndbxfqk.com^
@@ -12348,6 +12360,7 @@ www.llllllllllll.net^
 ||fqckdxjgle.com^
 ||fqhpssdbenl.com^
 ||fqldrulyjfnt.com^
+||fqufpknrarn.com^
 ||frbhjvazapgo.com^
 ||frfgfhzxtfvsp.com^
 ||fsdvydpldxrbu.com^
@@ -12371,6 +12384,7 @@ www.llllllllllll.net^
 ||gbwhqbiiq.com^
 ||gbybvvfo.com^
 ||gbytjlggor.com^
+||gdtbpaqa.com^
 ||gdyelbwku.com^
 ||gfuhjlpnuj.com^
 ||ggijrjktcld.com^
@@ -12400,6 +12414,7 @@ www.llllllllllll.net^
 ||gudlhvxz.com^
 ||gvahzhgblkkyr.com^
 ||gwxaulcgmizcq.com^
+||gxeoadmo.com^
 ||gxleeixyzlaaab.com^
 ||gxptetvbtkfj.com^
 ||gxxkrzrvy.com^
@@ -12429,6 +12444,7 @@ www.llllllllllll.net^
 ||hhrxmgaepe.com^
 ||hiitwzyvkdyvxn.com^
 ||hjjdmohuzp.com^
+||hjnekvux.com^
 ||hkhotpewfxr.com^
 ||hkjxihngzlmwc.com^
 ||hkoxznukwpdhxu.com^
@@ -12451,6 +12467,7 @@ www.llllllllllll.net^
 ||hsufwxpdtddlh.com^
 ||huhrxmgiofzna.com^
 ||hvgytlbdnuqunp.com^
+||hwiccseamrs.com^
 ||hxhyejtblmu.com^
 ||hxqetblh.com^
 ||iapxxrjzc.com^
@@ -12499,6 +12516,7 @@ www.llllllllllll.net^
 ||ixsogpaexhgzn.com^
 ||ixwbgjnjf.com^
 ||iybkbyciv.com^
+||iydppfwjgcjs.com^
 ||iyqchvtlklbxm.com^
 ||izavihllfvej.com^
 ||izedcwsouaszk.com^
@@ -12581,6 +12599,7 @@ www.llllllllllll.net^
 ||lbkprcoosfgk.com^
 ||lcsgdwlxrlgq.com^
 ||ledvqaldtf.com^
+||lfjvaaswkxqj.com^
 ||lfqocbhv.com^
 ||liadlzantv.com^
 ||ljkihuolgoh.com^
@@ -12589,10 +12608,12 @@ www.llllllllllll.net^
 ||lkksbzcslmeefw.com^
 ||lkzvhtetshbu.com^
 ||llhjbwcjnuii.com^
+||lliumrpvj.com^
 ||llpdtbmowsg.com^
 ||llvidwpt.com^
 ||lnicyniqxdxg.com^
 ||lojuxbnt.com^
+||lovvznyhujf.com^
 ||lptggobhuuxcdw.com^
 ||lpxxafsupgsho.com^
 ||ltvrdftgr.com^
@@ -12628,11 +12649,13 @@ www.llllllllllll.net^
 ||mhfivsdhbpfgk.com^
 ||mhhjdlsnji.com^
 ||mivrpcxlo.com^
+||mkalruavzrtmh.com^
 ||mldsiekmhy.com^
 ||mmsdewfvxhw.com^
 ||mpfzgidlxsqtyt.com^
 ||mqgvsxqc.com^
 ||mqobpsctcxnbi.com^
+||mrtehsag.com^
 ||msisvvxmnpm.com^
 ||msoiqafieh.com^
 ||mspnlttfp.com^
@@ -12696,6 +12719,7 @@ www.llllllllllll.net^
 ||oarqgvtkco.com^
 ||obczphph.com^
 ||obpzuctfozram.com^
+||obwvmzdb.com^
 ||ocrwyhamhfpfc.com^
 ||oebdarcqsqcdk.com^
 ||oeppesfmzlbpa.com^
@@ -12796,6 +12820,9 @@ www.llllllllllll.net^
 ||qpmswrurt.com^
 ||qpqnbnsnosdss.com^
 ||qqcbzxwzpmzdcd.com^
+||qqcjvbsd.com^
+||qrecxvdoewmztq.com^
+||qrirkdzdxtxc.com^
 ||qsoetgedlgyhyz.com^
 ||qtahsbgdqbu.com^
 ||qukqptxilr.com^
@@ -12832,6 +12859,7 @@ www.llllllllllll.net^
 ||rhypgggd.com^
 ||rhzpcnueogbexb.com^
 ||rigoczly.com^
+||rixxvqexdlgrl.com^
 ||rjeksrigwzm.com^
 ||rjirxadtq.com^
 ||rjszckwlctpup.com^
@@ -12987,6 +13015,8 @@ www.llllllllllll.net^
 ||vajiyqbb.com^
 ||vbguaqweaif.com^
 ||vbjpddtj.com^
+||vbwakfbazxd.com^
+||vczprcezg.com^
 ||vdbasihbxwea.com^
 ||vdldsjqxppi.com^
 ||vebubhzj.com^
@@ -13002,6 +13032,7 @@ www.llllllllllll.net^
 ||vkhrnisuky.com^
 ||vkrgljxqn.com^
 ||vlhdmywfi.com^
+||vlpufjkwpmjhbn.com^
 ||vlyqzdsucomih.com^
 ||vmftwflt.com^
 ||vmmphpamtigpbi.com^
@@ -13090,6 +13121,7 @@ www.llllllllllll.net^
 ||xibnqcksoax.com^
 ||xihkdzijh.com^
 ||xiodoyvbauv.com^
+||xiqlaxjbzjei.com^
 ||xirlmiyihvpi.com^
 ||xkcidzutjwukj.com^
 ||xkgbbiqqekja.com^
@@ -13140,6 +13172,7 @@ www.llllllllllll.net^
 ||yisscbyq.com^
 ||yjijmpezje.com^
 ||yjipohjtdrxncg.com^
+||yjseeodbma.com^
 ||yjwtxskmswcjc.com^
 ||yjwymbwcjyfed.com^
 ||ykixjehac.com^
@@ -21198,6 +21231,8 @@ www.llllllllllll.net^
 ||collection-endpoint-staging.herokuapp.com^
 ! end:
 !
+||tracking.hotel.check24.de^
+||stats01.20min.ch^
 ||tracking.gj-mobile-services.de^
 ||eventlog.outbrain.com^
 ||smetrics.marriott.com^
@@ -23799,6 +23834,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||digital-metric.com^
 ||distribeo.com^
 ||dnab.info^
+||iolam.it^
 ||keyxel.com^
 ||mwstats.net^
 ||zt-dst.com^
@@ -24154,6 +24190,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||counters.gigya.com^
 ||cr.loszona.com^
 ||csp-collector.appspot.com^
+||csp.archant.co.uk^
 ||ct.eid.co.nz^
 ||ct.itbusinessedge.com^
 ||ct.needlive.com^

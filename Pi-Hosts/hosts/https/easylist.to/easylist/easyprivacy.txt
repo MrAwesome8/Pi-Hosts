@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201811130330
+! Version: 201811150440
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2018 03:30 UTC
+! Last modified: 15 Nov 2018 04:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -325,6 +325,7 @@
 /a.gif?uuid
 /a.logrequest.yolx?
 /a.php?ref=
+/a/analytics/*
 /aa.php?anuid=
 /ablank.gif?
 /abp-analytics.
@@ -1907,6 +1908,7 @@
 /jgs_portal_log_bildschirm.php?
 /jkidd_cookies?
 /join/tracking/*
+/jp-coremetrics-
 /jquery.analytics.js|
 /jquery.google-analytics.
 /jquery.trackstar.
@@ -8440,6 +8442,7 @@ _mongo_stats/
 ||app.pendo.io/data/ptm.gif
 ||app.yesware.com/t/$third-party
 ||appdynamics.com/geo/$third-party
+||appinthestore.com/click/
 ||apple.www.letv.com^
 ||appliedsemantics.com/images/x.gif
 ||appsolutions.com/hitme?$third-party
@@ -8737,6 +8740,7 @@ _mongo_stats/
 ||crowdskout.com^*/page-view
 ||csi.gstatic.com^
 ||csp-collector.appspot.com^
+||csp.archant.co.uk^
 ||ct.eid.co.nz^$third-party
 ||ct.itbusinessedge.com^$third-party
 ||ct.needlive.com^
@@ -10665,6 +10669,7 @@ _mongo_stats/
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
 ||httdev.it/e/c?
+||iltrovatore.it/vp.htm
 ||iol.it^*/clickserver.js
 ||livestats.matrix.it^
 ||log.superweb.ws^
@@ -14770,6 +14775,7 @@ $csp=worker-src 'none',domain=300mbfilms.co|akvideo.stream|alltube.pl|alltube.tv
 @@||facebook.com/ajax/photos/logging/session_logging.php?$xmlhttprequest
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com
 @@||faostat3.fao.org^*/google-analytics-manager.js
+@@||fastway.co.nz/Umbraco/Api/Tracking/
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
 @@||firstdirect.com^*/logging-code.js
