@@ -2544,6 +2544,7 @@
 0.0.0.0 search.buzzdock.com
 0.0.0.0 search.conduit.com
 0.0.0.0 search.privitize.com
+0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 securedliveuploads.com
 0.0.0.0 securitas232maximus.xyz
 0.0.0.0 securitas25maximus.xyz
@@ -2810,6 +2811,7 @@
 0.0.0.0 www.likespike.com
 0.0.0.0 www.likethislist.biz
 0.0.0.0 www.likethis.mbosoft.com
+0.0.0.0 www.locatorprotocol.com
 0.0.0.0 www.lomalindasda.org
 0.0.0.0 www.lovecouple.ru
 0.0.0.0 www.lovetrust.ru
@@ -2867,6 +2869,7 @@
 0.0.0.0 www.thedatesafe.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.tvshowslist.com
+0.0.0.0 www.upgradebasic.com
 0.0.0.0 www.upgradeexplorer.com
 0.0.0.0 www.upi6.pillsstore-c.com
 0.0.0.0 www.uqz.com
@@ -6869,6 +6872,7 @@
 0.0.0.0 beseenad.looksmart.com
 0.0.0.0 best2017games.com
 0.0.0.0 bestgift4you.cn
+0.0.0.0 bestmmo2018.com
 0.0.0.0 bestorican.com
 0.0.0.0 bestshopperrewards.com
 0.0.0.0 beta.hotkeys.com
@@ -9502,6 +9506,7 @@
 0.0.0.0 popups.infostart.com
 0.0.0.0 popup.softreklam.com
 0.0.0.0 popup.taboola.com
+0.0.0.0 pornstargals.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 posed2shade.com
 0.0.0.0 poster.gamesprite.me
@@ -9976,7 +9981,6 @@
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 secimage.adtech.us
 0.0.0.0 secondchancecoaching.com
-0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secretlanguage.co
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secserv.adtech.fr

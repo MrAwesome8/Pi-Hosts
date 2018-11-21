@@ -155,3 +155,8 @@
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/3673
 0.0.0.0 webkitRequestFileSystem,
 
+0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/4138
+0.0.0.0 onclick,
+0.0.0.0 onmousedown,
+0.0.0.0 ||track.rediff.com^
+

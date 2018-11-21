@@ -122,3 +122,6 @@ upload4earn.org##+js(remove-attr.js, checked)
 ! https://www.scumware.org/report/104.27.174.25.html
 ||driverfix.com^$document
 
+! https://github.com/uBlockOrigin/uAssets/issues/4137
+||governiamo.com^$document
+

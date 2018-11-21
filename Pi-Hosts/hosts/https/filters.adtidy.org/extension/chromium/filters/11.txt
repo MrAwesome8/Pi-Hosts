@@ -1,8 +1,8 @@
-! Checksum: eJCivq9HYmwgwEUSQX0t3Q
+! Checksum: f/xFj7E8yrfLpb9TV1nSPg
 ! Title: AdGuard Mobile Ads filter
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2.0.4.15
-! TimeUpdated: 2018-11-15T00:04:24+00:00
+! Version: 2.0.4.19
+! TimeUpdated: 2018-11-20T09:04:01+00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#mobile
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -1329,6 +1329,7 @@ deviantart.com#$#div[class*="dp-ad-"] {height: 0!important; width: 0!important; 
 !
 !#####################
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/22203
 ! com.jellybtn.cashkingmobile - fixing permanent network requests
 ! https://github.com/AdguardTeam/AdguardFilters/issues/22628
 ! https://github.com/AdguardTeam/AdguardFilters/issues/22498
@@ -1624,6 +1625,9 @@ m.news.de##.unisterAdsStart
 !+ NOT_PLATFORM(ios, ext_android_cb)
 ||mobile.donanimhaber.com/ads^
 !
+dict.cc##dl > div[style="margin-left:10px"] > div[id^="snhb-detail_rectangle-"][style="width:300px; height:250px; overflow:hidden"]
+||forum.lowyat.net/random-mobile.php
+forum.lowyat.net###ipbwrapper > div[style="padding:10px 0;min-height:100px;"][align="center"]:not([class]):not([id])
 apkpure.com##.fast-download-box+ .slide-wrap > .bd > .tempWrap > ul[style^="width:"] > li[style*="display: table-cell;"] > a[href^="https://yaksgames.com/?utm_source"]
 pixiv.net##div[class="overlay geta"]
 m.investing.com##.adDrawer

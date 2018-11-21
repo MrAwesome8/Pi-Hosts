@@ -1,4 +1,4 @@
-# Last Update: Wed Nov 14 10:40:03 EST 2018
+# Last Update: Tue Nov 20 10:26:12 EST 2018
 #
 # sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org. -Made In USA-
 # Blacklists by Squidblacklist.org are licensed under a creative commons attribution-noderivatives 4.0 international license.
@@ -26,6 +26,7 @@
 0.0.0.0 2beon.co.kr
 0.0.0.0 2mdn.info
 0.0.0.0 32b4oilo.com
+0.0.0.0 3393.com
 0.0.0.0 33across.com
 0.0.0.0 360ads.com
 0.0.0.0 360adstrack.com
@@ -65,7 +66,6 @@
 0.0.0.0 980media.com
 0.0.0.0 99count.com
 0.0.0.0 9ts3tpia.com
-0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a2dfp.net
 0.0.0.0 a2pub.com
 0.0.0.0 a433.com
@@ -236,11 +236,13 @@
 0.0.0.0 adecn.com
 0.0.0.0 ad.ecplaza.net
 0.0.0.0 adedy.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adelement.com
 0.0.0.0 ad.eluosi.cn
 0.0.0.0 ademails.com
 0.0.0.0 adenc.co.kr
 0.0.0.0 adengage.com
+0.0.0.0 ad.entgroup.cn
 0.0.0.0 adespresso.com
 0.0.0.0 ad.etaocms.com
 0.0.0.0 adevents.com.au
@@ -341,6 +343,7 @@
 0.0.0.0 adisn.com
 0.0.0.0 adition.com
 0.0.0.0 adition.de
+0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adit-media.com
 0.0.0.0 adizio.com
@@ -451,6 +454,7 @@
 0.0.0.0 adnet.vn
 0.0.0.0 adnetwork.ai
 0.0.0.0 adnetwork.hadoopfinetech.com
+0.0.0.0 adnetwork.net
 0.0.0.0 adnet.worldreviewer.com
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnext.fr
@@ -610,7 +614,6 @@
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.ayads.co
 0.0.0.0 adsb4track.com
-0.0.0.0 ads.beenetworks.net
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
@@ -751,7 +754,6 @@
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserv.gamezone.de
-0.0.0.0 adserv.iafrica.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
@@ -1139,6 +1141,7 @@
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiser.authenticshows.com
 0.0.0.0 advertiser.wbtrk.net
+0.0.0.0 advertiser.xyou.com
 0.0.0.0 advertisespace.com
 0.0.0.0 advertiseworld.com
 0.0.0.0 advertising365.com
@@ -1334,6 +1337,7 @@
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anastasiasaffiliate.com
+0.0.0.0 andbeyond.media
 0.0.0.0 andohs.net
 0.0.0.0 andomedia.com
 0.0.0.0 andomediagroup.com
@@ -1556,7 +1560,6 @@
 0.0.0.0 belwrite.com
 0.0.0.0 bepolite.eu
 0.0.0.0 beringmedia.com
-0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestforexpartners.com
 0.0.0.0 bestgameads.com
@@ -1794,6 +1797,7 @@
 0.0.0.0 clickkingdom.net
 0.0.0.0 click.kmindex.ru
 0.0.0.0 clicklink.jp
+0.0.0.0 clickmngr.com
 0.0.0.0 clickmon.co.kr
 0.0.0.0 clicknano.com
 0.0.0.0 clicks2count.com
@@ -1874,7 +1878,6 @@
 0.0.0.0 c-on-text.com
 0.0.0.0 contextuads.com
 0.0.0.0 contextweb.com
-0.0.0.0 contribusourcesyndication.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionruler.com
 0.0.0.0 cookies.cmpnet.com
@@ -2138,7 +2141,6 @@
 0.0.0.0 euz.net
 0.0.0.0 everesttech.net
 0.0.0.0 evewrite.net
-0.0.0.0 evidencecleanergold.com
 0.0.0.0 e-viral.com
 0.0.0.0 evolvemediallc.com
 0.0.0.0 evolvenation.com
@@ -2161,7 +2163,6 @@
 0.0.0.0 expresswebtraffic.com
 0.0.0.0 extend.tv
 0.0.0.0 extra33.com
-0.0.0.0 extractorandburner.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 eyereturn.com
@@ -2180,7 +2181,6 @@
 0.0.0.0 fastapi.net
 0.0.0.0 fastclick.com
 0.0.0.0 faxo.com
-0.0.0.0 fbgdc.com
 0.0.0.0 fb-plus.com
 0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
@@ -2192,7 +2192,6 @@
 0.0.0.0 fenixm.com
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fiksu.com
-0.0.0.0 filadmir.site
 0.0.0.0 filetarget.com
 0.0.0.0 fimserve.com
 0.0.0.0 findyourcasino.com
@@ -2216,7 +2215,6 @@
 0.0.0.0 fluidads.co
 0.0.0.0 flyertown.ca
 0.0.0.0 fmpub.net
-0.0.0.0 fmsads.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foodieblogroll.com
 0.0.0.0 footnote.com
@@ -2234,7 +2232,6 @@
 0.0.0.0 freeskreen.com
 0.0.0.0 fresh8.co
 0.0.0.0 friendlyduck.com
-0.0.0.0 friesmeasureretain.info
 0.0.0.0 fruitkings.com
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 fulltraffic.net
@@ -2561,7 +2558,6 @@
 0.0.0.0 jo7cofh3.com
 0.0.0.0 jobtarget.com
 0.0.0.0 joetec.net
-0.0.0.0 jque.net
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 js.users.51.la
@@ -2596,7 +2592,6 @@
 0.0.0.0 kiosked.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitnmedia.com
-0.0.0.0 kkddlt2f.site
 0.0.0.0 kliks.nl
 0.0.0.0 knowd.com
 0.0.0.0 komoona.com
@@ -2777,7 +2772,6 @@
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 mediamind.com
 0.0.0.0 media.net
-0.0.0.0 media-networks.ru
 0.0.0.0 mediaraily.com
 0.0.0.0 mediascale.de
 0.0.0.0 media-servers.net
@@ -2860,6 +2854,7 @@
 0.0.0.0 mobitracker.info
 0.0.0.0 mobivity.com
 0.0.0.0 mobixell.com
+0.0.0.0 mobiyield.com
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobstac.com
 0.0.0.0 mobsterbird.info
@@ -2875,7 +2870,6 @@
 0.0.0.0 monkeybroker.net
 0.0.0.0 monsoonads.com
 0.0.0.0 monsterpops.com
-0.0.0.0 mootermedia.com
 0.0.0.0 moritava.com
 0.0.0.0 motrixi.com
 0.0.0.0 mottnow.com
@@ -3037,7 +3031,6 @@
 0.0.0.0 ohmcasting.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohv1tie2.com
-0.0.0.0 oilchange.website
 0.0.0.0 old-ads-and-mags.tumblr.com
 0.0.0.0 oldtiger.net
 0.0.0.0 olivebrandresponse.com
@@ -3438,6 +3431,7 @@
 0.0.0.0 ritzysponge.com
 0.0.0.0 rixaka.com
 0.0.0.0 rle.ru
+0.0.0.0 rlex.org
 0.0.0.0 rmedia.boston.com
 0.0.0.0 roar.com
 0.0.0.0 robocat.me
@@ -3481,7 +3475,6 @@
 0.0.0.0 samvaulter.com
 0.0.0.0 samvinva.info
 0.0.0.0 sankei-ad-info.com
-0.0.0.0 saoboo.com
 0.0.0.0 sape.ru
 0.0.0.0 sascdn.com
 0.0.0.0 saveads.net
@@ -3793,7 +3786,6 @@
 0.0.0.0 thiscdn.com
 0.0.0.0 thoseads.com
 0.0.0.0 thoughtleadr.com
-0.0.0.0 thrnt.com
 0.0.0.0 ticrite.com
 0.0.0.0 tic-tic-bam.com
 0.0.0.0 tic-tic-toc.com
@@ -3820,6 +3812,7 @@
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
 0.0.0.0 topbarh.box.sk
+0.0.0.0 topbucks.com
 0.0.0.0 top-casting-termine.de
 0.0.0.0 topeuro.biz
 0.0.0.0 topfox.co.uk
@@ -3830,6 +3823,7 @@
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
+0.0.0.0 topping.com.ua
 0.0.0.0 topqualitylink.com
 0.0.0.0 toprebates.com
 0.0.0.0 topsafelist.net

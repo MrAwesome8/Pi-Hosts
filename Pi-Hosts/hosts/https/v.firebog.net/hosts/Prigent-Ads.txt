@@ -496,6 +496,7 @@
 0.0.0.0 aguabias.com
 0.0.0.0 ainsleywatchz.info
 0.0.0.0 airmaxlovers.com
+0.0.0.0 airroutine.com
 0.0.0.0 aj.600z.com
 0.0.0.0 allffers.com
 0.0.0.0 allindustrialcontrollers.com
@@ -864,6 +865,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 passeresfm.com
 0.0.0.0 paypopup.com
+0.0.0.0 pega.com
 0.0.0.0 perazy.com
 0.0.0.0 periencesca.com
 0.0.0.0 petiteactualite.fr

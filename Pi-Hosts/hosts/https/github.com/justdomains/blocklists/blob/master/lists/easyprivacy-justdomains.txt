@@ -5143,6 +5143,7 @@
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.services.distractify.com
 0.0.0.0 analytics.shorte.st
@@ -6018,6 +6019,7 @@
 0.0.0.0 pwa.telephoneannuaire.fr
 0.0.0.0 r.orange.fr
 0.0.0.0 sa.tf1.fr
+0.0.0.0 secure-stat.canal-plus.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stats1x1.kapaza.be
 0.0.0.0 track.24heures.ch

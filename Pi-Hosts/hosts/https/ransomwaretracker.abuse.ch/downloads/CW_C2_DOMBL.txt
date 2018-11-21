@@ -1,6 +1,6 @@
 ##########################################################################
 # CryptoWall Ransomware C2 domain blocklist (CW_C2_DOMBL) #
-# Generated on 2018-11-15 07:25:02 UTC #
+# Generated on 2018-11-21 04:55:01 UTC #
 # #
 # For questions please refer to: #
 # https://ransomwaretracker.abuse.ch/blocklist/ #

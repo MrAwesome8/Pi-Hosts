@@ -2527,6 +2527,7 @@
 0.0.0.0 dogrose18.com
 0.0.0.0 dovinate.top
 0.0.0.0 dronml.ml
+0.0.0.0 drozdovvalerij0.github.io
 0.0.0.0 drupalupdates.tk
 0.0.0.0 duckdns.org
 0.0.0.0 dugroscaca.com
@@ -2601,7 +2602,13 @@
 0.0.0.0 hodling.party
 0.0.0.0 hodling.science
 0.0.0.0 host.d-ns.ga
+0.0.0.0 hostingcloud.accountant
+0.0.0.0 hostingcloud.bid
+0.0.0.0 hostingcloud.date
+0.0.0.0 hostingcloud.download
 0.0.0.0 hostingcloud.faith
+0.0.0.0 hostingcloud.loan
+0.0.0.0 hostingcloud.science
 0.0.0.0 hrfziiddxa.ru
 0.0.0.0 hydesolo.tk
 0.0.0.0 iaheyftbsn.review
@@ -2632,6 +2639,16 @@
 0.0.0.0 jsccnn.com
 0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
+0.0.0.0 jshosting.bid
+0.0.0.0 jshosting.date
+0.0.0.0 jshosting.download
+0.0.0.0 jshosting.loan
+0.0.0.0 jshosting.party
+0.0.0.0 jshosting.racing
+0.0.0.0 jshosting.review
+0.0.0.0 jshosting.stream
+0.0.0.0 jshosting.trade
+0.0.0.0 jshosting.win
 0.0.0.0 junopink.ml
 0.0.0.0 jurty.ml
 0.0.0.0 jurtym.cf
@@ -2642,6 +2659,7 @@
 0.0.0.0 kedtise.com
 0.0.0.0 kinoprofi.org
 0.0.0.0 kippbeak.cf
+0.0.0.0 kireevairina959.github.io
 0.0.0.0 ksimdw.ru
 0.0.0.0 l33tsite.info
 0.0.0.0 laferia.cr
@@ -2724,8 +2742,10 @@
 0.0.0.0 nfwebminer.com
 0.0.0.0 niematego.tk
 0.0.0.0 nimiq.watch
+0.0.0.0 nimiqchain.info
 0.0.0.0 nimiqpool.com
 0.0.0.0 nimiqtest.net
+0.0.0.0 nimpool.io
 0.0.0.0 nnycrypto.com
 0.0.0.0 noblock.pro
 0.0.0.0 oei1.gq
@@ -2733,10 +2753,13 @@
 0.0.0.0 ogondkskyahxa.ru
 0.0.0.0 ogrid.org
 0.0.0.0 okeyletsgo.ml
+0.0.0.0 olecintri.com
 0.0.0.0 omine.org
 0.0.0.0 onlinereserchstatistics.online
+0.0.0.0 onvid.club
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openguid.org
+0.0.0.0 outbrainimg.com
 0.0.0.0 oxwwoeukjispema.ru
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.net
@@ -2746,6 +2769,7 @@
 0.0.0.0 pdheuryopd.loan
 0.0.0.0 pearno.com
 0.0.0.0 pertholin.com
+0.0.0.0 philpool.com
 0.0.0.0 play.mix.kinostuff.com
 0.0.0.0 playerassets.info
 0.0.0.0 podrltid.info
@@ -2753,6 +2777,7 @@
 0.0.0.0 pool.hws.ru
 0.0.0.0 poolmining.eu
 0.0.0.0 poolmining.net
+0.0.0.0 porkypool.com
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gram.org
 0.0.0.0 premiumstats.xyz
@@ -2807,6 +2832,7 @@
 0.0.0.0 subloader.cf
 0.0.0.0 sumokoin.com
 0.0.0.0 supportxmr.com
+0.0.0.0 sushipool.com
 0.0.0.0 svivqrhrh.ru
 0.0.0.0 swiftmining.win
 0.0.0.0 synconnector.com
@@ -3454,6 +3480,7 @@
 0.0.0.0 hiperstat.com
 0.0.0.0 hitcountersonline.com
 0.0.0.0 imetrix.it
+0.0.0.0 iolam.it
 0.0.0.0 ipfrom.com
 0.0.0.0 italianadirectory.com
 0.0.0.0 keyxel.com
@@ -4036,6 +4063,7 @@
 0.0.0.0 cr.loszona.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 csp.archant.co.uk
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.needlive.com
@@ -5256,6 +5284,7 @@
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.services.distractify.com
@@ -6145,6 +6174,7 @@
 0.0.0.0 pwa.telephoneannuaire.fr
 0.0.0.0 r.orange.fr
 0.0.0.0 sa.tf1.fr
+0.0.0.0 secure-stat.canal-plus.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stats1x1.kapaza.be
 0.0.0.0 track.24heures.ch

@@ -125,6 +125,7 @@
 0.0.0.0 black-friday.ga
 0.0.0.0 blackhatworth.com
 0.0.0.0 blog100.org
+0.0.0.0 blog2019.xyz
 0.0.0.0 blog4u.top
 0.0.0.0 blogstar.fun
 0.0.0.0 blogtotal.de
@@ -360,6 +361,7 @@
 0.0.0.0 get-your-social-buttons.info
 0.0.0.0 getaadsincome.info
 0.0.0.0 getadsincomely.info
+0.0.0.0 getfy-click.info
 0.0.0.0 getlamborghini.ga
 0.0.0.0 getpy-click.info
 0.0.0.0 getrichquick.ml
@@ -379,6 +381,7 @@
 0.0.0.0 googlsucks.com
 0.0.0.0 gorgaz.info
 0.0.0.0 grafaman.ru
+0.0.0.0 growth-hackingan.info
 0.0.0.0 guardlink.org
 0.0.0.0 guidetopetersburg.com
 0.0.0.0 handicapvantoday.com
@@ -559,6 +562,7 @@
 0.0.0.0 muscle-factory.com.ua
 0.0.0.0 musichallaudio.ru
 0.0.0.0 mybuh.kz
+0.0.0.0 mycheaptraffic.com
 0.0.0.0 myftpupload.com
 0.0.0.0 myplaycity.com
 0.0.0.0 nachalka21.ru
@@ -602,6 +606,7 @@
 0.0.0.0 paidonlinesites.com
 0.0.0.0 palvira.com.ua
 0.0.0.0 pc-services.ru
+0.0.0.0 perform-like-alibabaity.info
 0.0.0.0 perm.dienai.ru
 0.0.0.0 perper.ru
 0.0.0.0 petrovka-online.com
