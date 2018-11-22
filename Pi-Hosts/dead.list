@@ -1,16 +1,5 @@
 http://localhost/adblock.hosts
 https://adzhosts.fr/hosts/adzhosts-mac-linux.txt
-https://gist.github.com/CHEF-KOCH/080efada22b9659ef61241029122873b
-https://gist.github.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1
-https://gist.github.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500
-https://gist.github.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0
-https://github.com/CHEF-KOCH/Audio-fingerprint-pages/blob/master/AudioFp.txt
-https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/HOSTS.txt
-https://github.com/CHEF-KOCH/Canvas-fingerprinting-pages/blob/master/Canvas.txt
-https://github.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/blob/master/Canvas.txt
-https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
-https://github.com/CHEF-KOCH/Spotify-Ad-free/blob/master/Spotifynulled.txt
-https://github.com/CHEF-KOCH/WebRTC-tracking/blob/master/WebRTC.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win10/spy.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win7/spy.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win81/spy.txt
@@ -21,4 +10,3 @@ https://github.com/StevenBlack/hosts/blob/master/data/SpotifyAds/hosts
 https://github.com/StevenBlack/hosts/blob/master/data/tyzbit/hosts
 https://github.com/TechPatriot/blocklist/blob/master/msm_list.txt
 https://github.com/ZeroDot1/CoinBlockerLists/blob/master/hosts
-https://www.malwaredomainlist.com/hostslist/hosts.txt

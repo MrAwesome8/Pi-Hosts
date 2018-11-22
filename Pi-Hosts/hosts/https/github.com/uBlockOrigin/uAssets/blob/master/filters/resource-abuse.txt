@@ -469,3 +469,6 @@ descargas2020.com##+js(abort-current-inline-script.js, atob, _0x)
 ||dragonballzpolo.*^$csp=worker-src 'none'
 ||besstahete.info^
 
+! https://github.com/uBlockOrigin/uAssets/issues/4161
+/lib/crypta.js
+

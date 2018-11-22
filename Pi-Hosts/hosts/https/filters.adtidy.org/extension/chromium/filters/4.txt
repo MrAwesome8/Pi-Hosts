@@ -1,8 +1,8 @@
-! Checksum: H8Yqz3l7m6LGKn1y1hXcFg
+! Checksum: IbiTUAo2XR355saaXQejQw
 ! Title: AdGuard Social Media filter
 ! Description: Filter for social media widgets (Like buttons and such)
-! Version: 2.0.6.58
-! TimeUpdated: 2018-11-20T15:11:16+00:00
+! Version: 2.0.6.59
+! TimeUpdated: 2018-11-21T15:04:07+03:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#social
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -142,6 +142,7 @@
 ||twitter-badges.$third-party
 ||twitter.com/home?status=$third-party
 ||twitter.com/share$third-party
+||usocial.pro^$third-party
 ||vk.com/images/upload.gif$domain=~vk.com|~vkontakte.ru
 ||vk.com/js/api/share.js$third-party
 ||vk.com/share.php$third-party
@@ -532,9 +533,12 @@ creativefabrica.com,serialkeypro.com,cracxsoftwares.com,fullpcsoftz.com,psdfreeb
 creativefabrica.com,serialkeypro.com,cracxsoftwares.com,fullpcsoftz.com,psdfreebies.com,c4crack.com,warezcrack.net,ckfile.com,crackflare.com,f4freesoftware.com,freeappstorepc.com,gomovies.co,profullcrack.com,sajidpc.com,sjcrack.com,soft7star.com,warezcrack.net,workingkeys.org#$#.onp-sl-content { display: block!important; }
 psdfreebies.com#$#.onp-locker-call { display: block!important; }
 warezcrack.net#$#.onp-sl-content > [data-lock-id^="onpLock"] { display: block!important; }
+windowstechblog.nl#%#AG_onLoad(function() { window.bizpanda = {}; });
+windowstechblog.nl#$#.onp-sl-blur-area[style="filter: blur(5px);"] { filter: none!important; }
 gigadownloads.co,techsini.com##.onp-sl-overlap-box
 /pandalocker.$script,domain=lanka.ru
 0lik.ru##.onp-sl-outer-wrap
+warezcrack.net#$#.onp-sl-content > [data-lock-id^="onpLock"] { display: block!important; }
 djcracx.com#$#.onp-locker-call { display: block !important; }
 !
 !-------------------
@@ -569,6 +573,8 @@ kakprosto.ru##.content__share
 ! Common, but dangerous class names
 xn----7sbab9bbkpdfty.xn--p1ai,hot-jav.xyz,eurogamer.de,tvigle.ru,thanhnien.vn,index.hu,newsyou.info,azfilmizle1.com,mhealth.ru,haber.sol.org.tr,eurogamer.net,atresplayer.com,polizeinews.ch,kabeleinsdoku.de,computerworld.com.tr,prosieben.de,bo.de,superhaber.biz,ran.de,wallgif.com,politrussia.com,pcworld.com,clip2net.com,fontanka.ru,yasam.1001kadin.com,yeniakit.com.tr,10co.org,10co.co,10co.me,10co.biz,10co.xyz,411.ca,about.com,adtile.me,aimonetti.net,alexa.com,alligator-sunglasses.com,amd.com,annarbor.com,aol.com,appstechnews.com,artsyspot.com,avclub.com,avira.com,backstage.com,bbc.com,belge.com.tr,bellurbis.com,benswann.com,bgo.com,bgr.com,billboard.com,billmoyers.com,blogspot.co.uk,bostonmagazine.com,breitbart.com,broadcast.app.net,businessinsider.com,businessinsider.com.au,businessweek.com,canonclast.com,catonmat.net,cc.com,cdw.com,cloudcomputing-news.net,cmu.edu,cnet.com,collectorsweekly.com,comicbookmovie.com,connectify.me,consequenceofsound.net,cookingchanneltv.com,dailyhaha.com,dcist.com,deathandtaxesmag.com,debate.org,developer-tech.com,di.fm,diet-blog.com,digitaltrends.com,dpreview.com,droid-life.com,duluthtrading.com,e3expo.com,etcanada.com,eurogamer.net,evilmilk.com,examiner.com,feld.com,fiercecable.com,fiercewireless.com,foodhub.co.nz,foodnetwork.com,forbes.com,foreignpolicy.com,foxnews.com,freemypdf.com,fstoppers.com,funnyordie.com,galabingo.com,gamesradar.com,givemesport.com,goal.com,goodfood.com.au,gothamist.com,goutsa.com,greatist.com,greenbot.com,greencarreports.com,gsmdome.com,guildwars2.com,haber7.com,halfhourmeals.com,hallels.com,hawaii.com,healthychild.org,hightimes.com,hilton.com,hitfix.com,howwindows.ru,huffingtonpost.com,humblebundle.com,ibtimes.co.in,ibtimes.com,imdb.com,imgur.com,impresspages.org,indiegogo.com,informationweek.com,infoworld.com,intomobile.com,investopedia.com,isprime.com,itproportal.com,joblo.com,juancole.com,kbb.com,kde.org,ketknbc.com,lifehacker.com.au,littlethings.com,livescience.com,logicbuy.com,lovetoknow.com,m.news.de,macnn.com,macstories.net,makerstudios.com,marketingtechnews.net,mashable.com,mayoclinic.org,medicaldaily.com,medyatrendleri.com,memez.com,metadefender.com,milliyet.com.tr,minikacocuk.com.tr,minikago.com.tr,mobileindustryreview.com,modernfarmer.com,mom.me,mophie.com,moviefone.com,mrskin.com,msn.com,muckrock.com,myrecipes.com,narr8.me,narrative.ly,nationalcareersweek.com,nationaljournal.com,neowin.net,networkworld.com,neustar.biz,newrepublic.com,nocamels.com,nplusonemag.com,npr.org,nster.com,nymag.com,nzherald.co.nz,opendns.com,openlogic.com,outsidexbox.com,pawnation.com,pbh2.com,pbs.org,penny-arcade.com,playboy.com,pocket-lint.com,pokernews.com,pomade.com,pootlepress.com,ppfinder.com,projekktor.com,prosiebenmaxx.de,psfk.com,qmul.ac.uk,qualcomm.com,reason.com,red-buzz.com,refinery29.com,retailmenot.com,reviewed.com,rickey.org,ropeofsilicon.com,rottentomatoes.com,rtcc.org,sabah.com.tr,sat1gold.de,scalescale.com,searchmarketingexpo.com,seattletimes.com,sectionstudios.com,shacknews.com,shefinds.com,sheknows.com,sofarsogood.fr,softexia.com,softonic.com,solidfiles.com,space.com,sparknotes.com,spectator.org,spin.com,sucuri.net,t3.com,tablet-news.com,talkingpointsmemo.com,talkweb.eu,tarzgo.com,techeblog.com,techpowerup.com,techpp.com,techradar.com,techspot.com,telecomstechnews.com,theblemish.com,thebolditalic.com,thedissolve.com,theguardian.com,theonion.com,thestar.com,thestudenthousingcompany.com,ti.com,tickld.com,timesofindia.indiatimes.com,tmonews.com,tnr.com,trendhunter.com,troyhunt.com,tubestart.com,tunein.com,tvline.com,typomaps.net,u.tv,ucl.ac.uk,udreview.com,uk-mkivs.net,ulke.com.tr,urbanomnibus.net,usatoday.com,vg247.com,vice.com,victoriassecret.com,viralnova.com,virginmedia.com,vulture.com,wallpaper.com,washingtontimes.com,wbs-law.de,wearabletechnology-news.com,webref.ru,webs.com,weeklystandard.com,wegotthiscovered.com,wetpaint.com,whatculture.com,whowhatwear.com,windowsvalley.com,wn.com,woot.com,wunderground.com,x17online.com,xconomy.com,xsreviews.co.uk,yachtturkiye.com,znak.com,lxax.com##.social
 !
+opensubtitles.com###share-section
+anlegen-in-immobilien.de##.avia_fb_likebox
 psmag.com##.m-social
 watchcartoonsonline.la##.sidebar_list > #text-7
 ogretmenlersitesi.com###haberler div[class*="socialButtonv"]
@@ -1205,7 +1211,7 @@ torrentfilmi.org##.socfull
 appllio.com##li[class^="social-button-lite-"]
 windowscentral.com##.share__item
 itmedia.co.jp##.colBoxSocialButton
-kullananlar.com.tr##.av-share-box
+anlegen-in-immobilien.de,kullananlar.com.tr##.av-share-box
 habergazetesi.com.tr##.payla
 m.akparti.org.tr##.share > li:not(.pdf):not(.email)
 ulusal.com.tr##.panel-sosyal
@@ -1765,6 +1771,7 @@ technobuffalo.com###sharing-floater
 sat1.de##.social > ul > li:not(.email)
 hrkgame.com##.share-platform
 chip.com.tr##.share_ver
+hurriyet.com.tr###socialMediaShare
 e1.ru##.js-social-widgets
 trend.mynet.com##.det-media-fb-btn
 trend.mynet.com##.det-media-tw-btn
@@ -1889,6 +1896,7 @@ bkmkitap.com##.shareBtns
 m.sabah.com.tr##.social-fixed
 m.mynet.com##.detail-sticky[i-amphtml-fixedid]
 ||kobinet-nachrichten.org/themes/publication*/_js/share.js
+/pandalocker.$script,domain=lanka.ru
 stylight.de##.Trend-social > .btn
 hna.de##.id-Actionbox-items-el--whatsapp
 hna.de##.id-Actionbox-items-el--facebook
@@ -2589,6 +2597,7 @@ ajans23.com##img[alt="facebook-paylas"]
 line.do##timeline-moment-share
 line.do##share-button
 line.do##share-count
+cmo.com##.getsocial
 tvn24.pl,techadvisor.co.uk,pcadvisor.co.uk##.shareContainer
 gooool.org##.socialb
 goster.co##body .detay .paylasim.sabit
@@ -3518,6 +3527,7 @@ screenrant.com,therichest.com##.sharing-option
 indiatimes.com##.sharingBox
 therichest.com##.sharingOptions
 giga.de##.sharing_container
+msn.com##.sharingtb
 aksam.com.tr##.sharingwrap
 forum.xda-developers.com##.showthread-social
 internethaber.com,memurhaber.com##.shr

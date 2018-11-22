@@ -382,6 +382,7 @@
 0.0.0.0 gorgaz.info
 0.0.0.0 grafaman.ru
 0.0.0.0 growth-hackingan.info
+0.0.0.0 growth-hackingy.info
 0.0.0.0 guardlink.org
 0.0.0.0 guidetopetersburg.com
 0.0.0.0 handicapvantoday.com
@@ -483,6 +484,7 @@
 0.0.0.0 kozhasobak.com
 0.0.0.0 krasnodar-avtolombard.ru
 0.0.0.0 kredytbank.com.ua
+0.0.0.0 krumble-adsen.info
 0.0.0.0 laminat.com.ua
 0.0.0.0 landliver.org
 0.0.0.0 landoftracking.com
@@ -716,6 +718,7 @@
 0.0.0.0 semaltmedia.com
 0.0.0.0 seo-2-0.com
 0.0.0.0 seo-platform.com
+0.0.0.0 seo-services-b2b.com
 0.0.0.0 seo-smm.kz
 0.0.0.0 seoanalyses.com
 0.0.0.0 seocheckupx.com

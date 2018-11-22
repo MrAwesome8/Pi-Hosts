@@ -1,8 +1,8 @@
-! Checksum: tse2t7KiCbsffEfmLzjzpA
+! Checksum: jf32+Fygyo63Vn6FNJEN8A
 ! Title: AdGuard Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
-! Version: 2.0.10.0
-! TimeUpdated: 2018-11-20T15:11:00+00:00
+! Version: 2.0.10.6
+! TimeUpdated: 2018-11-21T21:02:35+03:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#annoyances
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -1102,6 +1102,7 @@ l2inc.com###daily-newsletter-signup
 idm-serial-number.com###sidebar > #FollowByEmail1
 ghacks.net##.ghacks-sidebar > #ghacks_ad_code-6
 eusouandroid.co##.td-ss-main-sidebar .sfm_widget_sec
+vellisa.ru###mbt-sub-box
 wochenblick.at##img[title="newsletter"]
 thedenverchannel.com##.module--email-widget
 buhgalteria.ru##.subscribe
@@ -1459,6 +1460,7 @@ windowstechblog.nl#$#.onp-sl-blur-area[style="filter: blur(5px);"] { filter: non
 gigadownloads.co,techsini.com##.onp-sl-overlap-box
 /pandalocker.$script,domain=lanka.ru
 0lik.ru##.onp-sl-outer-wrap
+warezcrack.net#$#.onp-sl-content > [data-lock-id^="onpLock"] { display: block!important; }
 djcracx.com#$#.onp-locker-call { display: block !important; }
 !
 mks.space###soc-rotator
@@ -1623,6 +1625,8 @@ androidworld.it#%#AG_abortInlineScript(/enm.com/, 'navigator');
 !+ NOT_PLATFORM (windows, mac, android)
 @@||androidworld.it^$generichide
 !
+@@||toolson.net/Scripts/core/advertisement.js
+independent.co.uk#@#.adBanner
 agotcitadel.boards.net#$#body { overflow: visible!important; position: initial!important; }
 agotcitadel.boards.net#$#body > div[id$="-overlay"] { display: none!important; }
 cnbeta.com#%#Object.defineProperty(window, 'Abd_Detector', { get: function() { return -1; } });
@@ -2326,6 +2330,7 @@ lolking.net##.ad-block-messaging
 @@||static.gelbeseiten.de/*/js/components/ads.js
 ||good-surf.ru/*script/script.js
 ||turbolab.it/js/economics.js
+spankwire.com###abMessage
 ||forum.mobzon.ru/adbp
 forum.mobzon.ru###wrap > .forabg
 ||mur.tv/wp-content/uploads/*/*.js
@@ -2848,6 +2853,7 @@ howwindows.ru#%#window.canRunAds = true;
 ###cookie-info-container
 ###cookie-info-div
 ###cookie-info-layer
+###cookie-information
 ###cookie-information-banner
 ###cookie-information-wrapper
 ###cookie-inner-wrapper
@@ -4284,7 +4290,15 @@ _europecookielaw.
 !#######################################################
 !######### Rules for specific sites ####################
 !#######################################################
+! https://github.com/AdguardTeam/AdguardFilters/issues/25529
+! Rules to block cookie notice on "amp" websites on Safari
 !
+!
+via.tt.se##div[class^="footer__notification styledBarNotification__BarNotificationOverlay-sc-"]
+rtl.de##.dnt__container
+www-turn--on-de.cdn.ampproject.org###amp-cookie-hint
+independer.nl##.ind-cbar
+anlegen-in-immobilien.de##.avia-cookie-consent
 svd.se##.psi-parent[role="alertdialog"][aria-label="Vi respekterar din integritet"]
 leguide.com##.popup_policies
 drivereasy.com##.float-bar
@@ -5121,6 +5135,7 @@ infowars.com,multiup.org##.cc-banner
 webcafe.bg##.cookies-banner-wrapper
 gelbeseiten.de##.gs-cookie-message
 blesk.cz##.cookies-panel
+youtube.com###consent-bump
 superiorwallpapers.com,wallpapermania.eu##.uk-alert
 player.pl##.cookie-notice
 atresplayer.com##.capa_cookies
@@ -5565,6 +5580,7 @@ deloitte.com##.cookie-container
 which.co.uk##.eprivacy-banner--displayed
 isla-eden.co.uk###islaeden-cookie-alert
 news.de##.cc_banner-wrapper
+leroymerlin.ru##.cookies-agree
 mobile.lemonde.fr##.cm-user-message
 2x2tv.ru##.bottom__cookie-block
 spielfilm.de##section > #alert
@@ -6212,6 +6228,7 @@ jerusalemonline.com#@##cookie-popup
 ! https://github.com/AdguardTeam/AdguardFilters/issues/14741
 @@||secure-store.nike.com/*/nikestore/gadget/nike/gadget/CookieSettingsManager
 ! https://github.com/AdguardTeam/AdguardFilters/issues/14005
+murdocklondon.com#@#.cookie-msg
 ! https://github.com/AdguardTeam/AdguardFilters/issues/13169
 @@||daretothink.co.uk/site/wp-content/uploads/eu-cookie-law-
 @@||daretothink.co.uk/eu-cookie-law-script^
@@ -6398,6 +6415,7 @@ tribalfootball.com##.core__aside > .widget[-ext-has='.mc_embed_signup']
 !
 !
 !--- Reamains of ads ---
+agar.space###login-tile > #instructions > h7:contains(- Advertisement -)
 news.tvbs.com.tw##.content_left2 > .newsdetail_box:has(> .content_center_list_box > .newsdetail_content_like > ul > [data-widget="plista_widget_belowArticle_default"])
 dvdlords.com###sidebar > .Widget:contains(ad_idzone)
 rtlnext.rtl.de##.rtli-master-split > .rtli-master-article > .rtli-master-section[-ext-has='.no-ads-passback']
@@ -6460,6 +6478,8 @@ m.facebook.com##.storyStream > #MNewsFeed > section.storyStream > article[-ext-h
 !! disabled due to rule update in English move rule to English filter if still nothing broken on 31.10.2018
 ! facebook.com##div[id^="substream_"] div[id^="hyperfeed_story_id_"][-ext-has='[id*="feed_subtitle_"] a[href^="https://www.facebook.com/#"] > span > span']
 ! End Facebook
+finanzen.net##.teaser > .box:has(> .box-headline:contains(WhatsApp Newsletter))
+finanzen.net##.col-sm-4 > .box:has(> .box-headline:contains(WhatsApp Newsletter))
 techrepublic.com##.row > .col-4 > section:not([class]):not([id]):has(>.keep-up > .newsletter-wrap)
 designmodo.com###sidebar-wrapper > .sidebar-h3:contains(Newsletter)
 latimes.com##.trb_ar_page > aside.trb_em[data-content-type="blurb"]:has(>.trb_em_bl[style="padding-top: 240px;"])
@@ -7204,6 +7224,7 @@ edeka.de#@##smartbanner.android
 !
 ! Specific sites
 !
+anlegen-in-immobilien.de##.showAiiNewsletterLayer
 aktiencheck.de###side_teaser_topleft
 psmag.com##body > div.m-interstitial
 u.gg###main-content > .discord-notification
@@ -7420,6 +7441,7 @@ mybroadband.co.za##.next-previous-article
 bicaps.net#$#.swal2-shown { overflow:visible!important; }
 bicaps.net#$#.swal2-container { display:none!important; }
 riamo.ru##.yandex-news-promo
+kp.ru###MailSubscriptionPopupEl
 masmotors.ru###block-webform-client-block-5816.block-webform
 masmotors.ru###block-webform-client-block-7622.block-webform
 itcrumbs.ru##.check-also-right
@@ -8256,6 +8278,8 @@ com-magazin.de##w-div[role$="dialog"]
 ||sud.ua/js/jquery.arcticmodal*.min.js
 ||turkusozu.com/js/fancybox/
 ||ufatime.ru/st/libs/magnific/jquery.magnific-popup.min.js
+! https://github.com/AdguardTeam/AdguardFilters/issues/25623
+amfora.pl,budujesz.pl,digitalo.pl,hulahop.pl,meblujesz.pl,morele.net,motoria.pl,pupilo.pl,sklep-presto.pl,ubieramy.pl#%#document.cookie = "newPageInfoCookie=true";
 !
 diamante-wear.com#$#.newsletter__popup { display: none!important; }
 diamante-wear.com#$#.popup__opened { overflow: visible!important; }
@@ -9631,6 +9655,7 @@ cc-fan.tv,cn-fan.ru,fox-fan.ru,fox-fan.tv###shopVip
 ||redecanais.com/imgs-videos/bannervip.jpg
 visualstudio.com,office.com,xbox.com,microsoft.com,msra.cn###epb
 accuweather.com##.sidebar-telmet-promo
+ok.ru##.layer_hld > div.__pro-music
 mercurynews.com##div.info-box[id^="ConneXt_Action_Id-"]
 ||shop.kicker.de^
 femina.hu##div[data-miniapp-id]
@@ -10098,6 +10123,7 @@ networkguru.ru##.tbForm_CallMe
 ||api.leadiacloud.com^$third-party
 ||api.pozvonim.com^$third-party
 ||api.venyoo.ru^$third-party
+||cdn.callbackhunter.com^$third-party
 ||cdn.krible.com^$third-party
 ||chat.chatra.io^$third-party
 ||cleversite.ru^$third-party

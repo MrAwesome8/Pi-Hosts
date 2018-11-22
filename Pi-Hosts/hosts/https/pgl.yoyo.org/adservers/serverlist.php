@@ -6,11 +6,11 @@
 # entries: 2930
 # format: hosts (hosts -- in hosts file format)
 # credits: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+# this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext;showintro=0
 # other formats: https://pgl.yoyo.org/adservers/formats.php
 # policy: https://pgl.yoyo.org/adservers/policy.php
 #
-# start date: Thu, 26 Nov 1998 00:00:00
+# start date: Fri, 27 Nov 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com

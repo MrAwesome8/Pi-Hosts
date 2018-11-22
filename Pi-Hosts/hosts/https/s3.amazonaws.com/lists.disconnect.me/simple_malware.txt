@@ -101,7 +101,6 @@
 0.0.0.0 aipp-italia.it
 0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
 0.0.0.0 pizzotti.net
-0.0.0.0 sushischool.ru
 0.0.0.0 llbb88.com
 0.0.0.0 regis.foultier.free.fr
 0.0.0.0 vrot.stervapoimenialena.info

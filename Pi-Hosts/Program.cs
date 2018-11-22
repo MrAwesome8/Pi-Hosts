@@ -104,7 +104,7 @@ namespace Pi_Hosts {
             TreeNode<string> blockTree = new TreeNode<string>(root);
 
             fromList.AsParallel().ForAll(list => {
-                //if (list.StartsWith('#')) return; //skip
+                if (list.StartsWith('#') || !list.Exists()) return; //skip
                 var url = new Uri(list);
 
                 var segments = url.Segments.Where(x => !x.Equals("/") && x.Exists()).ToArray();
@@ -217,14 +217,14 @@ namespace Pi_Hosts {
             ArchiveLists(blockTree);
 
             //check to see if any missing lists have returned
-            //if (shouldUpdate) {
-            //    if (BackupList.Count() > 0) {
-            //        ArchiveLists(BuildTree(BackupList, "hosts"));
-            //    }
-            //    if (MissingList.Count() > 0) {
-            //        ArchiveLists(BuildTree(MissingList, "hosts"));
-            //    }
-            //}
+            if (shouldUpdate) {
+                if (BackupList.Count() > 0) {
+                    ArchiveLists(BuildTree(BackupList, "hosts"));
+                }
+                if (MissingList.Count() > 0) {
+                    ArchiveLists(BuildTree(MissingList, "hosts"));
+                }
+            }
 
             File.WriteAllLines(BlockListPath, GoodList); //lists which are active
             File.WriteAllLines(BackupListPath, BackupList); //no longer active, but we have a copy

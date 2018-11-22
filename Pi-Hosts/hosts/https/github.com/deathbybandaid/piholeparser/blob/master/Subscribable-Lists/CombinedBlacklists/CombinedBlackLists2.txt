@@ -1,3 +1,9 @@
+0.0.0.0 wickedweaselbikinis.blogspot.com.br
+0.0.0.0 wickedweaselbikinis.blogspot.com.by
+0.0.0.0 wickedweaselbikinis.blogspot.com.co
+0.0.0.0 wickedweaselbikinis.blogspot.com.cy
+0.0.0.0 wickedweaselbikinis.blogspot.com.ee
+0.0.0.0 wickedweaselbikinis.blogspot.com.eg
 0.0.0.0 wickedweaselbikinis.blogspot.com.es
 0.0.0.0 wickedweaselbikinis.blogspot.com.mt
 0.0.0.0 wickedweaselbikinis.blogspot.com.ng

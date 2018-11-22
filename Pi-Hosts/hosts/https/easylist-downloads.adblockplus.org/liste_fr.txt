@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: f3VVpxT08ui0G7Wf5YZFdQ
-! Version: 201811210433
+! Checksum: mAtHzP+BhExxalPRgB/ScA
+! Version: 201811220233
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList

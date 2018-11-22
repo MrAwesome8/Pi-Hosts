@@ -3349,6 +3349,10 @@
 0.0.0.0 sv-pr.ru
 0.0.0.0 widget.mediastealer.com
 0.0.0.0 ru-novocti.com
+0.0.0.0 emented.pro
+0.0.0.0 obaizahshita.info
+0.0.0.0 jaizouji.com
+0.0.0.0 tauptaup.com
 0.0.0.0 otefauks.link
 0.0.0.0 ptocmaux.com
 0.0.0.0 ads.avocet.io
@@ -12181,6 +12185,7 @@
 0.0.0.0 lnicyniqxdxg.com
 0.0.0.0 lojuxbnt.com
 0.0.0.0 lovvznyhujf.com
+0.0.0.0 lpbhbwpbpnl.com
 0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lpxxafsupgsho.com
 0.0.0.0 ltvrdftgr.com

@@ -1,4 +1,4 @@
-# Last Update: Tue Nov 20 10:26:12 EST 2018
+# Last Update: Wed Nov 21 10:32:52 EST 2018
 #
 # sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org. -Made In USA-
 # Blacklists by Squidblacklist.org are licensed under a creative commons attribution-noderivatives 4.0 international license.
@@ -819,7 +819,6 @@
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
 0.0.0.0 ads.heyzap.com
-0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.honestpartners.com
 0.0.0.0 adshopping.com
@@ -2220,7 +2219,6 @@
 0.0.0.0 footnote.com
 0.0.0.0 forced-lose.de
 0.0.0.0 forex-affiliate.com
-0.0.0.0 forexyard.com
 0.0.0.0 forkizata.com
 0.0.0.0 forpyke.com
 0.0.0.0 fpctraffic2.com
@@ -2870,6 +2868,7 @@
 0.0.0.0 monkeybroker.net
 0.0.0.0 monsoonads.com
 0.0.0.0 monsterpops.com
+0.0.0.0 mootermedia.com
 0.0.0.0 moritava.com
 0.0.0.0 motrixi.com
 0.0.0.0 mottnow.com
@@ -3467,7 +3466,6 @@
 0.0.0.0 sa.entireweb.com
 0.0.0.0 safelistextreme.com
 0.0.0.0 sageanalyst.net
-0.0.0.0 sakura-traffic.com
 0.0.0.0 saleads.pro
 0.0.0.0 salesnleads.com
 0.0.0.0 salvador24.com
@@ -4362,6 +4360,7 @@
 0.0.0.0 wmmediacorp.com
 0.0.0.0 wms-fe.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 wonclick.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
