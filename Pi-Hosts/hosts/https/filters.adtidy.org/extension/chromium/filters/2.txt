@@ -1,8 +1,8 @@
-! Checksum: BHMu7ot5r1fj9/sbgmN2Qw
+! Checksum: XyGpapdhJ1jJjjRtgHIwEA
 ! Title: AdGuard Base filter
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.0.20.83
-! TimeUpdated: 2018-11-22T04:01:56+03:00
+! Version: 2.0.20.84
+! TimeUpdated: 2018-11-22T06:02:07+03:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#english
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -57820,6 +57820,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||viuboin4.com^$third-party
 ||yie4zooseif.info^$third-party
 ||aayaknbn.com^$third-party
+||abbahoxgss.com^$third-party
 ||abfcfxfkzmiqht.com^$third-party
 ||acduswfvyjylzq.com^$third-party
 ||achsijkc.com^$third-party
@@ -58878,6 +58879,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xkgbbiqqekja.com^$third-party
 ||xkhxejeaarq.com^$third-party
 ||xkjlcqbufdlwrq.com^$third-party
+||xklrckmslshvq.com^$third-party
 ||xkzzkxntmryst.com^$third-party
 ||xlspkqpnnqj.com^$third-party
 ||xmazvzvbqli.com^$third-party

@@ -23,6 +23,7 @@ namespace Pi_Hosts {
         private const string DeadListPath = "dead.list";
         private const string Hole = "0.0.0.0";
         private const int MaxFileSizeMb = 80;
+        static int domainCount = 0;
 
         //github maxfile upload is 100MB. (rec.50MB)
         private const int MIB = 1049000;
@@ -73,6 +74,8 @@ namespace Pi_Hosts {
                         } else {
                             MarkListAs(url, ListType.BackedUp);
                         }
+
+                        domainCount += File.ReadLines(path).Count();
                     } else {
                         if (!valid) { MarkListAs(url, ListType.Missing); return; } //url doesnt exist and we have no backup :(
 
@@ -236,6 +239,7 @@ namespace Pi_Hosts {
                 status.WriteLine($"Active Lists: {GoodList.Count()}");
                 status.WriteLine($"Backup Lists: {BackupList.Count()}");
                 status.WriteLine($"Dead   Lists: {MissingList.Count()}");
+                status.WriteLine($"Domain Count: {domainCount.ToString()}");
             }
         }
 

@@ -1,5 +1,6 @@
 Pi-Hosts Status Report
 Last Update: 11/21/2018
-Active Lists: 309
+Active Lists: 311
 Backup Lists: 14
-Dead   Lists: 15
+Dead   Lists: 12
+Domain Count: 16844800

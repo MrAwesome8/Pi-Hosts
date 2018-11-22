@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /rth2UtjiGMQZzNIGB1ZTQ
-! Version: 201811220242
+! Checksum: t5a6dS1o+398ltN0p+bJlg
+! Version: 201811220302
 ! Title: EasyList Spanish
-! Last modified: 22 Nov 2018 02:42 UTC
+! Last modified: 22 Nov 2018 03:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
