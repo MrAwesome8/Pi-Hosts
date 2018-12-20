@@ -68,6 +68,10 @@ namespace Pi_Hosts {
 
                         var stillRecent = File.GetLastWriteTimeUtc(path).AddMinutes(30) > DateTime.UtcNow;
 
+                        if(stillRecent) {
+                            Console.WriteLine(path + " still recent");
+                        }
+
                         if (!shouldUpdate || stillRecent) { MarkListAs(url, ListType.Cached); return; }
 
                         var result = WriteListToFile(path, url);
@@ -190,6 +194,10 @@ namespace Pi_Hosts {
                     if (!line.Exists() || line.StartsWith('#') || line.StartsWith("::")) return line;
                     var parts = line.Split(' ');
                     var domain = parts.Length == 1 ? line : parts[1];
+                    if (!domain.Contains('.')) {
+                        Console.WriteLine("Skipping: " + domain);
+                        return "";
+                    }
                     return $"{Hole} {domain}";
                 });
             }

@@ -1,8 +1,8 @@
-! Checksum: 1MzFEk6lytft5pN+WO2u2Q
+! Checksum: cylytTrENsrqUeblr3mxog
 ! Title: AdGuard Base filter
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
-! Version: 2.0.24.60
-! TimeUpdated: 2018-12-20T22:30:57+03:00
+! Version: 2.0.24.61
+! TimeUpdated: 2018-12-20T23:30:53+03:00
 ! Expires: 2 days (update frequency)
 ! Homepage: http://adguard.com/filters.html#english
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -19988,6 +19988,7 @@ adguard.com##.hello_from_adguard
 !#########################################
 ! START: Temporary
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/26831
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27061
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26884
 ! https://github.com/AdguardTeam/CoreLibs/issues/524

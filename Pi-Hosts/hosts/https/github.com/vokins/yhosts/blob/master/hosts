@@ -1079,11 +1079,11 @@
 0.0.0.0 dai.shuzilm.cn
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
-0.0.0.0 broadcasthost
+
 ::1 localhost
-0.0.0.0 localhost
+
 ::1 ip6-localhost
-0.0.0.0 XiaoQiang
+
 0.0.0.0 geo2.adobe.com
 0.0.0.0 get3.adobe.com
 0.0.0.0 flash.2144.com

@@ -1,4 +1,4 @@
-0.0.0.0 localhost
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000dom.revenuedirect.com
@@ -46479,7 +46479,7 @@
 0.0.0.0 loboclick.com
 0.0.0.0 lobstersctero.download
 0.0.0.0 loc1.hitsprocessor.com
-0.0.0.0 local
+
 0.0.0.0 local.ads.nwsource.com
 0.0.0.0 local.promoisland.net
 0.0.0.0 localads-statistics.maps.me

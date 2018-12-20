@@ -1213,18 +1213,18 @@
 0.0.0.0 2kbp2.voluumtrk.com
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 2luvcac3ldm1m8uobqsgnldyotdob1514630751.nuid.imrworldwide.com
-0.0.0.0 2
+
 0.0.0.0 2o4ssijizhvedi43sbkvj6vdxkg6p1504917111.nuid.imrworldwide.com
 0.0.0.0 2o53s.voluumtrk.com
 0.0.0.0 2o7.net
 0.0.0.0 2oetjo1fqnnsl1m5ynnqslkp7ihwk1509534322.nuid.imrworldwide.com
 0.0.0.0 2oxyrtetiuyvgasfi7eovib9oopxg1510254611.nuid.imrworldwide.com
 0.0.0.0 2podcast.crazyegg.com
-0.0.0.0 2
+
 0.0.0.0 2qb5tjqwga.kameleoon.eu
 0.0.0.0 2rfcdozkjcz46nqqhrbprylvm5ea71516371350.nuid.imrworldwide.com
 0.0.0.0 2rm82.voluumtrk.com
-0.0.0.0 2
+
 0.0.0.0 2sm6o.voluumtrk.com
 0.0.0.0 2tazz.lyfd2xzauti9d8p.bapb.gdn
 0.0.0.0 2tloyssxnu.kameleoon.eu
@@ -1625,7 +1625,7 @@
 0.0.0.0 3flv2.voluumtrk.com
 0.0.0.0 3gimg.qq.com
 0.0.0.0 3grs6.voluumtrk.com
-0.0.0.0 3
+
 0.0.0.0 3jugr51ukshducidnj06ahszk8ptj1513558820.nuid.imrworldwide.com
 0.0.0.0 3k4hppja.stream
 0.0.0.0 3kn4ekvh6t.kameleoon.eu
@@ -1640,7 +1640,7 @@
 0.0.0.0 3sec9.voluumtrk.com
 0.0.0.0 3sp7pj0q0s.kameleoon.eu
 0.0.0.0 3sp7pj0q0s.mentalist.kameleoon.com
-0.0.0.0 3
+
 0.0.0.0 3vqy.tlnk.io
 0.0.0.0 3vtuo.voluumtrk.com
 0.0.0.0 3y6wkio4ih.mentalist.kameleoon.com
@@ -3945,7 +3945,7 @@
 0.0.0.0 adb.brandreachsys.com
 0.0.0.0 adbcache.brandreachsys.com
 0.0.0.0 ad.be.doubleclick.net
-0.0.0.0 adbemdigitalmediarebootp
+
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.netadbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 adbemextract4bracketsrebootprod2.112.2o7.net
@@ -12577,11 +12577,11 @@
 0.0.0.0 ht-thm.hoverr.media
 0.0.0.0 ht-thw.hoverr.media
 0.0.0.0 httpb.scorecardresearch.com
-0.0.0.0 http
+
 0.0.0.0 httpsloadus.exelator.com
 0.0.0.0 https.smi2.ru
 0.0.0.0 http.trailers.brazzerstv.contentabc.com
-0.0.0.0 http
+
 0.0.0.0 httptrk.vidible.tv
 0.0.0.0 ht-webdunia.hoverr.media
 0.0.0.0 ht-znindia.hoverr.media
@@ -21653,7 +21653,7 @@
 0.0.0.0 speednetwork10.adk2x.com
 0.0.0.0 speednetwork13.adk2x.com
 0.0.0.0 speednetwork14.adk2.co
-0.0.0.0 speednetwork
+
 0.0.0.0 speednetwork15.adk2x.com
 0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 speednetwork20.adk2x.com
@@ -24503,7 +24503,7 @@
 0.0.0.0 urlaub-sri-lanka.de.intellitxt.com
 0.0.0.0 urlaubsziele.de.intellitxt.com
 0.0.0.0 urlauth.ksmobile.net
-0.0.0.0 url
+
 0.0.0.0 urpnk4ychzddu1oq5zb53f47yw8fj1514984466.nuid.imrworldwide.com
 0.0.0.0 urs.cnet.com
 0.0.0.0 uruam.voluumtrk.com
@@ -29080,7 +29080,7 @@
 0.0.0.0 spdy-lb4.adsymptotic.com
 0.0.0.0 spdy-lb5.adsymptotic.com
 0.0.0.0 spdy-lb8.adsymptotic.com
-0.0.0.0 url
+
 0.0.0.0 urlp.adsymptotic.com
 0.0.0.0 www.adtechjp.com
 0.0.0.0 a.adtechjp.com

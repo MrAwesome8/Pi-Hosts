@@ -1,4 +1,4 @@
-0.0.0.0 localhost
+
 0.0.0.0 0.gravatar.com
 0.0.0.0 001.hitgraph.jp
 0.0.0.0 002.hitgraph.jp

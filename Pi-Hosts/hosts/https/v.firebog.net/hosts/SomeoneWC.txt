@@ -1,7 +1,7 @@
-0.0.0.0 localhost
+
 0.0.0.0 localhost.localdomain
-0.0.0.0 broadcasthost
-0.0.0.0 local
+
+
 0.0.0.0 goatse.cx
 0.0.0.0 www.goatse.cx
 0.0.0.0 oralse.cx

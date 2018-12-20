@@ -13,7 +13,7 @@
 #
 # (1) site
 #
-0.0.0.0 Site
+
 0.0.0.0 4kqd3hmqgptupi3p.k7oud1.top
 0.0.0.0 stgg5jv6mqiibmax.torshop.li
 0.0.0.0 52uo5k3t73ypjije.ie7t8k.top

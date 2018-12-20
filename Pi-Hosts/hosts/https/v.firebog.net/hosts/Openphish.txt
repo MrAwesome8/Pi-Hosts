@@ -354,7 +354,7 @@
 0.0.0.0 www.lds-ads.com
 0.0.0.0 cozyhavenapartments.co.ke
 0.0.0.0 myethrwaillet.info
-0.0.0.0 idexethereum
+
 0.0.0.0 cheerless-revolutio.000webhostapp.com
 0.0.0.0 luxconsultancysg.com
 0.0.0.0 chase.zentechagency.com

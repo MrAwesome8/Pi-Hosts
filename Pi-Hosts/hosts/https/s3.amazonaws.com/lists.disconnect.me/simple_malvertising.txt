@@ -1,4 +1,4 @@
-0.0.0.0 list
+
 # License: GPLv3
 # Contact: support [at] disconnect.me
 

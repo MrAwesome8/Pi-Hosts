@@ -1076,9 +1076,9 @@
 0.0.0.0 dai.shuzilm.cn
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
-0.0.0.0 broadcasthost
-0.0.0.0 localhost
-0.0.0.0 xiaoqiang
+
+
+
 0.0.0.0 geo2.adobe.com
 0.0.0.0 get3.adobe.com
 0.0.0.0 flash.2144.com

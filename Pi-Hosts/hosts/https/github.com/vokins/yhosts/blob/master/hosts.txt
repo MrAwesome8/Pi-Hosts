@@ -1,14 +1,14 @@
-0.0.0.0 @direct/1os
+
 #ios
-0.0.0.0 broadcasthost
+
 ::1 localhost
 #common
-0.0.0.0 localhost
+
 #android
 ::1 ip6-localhost
 #miwifi
-0.0.0.0 XiaoQiang
-0.0.0.0 @direct/official
+
+
 #Flash
 0.0.0.0 geo2.adobe.com
 0.0.0.0 get3.adobe.com
@@ -18,7 +18,7 @@
 0.0.0.0 iadctest.qwapi.com
 #MicroSoft
 0.0.0.0 ieonline.microsoft.com
-0.0.0.0 @direct/3rd
+
 #acdsee
 0.0.0.0 acdid.acdsystems.com
 #acronis
@@ -343,7 +343,7 @@
 0.0.0.0 re.taobao.com
 0.0.0.0 re.m.taobao.com
 0.0.0.0 show.re.taobao.com
-0.0.0.0 @cps-taobao-simba
+
 0.0.0.0 click.mz.simba.taobao.com
 0.0.0.0 click.simba.taobao.com
 0.0.0.0 click.tz.simba.taobao.com
@@ -703,7 +703,7 @@
 0.0.0.0 zvs2.cnzz.com
 #cnzz.net
 0.0.0.0 pcookie.cnzz.net
-0.0.0.0 @cps-shopping
+
 0.0.0.0 aos.prf.hn
 0.0.0.0 click.lergao.com
 0.0.0.0 click.linktech.cn
@@ -1218,7 +1218,7 @@
 0.0.0.0 dai.shuzilm.cn
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
-0.0.0.0 @cps-taobao-click
+
 0.0.0.0 ju.taobao.com
 0.0.0.0 tejia.taobao.com
 0.0.0.0 tui.taobao.com
@@ -1229,28 +1229,28 @@
 0.0.0.0 s.click.tmall.com
 0.0.0.0 temai.m.taobao.com
 0.0.0.0 jx.tmall.com
-0.0.0.0 @cps-jd
+
 0.0.0.0 c-nfa.jd.com
 0.0.0.0 ccc.x.jd.com
 0.0.0.0 click.jr.jd.com
 0.0.0.0 img.x.jd.com
 0.0.0.0 jrclick.jd.com
 0.0.0.0 stat.m.jd.com
-0.0.0.0 @errorpage/click
+
 0.0.0.0 go.fcwr8.com
 0.0.0.0 pro.yyhudong.com
 0.0.0.0 marketres.feidee.com
 0.0.0.0 app.shandjj.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 dorado.xiaojukeji.com
-0.0.0.0 @errorpage/weixin
+
 0.0.0.0 vzan.com
 0.0.0.0 wx.shunliandongli.com
 #www.youzan.com
 0.0.0.0 tj.koudaitong.com
 #yy
 0.0.0.0 ppiy.v5.yy.com
-0.0.0.0 @errorpage/inside
+
 0.0.0.0 activity.m.duiba.com.cn
 0.0.0.0 embedlog.duiba.com.cn
 0.0.0.0 yun.duiba.com.cn
@@ -1260,13 +1260,13 @@
 0.0.0.0 log.ttjx.tatagou.com.cn
 0.0.0.0 ttg.cdn.suanzi.cn
 0.0.0.0 s.youzhuanhua.com
-0.0.0.0 @errorpage/daohang
+
 0.0.0.0 www.2345.com
 0.0.0.0 www.hao123.com
 0.0.0.0 m.hao123.com
 0.0.0.0 vs12.bj.u3.ucweb.com
 0.0.0.0 yeah.qq.com
-0.0.0.0 @errorpage/sns
+
 0.0.0.0 www.saxmcu.cn
 0.0.0.0 ndyjs.xjtu.edu.cn
 0.0.0.0 tw.find2c.com
@@ -1319,7 +1319,7 @@
 0.0.0.0 lp.tantanapp.com
 0.0.0.0 apk-ssl.tancdn.com
 0.0.0.0 tantanapp.com
-0.0.0.0 @down
+
 #down-2345
 0.0.0.0 dl.2345.com
 0.0.0.0 download.2345.com
@@ -1381,7 +1381,7 @@
 0.0.0.0 c.gj.qq.com
 0.0.0.0 t.sj.qq.com
 0.0.0.0 ws.sj.qq.com
-0.0.0.0 @down/virus
+
 #dabaicai
 0.0.0.0 www.winbaicai.com
 0.0.0.0 down.winbaicai.com
@@ -1743,7 +1743,7 @@
 0.0.0.0 mip.yuelvxing.com
 #yyfensi.com
 0.0.0.0 bdjs.laonanren.com
-0.0.0.0 @android
+
 #ali-yunos
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
@@ -1936,7 +1936,7 @@
 #http://www.jjvod.com/
 0.0.0.0 mini.jijiplayer.com
 0.0.0.0 txtad.jijiplayer.com
-0.0.0.0 @app-browser
+
 #http://app.2345.com/mob.htm
 0.0.0.0 2345api.dftoutiao.com
 0.0.0.0 2345apicode.dftoutiao.com
@@ -2127,7 +2127,7 @@
 0.0.0.0 ad.yeshitv.com
 #http://www.hdplive.net/
 0.0.0.0 ad.vryeye.com
-0.0.0.0 @cibn
+
 #cibntv.net
 0.0.0.0 api.adv.ott.cibntv.net
 #http://tv.sohu.com/ott/sohutv/
@@ -5414,7 +5414,7 @@
 0.0.0.0 zzcw.office-mall.net
 0.0.0.0 zzy.mipujia.com
 0.0.0.0 zzy1.mipujia.com
-0.0.0.0 @site-us
+
 #abcnews
 0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.disney.starwave.com
@@ -5635,7 +5635,7 @@
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 adx.adxglobal.com
-0.0.0.0 @hijack/operators
+
 #10000
 0.0.0.0 daohang.114so.cn
 0.0.0.0 www.114so.cn
@@ -5712,24 +5712,24 @@
 0.0.0.0 nfdnserror17.wo.com.cn
 #10086
 0.0.0.0 hivedata.cc
-0.0.0.0 @hijack/apk-down
+
 0.0.0.0 m.kubiqq.com
-0.0.0.0 @hijack/domain
+
 0.0.0.0 offline-adv.oray.com
-0.0.0.0 @hijack/homepage
+
 0.0.0.0 hao.qquu8.com
 0.0.0.0 hao549.com
 0.0.0.0 www.i1236.net
 0.0.0.0 hk.jtsh123.com
 0.0.0.0 hao.7654.com
-0.0.0.0 @hijack/netbar
+
 0.0.0.0 api.g1.junfull.com
 0.0.0.0 api.g2.junfull.com
 0.0.0.0 abc.xtyx918.com
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 gamead.swjoy.com
-0.0.0.0 @hijack/wifi
+
 0.0.0.0 c.minisplat.cn
 0.0.0.0 c1.minisplat.cn
 0.0.0.0 l.minisplat.cn
@@ -5869,10 +5869,10 @@
 0.0.0.0 xmrminer.cc
 0.0.0.0 coinhive.com
 0.0.0.0 www.coinhive.com
-0.0.0.0 @hijack/x-router
+
 0.0.0.0 info.yitsoftware.com
-0.0.0.0 @popup
-0.0.0.0 @union-cn
+
+
 #163
 0.0.0.0 adgeo.163.com
 0.0.0.0 iad.g.163.com
@@ -5987,7 +5987,7 @@
 0.0.0.0 duapps.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
-0.0.0.0 @union-cn-plus
+
 #001union
 0.0.0.0 jump.001union.com
 0.0.0.0 jump.baidu.001union.com
@@ -7081,7 +7081,7 @@
 0.0.0.0 www.zhidian3g.cn
 #zhiziyun.com
 0.0.0.0 cm.zhiziyun.com
-0.0.0.0 @union-en
+
 #ad-survey.com
 0.0.0.0 sspservice.ad-survey.com
 0.0.0.0 tracking.ad-survey.com
@@ -7600,7 +7600,7 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 sync.crwdcntrl.net
-0.0.0.0 @site-foregin/adult
+
 #91porn.com
 0.0.0.0 fans.bestvogue.com
 #hk01.com
@@ -7608,20 +7608,20 @@
 #pronhub.com
 0.0.0.0 rad.reporo.net
 0.0.0.0 ads.traffichunt.com
-0.0.0.0 @site-foregin/news
+
 #m.cn.rfi.fr
 0.0.0.0 nexus.ensighten.com
 #m.cn.nytimes.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
-0.0.0.0 @site-foregin/sns
+
 #wp.com
 0.0.0.0 stats.wp.com
-0.0.0.0 @site-foregin/tools
+
 #pingdom
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-static.pingdom.net
-0.0.0.0 @site-foregin/down
+
 #mac-torrent-download.net
 0.0.0.0 inclk.com
 0.0.0.0 p215223.inclk.com
@@ -7643,13 +7643,13 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 pl14369502.puserving.com
 0.0.0.0 ie8eamus.com
-0.0.0.0 @site-foregin/union
+
 #aol-cn.engadget.com
 0.0.0.0 adinfo.aol.com
 0.0.0.0 cdn.komentary.aol.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
-0.0.0.0 @union-jp
+
 #ad-stir
 0.0.0.0 ad-stir.com
 0.0.0.0 ad.ad-stir.com
@@ -7688,11 +7688,11 @@
 0.0.0.0 img1.nend.net
 0.0.0.0 js1.nend.net
 0.0.0.0 output.nend.net
-0.0.0.0 @union-india
+
 #yengo
 0.0.0.0 st.yengo.com
 0.0.0.0 www.yengo.com
-0.0.0.0 @union-ru
+
 #adriver.ru
 0.0.0.0 ad.adriver.ru
 0.0.0.0 content.adriver.ru
