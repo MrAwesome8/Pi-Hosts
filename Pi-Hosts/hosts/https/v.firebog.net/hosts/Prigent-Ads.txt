@@ -8,11 +8,13 @@
 0.0.0.0 2mdn.net
 0.0.0.0 360yield.com
 0.0.0.0 3stepads.com
+0.0.0.0 a.adroll.com
 0.0.0.0 a.as-eu.falkag.net
 0.0.0.0 a2dfp.net
 0.0.0.0 aaddzz.com
 0.0.0.0 abcmedios.com
 0.0.0.0 actance.net
+0.0.0.0 action.dstillery.com
 0.0.0.0 ad-track.de
 0.0.0.0 ad-up.com
 0.0.0.0 ad.20six.fr
@@ -373,6 +375,7 @@
 0.0.0.0 ads.webmarketing-e.com.ar
 0.0.0.0 ads.webmd.com
 0.0.0.0 ads.x10.com
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.zdnet.com
@@ -554,6 +557,7 @@
 0.0.0.0 bluecava.com
 0.0.0.0 bluekai.com
 0.0.0.0 bluelithium.com
+0.0.0.0 bonneoffre.eu
 0.0.0.0 borkaniosanos1.info
 0.0.0.0 brandreachsys.com
 0.0.0.0 brightroll.com
@@ -567,6 +571,7 @@
 0.0.0.0 canopka.net
 0.0.0.0 cartsrv.com
 0.0.0.0 carwatchonline.info
+0.0.0.0 casalmedia.com
 0.0.0.0 cash-duck.com
 0.0.0.0 cash-for-clicks.de
 0.0.0.0 cash4views.de
@@ -632,6 +637,7 @@
 0.0.0.0 double-berry.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleverify.com
+0.0.0.0 dpm.demdex.net
 0.0.0.0 dtmpub.com
 0.0.0.0 e-planning.net
 0.0.0.0 ebuzzing.com
@@ -665,6 +671,7 @@
 0.0.0.0 fimserve.com
 0.0.0.0 flonty.com
 0.0.0.0 flycast.com
+0.0.0.0 fooleing.space
 0.0.0.0 fourmix.net
 0.0.0.0 foxev.com
 0.0.0.0 foxnetworks.com
@@ -1057,6 +1064,7 @@
 0.0.0.0 worldwideinteractivemarketing.com
 0.0.0.0 wuterdetions.com
 0.0.0.0 wwwban.trokers.net
+0.0.0.0 x.bidswitch.net
 0.0.0.0 xtendmedia.com
 0.0.0.0 y20ads.com
 0.0.0.0 yaia.com

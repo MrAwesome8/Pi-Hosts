@@ -15958,6 +15958,7 @@
 0.0.0.0 addynamix.com
 0.0.0.0 addynamo.net
 0.0.0.0 ade.clmbtech.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adecn.adnxs.com
 0.0.0.0 adecn.com
 0.0.0.0 adedy.com
@@ -20796,7 +20797,6 @@
 0.0.0.0 bcast.pw
 0.0.0.0 bcfads.com
 0.0.0.0 bcmediagroup.com
-0.0.0.0 bcnmonetize.go2affise.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcsrciccspermatic.review
 0.0.0.0 bd.moatads.com
@@ -22973,7 +22973,6 @@
 0.0.0.0 cdn.cpmstar.com
 0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.creative.medialytics.com
-0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.derlatas.com
 0.0.0.0 cdn.devolapgt.com
 0.0.0.0 cdn.digitalcity.com
@@ -23117,7 +23116,6 @@
 0.0.0.0 cdn.technoratimedia.com
 0.0.0.0 cdn.thetorntv.com
 0.0.0.0 cdn.theturboforums.com
-0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.tomekas.com
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.trafficforce.com
@@ -26552,7 +26550,6 @@
 0.0.0.0 easyscopes.net
 0.0.0.0 easyspace.com
 0.0.0.0 eat-travel.apx.appier.net
-0.0.0.0 eatthis.com
 0.0.0.0 eb0ej.voluumtrk.com
 0.0.0.0 ebao.duba.net
 0.0.0.0 ebay.northernhost.com
@@ -28504,7 +28501,6 @@
 0.0.0.0 go.affec.tv
 0.0.0.0 go.by
 0.0.0.0 go.clickhoptk.com
-0.0.0.0 go.clicktrackopt.com
 0.0.0.0 go.coxds.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.doupat.xyz
@@ -28616,6 +28612,7 @@
 0.0.0.0 goto.myfunbreak.com
 0.0.0.0 gotoast.com
 0.0.0.0 gotoo.com
+0.0.0.0 gotrack.static500.com
 0.0.0.0 goviralnetwork.com
 0.0.0.0 goviralnetwork.net
 0.0.0.0 goweb.de
@@ -33582,7 +33579,6 @@
 0.0.0.0 profitzone.com
 0.0.0.0 progressive.lp.mydas.mobi
 0.0.0.0 project2.realtracker.com
-0.0.0.0 projectcounter.org
 0.0.0.0 projectvrtcl.go2cloud.org
 0.0.0.0 projectwonderful.com
 0.0.0.0 projop.dnsalias.com
@@ -34794,7 +34790,6 @@
 0.0.0.0 scbl54virared.com
 0.0.0.0 sccqbcwwuoerlikon.review
 0.0.0.0 scd.secureintl.com
-0.0.0.0 scdn.cxense.com
 0.0.0.0 schizopodviicvxvtr.download
 0.0.0.0 scholasticinc.tt.omtrdc.net
 0.0.0.0 schuelvz.ivwbox.de
@@ -34939,7 +34934,6 @@
 0.0.0.0 secure.eloqua.com
 0.0.0.0 secure.exoclick.com
 0.0.0.0 secure.flashtalking.com
-0.0.0.0 secure.footprint.net
 0.0.0.0 secure.fortuneaffiliates.com
 0.0.0.0 secure.gaug.es
 0.0.0.0 secure.ifbyphone.com
@@ -37369,6 +37363,7 @@
 0.0.0.0 trk.blamads.com
 0.0.0.0 trk.bluetrackmedia.com
 0.0.0.0 trk.clmbtech.com
+0.0.0.0 trk.dsllgal.com
 0.0.0.0 trk.dsv2trk.com
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trk.m.libero.it
@@ -41758,7 +41753,6 @@
 0.0.0.0 vulgarizexemdqzmr.download
 0.0.0.0 vumeujlug.download
 0.0.0.0 vungle.com
-0.0.0.0 vviii.ru
 0.0.0.0 vw.masterstats.com
 0.0.0.0 vwr1.hitbox.com
 0.0.0.0 vygeirghpedaller.review
@@ -41770,7 +41764,6 @@
 0.0.0.0 w.estat.com
 0.0.0.0 w.extreme-dm.com
 0.0.0.0 w.goprkcdn.com
-0.0.0.0 w.hypercomments.com
 0.0.0.0 w.mlv-cdn.com
 0.0.0.0 w.online-verlag-freiburg.de
 0.0.0.0 w.sharethis.com
@@ -41896,7 +41889,6 @@
 0.0.0.0 wallstreet.2cnt.net
 0.0.0.0 wallstreetprep.go2cloud.org
 0.0.0.0 walmartcom.112.2o7.net
-0.0.0.0 walmartsavingscatcher.com
 0.0.0.0 wamfebdvsabotier.review
 0.0.0.0 wan.duba.net
 0.0.0.0 wap-click.com
@@ -43645,7 +43637,6 @@
 0.0.0.0 www.hgzlpbfluent.review
 0.0.0.0 www.hicpm5.com
 0.0.0.0 www.hide.io
-0.0.0.0 www.highcharts.com
 0.0.0.0 www.highcpms.com
 0.0.0.0 www.highspeedtesting.com
 0.0.0.0 www.hijackedzdupdb.download
@@ -44416,7 +44407,6 @@
 0.0.0.0 www.probux.com
 0.0.0.0 www.products-and-services.com
 0.0.0.0 www.profitreload.com
-0.0.0.0 www.projectcounter.org
 0.0.0.0 www.projectwonderful.com
 0.0.0.0 www.promolnk.com
 0.0.0.0 www.promomasters.at
@@ -45757,5 +45747,5 @@
 0.0.0.0 zzptzdhugavot.review
 0.0.0.0 zzz.clickbank.net
 0.0.0.0 _thums.ero-advertising.com
-# Hosts: 45749
+# Hosts: 45739
 

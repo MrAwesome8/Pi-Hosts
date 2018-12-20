@@ -23579,6 +23579,7 @@
 0.0.0.0 clickkwala.go2cloud.org
 0.0.0.0 clickmarks.com
 0.0.0.0 clickmedia.ro
+0.0.0.0 clickmetertracking.com
 0.0.0.0 clickmonsters.com
 0.0.0.0 clickon.co.il
 0.0.0.0 clickosmedia.com
@@ -23676,6 +23677,7 @@
 0.0.0.0 clk.recreativ.ru
 0.0.0.0 clk.relestar.com
 0.0.0.0 clk.solocpm.com
+0.0.0.0 clk.tradedoubler.com
 0.0.0.0 clk.voyages-sncf.com
 0.0.0.0 clkax.tradedoubler.com
 0.0.0.0 clkde.tradedoubler.com
@@ -26874,7 +26876,6 @@
 0.0.0.0 engine.webgozar.ir
 0.0.0.0 engine.widespace.com
 0.0.0.0 englobingoopmzqu.download
-0.0.0.0 enhance.com
 0.0.0.0 enigma.kissmetrics.com
 0.0.0.0 enio.justclick.ru
 0.0.0.0 eniro.d3.sc.omtrdc.net
@@ -29494,7 +29495,6 @@
 0.0.0.0 images.drivelinemedia.com
 0.0.0.0 images.e-mailcom.co.uk
 0.0.0.0 images.ed4.net
-0.0.0.0 images.enhance.com
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.francite.com
 0.0.0.0 images.freelotto.com
@@ -29674,6 +29674,7 @@
 0.0.0.0 impact.staging.applifier.com
 0.0.0.0 impactmobile.com
 0.0.0.0 impbe.tradedoubler.com
+0.0.0.0 impch.tradedoubler.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 impdk.tradedoubler.com
 0.0.0.0 impes.tradedoubler.com
@@ -32969,7 +32970,6 @@
 0.0.0.0 paranoicbarhuhw.download
 0.0.0.0 parenting.searchwho.com
 0.0.0.0 pareticpaypdtpq.download
-0.0.0.0 paris.typepad.com
 0.0.0.0 paritycube.go2cloud.org
 0.0.0.0 park.above.com
 0.0.0.0 parking.parklogic.com
@@ -36215,7 +36215,6 @@
 0.0.0.0 sweepstakes.com
 0.0.0.0 sweetpacks.go2cloud.org
 0.0.0.0 swellisholupo.download
-0.0.0.0 swift.com
 0.0.0.0 swimsuitnetwork.com
 0.0.0.0 switch.atdmt.com
 0.0.0.0 switch.atdmt.net
@@ -42240,7 +42239,6 @@
 0.0.0.0 womensforum.us.intellitxt.com
 0.0.0.0 won.images.streamray.com
 0.0.0.0 wondrousvalue.com
-0.0.0.0 woopra.com
 0.0.0.0 wordwatch.go2cloud.org
 0.0.0.0 woredi.com
 0.0.0.0 workflowboard.com
@@ -43006,6 +43004,7 @@
 0.0.0.0 www.clickchecker.co.uk
 0.0.0.0 www.clickdensity.com
 0.0.0.0 www.clickice.com
+0.0.0.0 www.clickmetertracking.com
 0.0.0.0 www.clickon.co.il
 0.0.0.0 www.clickriver.com
 0.0.0.0 www.clickshield.net
@@ -44836,6 +44835,7 @@
 0.0.0.0 www.trackvoluum.com
 0.0.0.0 www.trackyourstats.com
 0.0.0.0 www.tradeadexchange.com
+0.0.0.0 www.tradedoubler.com
 0.0.0.0 www.tradetraffic.com
 0.0.0.0 www.trading.dianomi.com
 0.0.0.0 www.traffdaq.com
@@ -44882,7 +44882,6 @@
 0.0.0.0 www.twemyksybtripewomen.review
 0.0.0.0 www.twqlnorqcmesquite.review
 0.0.0.0 www.tynt.com
-0.0.0.0 www.typepad.com
 0.0.0.0 www.typiol.com
 0.0.0.0 www.tyxo.bg
 0.0.0.0 www.tyzqxseppukus.review

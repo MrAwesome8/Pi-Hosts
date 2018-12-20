@@ -624,6 +624,7 @@
 0.0.0.0 districtm.io
 0.0.0.0 djers.com
 0.0.0.0 dlrowehtfodne.com
+0.0.0.0 dm-event.net
 0.0.0.0 dmanalytics1.com
 0.0.0.0 dmclick.cn
 0.0.0.0 dmd53.com
@@ -901,6 +902,7 @@
 0.0.0.0 grepdata.com
 0.0.0.0 grmtech.net
 0.0.0.0 group-ib.ru
+0.0.0.0 grumrt.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
 0.0.0.0 gsspat.jp
@@ -1133,6 +1135,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 ksyrium0014.com
 0.0.0.0 ktxtr.com
+0.0.0.0 ladsp.com
 0.0.0.0 lanchaeanly.pro
 0.0.0.0 landingpg.com
 0.0.0.0 lansrv030.com
@@ -1533,7 +1536,6 @@
 0.0.0.0 pleisty.com
 0.0.0.0 plexop.com
 0.0.0.0 plugin.ws
-0.0.0.0 plusgrade.com
 0.0.0.0 plwosvr.net
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
@@ -1663,6 +1665,7 @@
 0.0.0.0 researchnow.co.uk
 0.0.0.0 reson8.com
 0.0.0.0 responsetap.com
+0.0.0.0 resulticks.com
 0.0.0.0 retags.us
 0.0.0.0 retargetly.com
 0.0.0.0 retargettracker.com
@@ -1701,6 +1704,7 @@
 0.0.0.0 roitesting.com
 0.0.0.0 roivista.com
 0.0.0.0 rollingcounters.com
+0.0.0.0 roosterfirework.com
 0.0.0.0 rpdtrk.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rrimpl.com
@@ -1801,6 +1805,7 @@
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simility.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
@@ -1848,6 +1853,7 @@
 0.0.0.0 smileyhost.net
 0.0.0.0 smrk.io
 0.0.0.0 smrtlnks.com
+0.0.0.0 snapdeal.biz
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
@@ -1979,6 +1985,7 @@
 0.0.0.0 tag4arm.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagifydiageo.com
+0.0.0.0 tagmngrs.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tamgrt.com
 0.0.0.0 tapfiliate.com
@@ -2022,6 +2029,7 @@
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thisisanothercoolthing.com
 0.0.0.0 tighting.info
+0.0.0.0 tinb.net
 0.0.0.0 tinycounter.com
 0.0.0.0 tiser.com.au
 0.0.0.0 tkqlhce.com
@@ -2759,7 +2767,6 @@
 0.0.0.0 onvid.club
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openguid.org
-0.0.0.0 outbrainimg.com
 0.0.0.0 oxwwoeukjispema.ru
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.net
@@ -3271,6 +3278,7 @@
 0.0.0.0 affilizr.com
 0.0.0.0 air360tracker.net
 0.0.0.0 alkemics.com
+0.0.0.0 analytics-cdiscount.com
 0.0.0.0 antvoice.com
 0.0.0.0 atraxio.com
 0.0.0.0 browsiprod.com
@@ -3362,6 +3370,7 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 ipinyou.com
 0.0.0.0 irs09.com
+0.0.0.0 iteye.com
 0.0.0.0 jiankongbao.com
 0.0.0.0 lndata.com
 0.0.0.0 logly.co.jp
@@ -3374,10 +3383,13 @@
 0.0.0.0 pixanalytics.com
 0.0.0.0 pp8.com
 0.0.0.0 pvmax.net
+0.0.0.0 qchannel03.cn
+0.0.0.0 qhupdate.com
 0.0.0.0 reachmax.cn
 0.0.0.0 sagetrc.com
 0.0.0.0 scupio.com
 0.0.0.0 sitebot.cn
+0.0.0.0 sjv.io
 0.0.0.0 tagmanager.cn
 0.0.0.0 tanx.com
 0.0.0.0 tenmax.io
@@ -3451,6 +3463,7 @@
 0.0.0.0 fortvision.com
 0.0.0.0 hetchi.com
 0.0.0.0 lead.im
+0.0.0.0 mimgoal.com
 0.0.0.0 nepohita.com
 0.0.0.0 ritogaga.com
 0.0.0.0 gpr.hu
@@ -3533,6 +3546,7 @@
 0.0.0.0 eco-tag.jp
 0.0.0.0 fout.jp
 0.0.0.0 genieedmp.com
+0.0.0.0 genieessp.jp
 0.0.0.0 gmodmp.jp
 0.0.0.0 hitgraph.jp
 0.0.0.0 i2ad.jp
@@ -3550,11 +3564,13 @@
 0.0.0.0 pagoda56.com
 0.0.0.0 polymorphicads.jp
 0.0.0.0 r-ad.ne.jp
+0.0.0.0 rentracks.jp
 0.0.0.0 research-artisan.com
 0.0.0.0 rtoaster.jp
 0.0.0.0 sibulla.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 socdm.com
+0.0.0.0 speee-ad.jp
 0.0.0.0 tgknt.com
 0.0.0.0 trackfeed.com
 0.0.0.0 ukw.jp
@@ -3562,7 +3578,9 @@
 0.0.0.0 ziyu.net
 0.0.0.0 adpick.co.kr
 0.0.0.0 adtive.com
+0.0.0.0 aicontents.net
 0.0.0.0 contentsfeed.com
+0.0.0.0 dawin.tv
 0.0.0.0 logger.co.kr
 0.0.0.0 oevery.com
 0.0.0.0 tenping.kr
@@ -3616,6 +3634,7 @@
 0.0.0.0 sambaads.com
 0.0.0.0 tailtarget.com
 0.0.0.0 trugaze.io
+0.0.0.0 2iui01.com
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
 0.0.0.0 best-top.ro
@@ -3668,6 +3687,7 @@
 0.0.0.0 imrk.net
 0.0.0.0 infostroy.nnov.ru
 0.0.0.0 infox.sg
+0.0.0.0 inrd.ru
 0.0.0.0 instreamatic.com
 0.0.0.0 interakt.ru
 0.0.0.0 intergid.ru
@@ -3675,6 +3695,7 @@
 0.0.0.0 jetcounter.ru
 0.0.0.0 k3dqv.ru
 0.0.0.0 kmindex.ru
+0.0.0.0 leadslabpixels.net
 0.0.0.0 lentainform.com
 0.0.0.0 listtop.ru
 0.0.0.0 livetex.ru
@@ -3705,6 +3726,7 @@
 0.0.0.0 rutarget.ru
 0.0.0.0 sarov.ws
 0.0.0.0 sas.com
+0.0.0.0 semantiqo.com
 0.0.0.0 sensor.org.ua
 0.0.0.0 seo-master.net
 0.0.0.0 serating.ru
@@ -3717,6 +3739,7 @@
 0.0.0.0 targetix.net
 0.0.0.0 tbex.ru
 0.0.0.0 tds.io
+0.0.0.0 tnative.ru
 0.0.0.0 toptracker.ru
 0.0.0.0 tpm.pw
 0.0.0.0 track.cooster.ru
@@ -3753,6 +3776,7 @@
 0.0.0.0 contadorvisitasgratis.com
 0.0.0.0 contadorweb.com
 0.0.0.0 delidatax.net
+0.0.0.0 easysol.net
 0.0.0.0 eresmas.net
 0.0.0.0 estadisticasgratis.com
 0.0.0.0 estadisticasgratis.es
@@ -3780,7 +3804,6 @@
 0.0.0.0 tns-sifo.se
 0.0.0.0 vastpaketet.se
 0.0.0.0 webserviceaward.com
-0.0.0.0 worldoftulo.com
 0.0.0.0 d-stats.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 truehits.net
@@ -3792,12 +3815,16 @@
 0.0.0.0 sitetistik.com
 0.0.0.0 webservis.gen.tr
 0.0.0.0 zirve100.com
+0.0.0.0 getaim.info
 0.0.0.0 holder.com.ua
 0.0.0.0 mediatraffic.com.ua
 0.0.0.0 mycounter.com.ua
 0.0.0.0 mycounter.ua
 0.0.0.0 uapoisk.net
 0.0.0.0 weblog.com.ua
+0.0.0.0 zmctrack.net
+0.0.0.0 amcdn.vn
+0.0.0.0 contineljs.com
 0.0.0.0 gostats.vn
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
@@ -3902,6 +3929,7 @@
 0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
+0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tribeca.vidavee.com
@@ -4108,6 +4136,7 @@
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
+0.0.0.0 d24cze5sab2jwg.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
@@ -4139,6 +4168,7 @@
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
+0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -4228,7 +4258,9 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
+0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
+0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 g.delivery.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -4265,6 +4297,7 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 i-stats.ieurop.net
+0.0.0.0 i.viafoura.co
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 ihstats.cloudapp.net
@@ -4303,6 +4336,7 @@
 0.0.0.0 link.huffingtonpost.com
 0.0.0.0 link.informer.com
 0.0.0.0 link.tym.cool
+0.0.0.0 links.voyeurweb.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.aimtell.com
@@ -4637,6 +4671,7 @@
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 target.fark.com
@@ -4900,6 +4935,7 @@
 0.0.0.0 pix.news.at
 0.0.0.0 pixel.holtzbrinckdigital.info
 0.0.0.0 pixel.nbsp.de
+0.0.0.0 px.staticfiles.at
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 sett.i12.de
 0.0.0.0 stat.clichehosting.de
@@ -5005,6 +5041,7 @@
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
 0.0.0.0 da.netease.com
 0.0.0.0 dw.cbsi.com.cn
+0.0.0.0 epro.sogou.com
 0.0.0.0 g.yccdn.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 idigger.qtmojo.com
@@ -5025,12 +5062,15 @@
 0.0.0.0 report.meituan.com
 0.0.0.0 stat.ws.126.net
 0.0.0.0 stat.youku.com
+0.0.0.0 sugs.m.sm.cn
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 toruk.tanx.com
+0.0.0.0 tr.n2.hk
 0.0.0.0 track.ra.icast.cn
 0.0.0.0 tracking.cat898.com
 0.0.0.0 traffic.bokecc.com
+0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 v.emedia.cn
 0.0.0.0 tracking.vid4u.org
 0.0.0.0 bnr.alza.cz
@@ -5110,16 +5150,22 @@
 0.0.0.0 vppst.iltrovatore.it
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analyzer51.fc2.com
+0.0.0.0 asumi.shinobi.jp
 0.0.0.0 clickanalyzer.jp
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 l.popin.cc
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 omt.shinobi.jp
+0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rd.rakuten.co.jp
+0.0.0.0 speee-ad.akamaized.net
+0.0.0.0 sync.shinobi.jp
 0.0.0.0 trck.dlpo.jp
 0.0.0.0 userdive.com
 0.0.0.0 webtracker.jp
+0.0.0.0 x9.shinobi.jp
+0.0.0.0 log.cizion.com
 0.0.0.0 log2.adop.cc
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 counter.hackers.lv
@@ -5235,6 +5281,7 @@
 0.0.0.0 analyticapi.piri.net
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 counter.opinion.com.ua
+0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.mecloud.vn
 0.0.0.0 a.jango.com
 0.0.0.0 aa.avvo.com
@@ -5967,6 +6014,7 @@
 0.0.0.0 tracker.redditmedia.com
 0.0.0.0 tracker.revip.info
 0.0.0.0 tracker.secretescapes.com
+0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.washtimes.com
 0.0.0.0 tracker.wordstream.com
@@ -6005,6 +6053,7 @@
 0.0.0.0 traktr.news.com.au
 0.0.0.0 trax.tvguide.com
 0.0.0.0 trck.sixt.com
+0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 tw.i.hulu.com
@@ -6099,6 +6148,7 @@
 0.0.0.0 log.wilmaa.com
 0.0.0.0 logging.wilmaa.com
 0.0.0.0 mm.welt.de
+0.0.0.0 mms.blick.ch
 0.0.0.0 ms.computerbild.de
 0.0.0.0 multicounter.de
 0.0.0.0 pap.zalando.de
@@ -6132,6 +6182,7 @@
 0.0.0.0 tracking.beilagen-prospekte.de
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.hrs.de
+0.0.0.0 tracking.krone.at
 0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.mobile.de
 0.0.0.0 tracking.netbank.de
@@ -6144,13 +6195,16 @@
 0.0.0.0 ts.faz.net
 0.0.0.0 ts.otto.de
 0.0.0.0 ts.rtl.de
+0.0.0.0 twch.20min.ch
 0.0.0.0 vfd2dyn.vodafone.de
+0.0.0.0 vv.ricardo.ch
 0.0.0.0 wdm.map24.com
 0.0.0.0 web-track.telekom-dienste.de
 0.0.0.0 webts.adac.de
 0.0.0.0 xara.hse24.de
 0.0.0.0 accn.allocine.net
 0.0.0.0 analytics.rtbf.be
+0.0.0.0 businessinsider-fr.businessinsider.fr
 0.0.0.0 cfcn.allocine.net
 0.0.0.0 dm.commentcamarche.net
 0.0.0.0 dm.hugolescargot.com
@@ -6220,11 +6274,13 @@
 0.0.0.0 dwtracking.sdo.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 hk.ndx.nextmedia.com
+0.0.0.0 imp.appledaily.com
 0.0.0.0 jcm.jd.com
 0.0.0.0 log.51cto.com
 0.0.0.0 log.bitauto.com
 0.0.0.0 log.flight.qunar.com
 0.0.0.0 log.kuwo.cn
+0.0.0.0 log.m.sm.cn
 0.0.0.0 log.ynet.com
 0.0.0.0 log1.17173.com
 0.0.0.0 loginlog.sdo.com
@@ -6237,6 +6293,7 @@
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 pingback.sogou.com
 0.0.0.0 pingjs.qq.com
+0.0.0.0 pv.csdn.net
 0.0.0.0 pv.ltn.com.tw
 0.0.0.0 pv.udn.com
 0.0.0.0 pv.xcar.com.cn
@@ -6278,6 +6335,9 @@
 0.0.0.0 tf.360.cn
 0.0.0.0 tinglog.baidu.com
 0.0.0.0 tongji.mafengwo.cn
+0.0.0.0 tr.discuss.com.hk
+0.0.0.0 tr.price.com.hk
+0.0.0.0 track.sohu.com
 0.0.0.0 tracker.live.tudou.com
 0.0.0.0 uestat.video.qiyi.com
 0.0.0.0 unstat.baidu.com
@@ -6324,7 +6384,11 @@
 0.0.0.0 count.munhwa.com
 0.0.0.0 gather.hankyung.com
 0.0.0.0 hits.zdnet.co.kr
+0.0.0.0 l.m.naver.com
 0.0.0.0 log.sv.pandora.tv
+0.0.0.0 nil.naver.com
+0.0.0.0 pb.m.naver.com
+0.0.0.0 sp.naver.com
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 veta.naver.com
 0.0.0.0 wcs.naver.com
@@ -6340,6 +6404,7 @@
 0.0.0.0 entryhit.wp.pl
 0.0.0.0 kropka.onet.pl
 0.0.0.0 mklik.gazeta.pl
+0.0.0.0 p.gazeta.pl
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 stats.teledyski.info
 0.0.0.0 audience-mostread.r7.com
@@ -6365,6 +6430,7 @@
 0.0.0.0 kiks.auto.ru
 0.0.0.0 log.ren.tv
 0.0.0.0 montblanc.lenta.ru
+0.0.0.0 radar.imgsmail.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 stat.api.2gis.ru
 0.0.0.0 stat.lenta.ru
@@ -6379,6 +6445,7 @@
 0.0.0.0 trak-analytics.blic.rs
 0.0.0.0 tracker.azet.sk
 0.0.0.0 analytics.infobae.com
+0.0.0.0 analytics.redlink.com.ar
 0.0.0.0 audiencies.ccma.cat
 0.0.0.0 coletor.terra.com
 0.0.0.0 estadisticas.lanacion.com.ar

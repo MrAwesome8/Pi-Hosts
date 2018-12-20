@@ -2,8 +2,10 @@
 0.0.0.0 0n-line.tv
 0.0.0.0 1-99seo.com
 0.0.0.0 1-free-share-buttons.com
+0.0.0.0 100-reasons-for-seo.com
 0.0.0.0 100dollars-seo.com
 0.0.0.0 100searchengines.com
+0.0.0.0 12-reasons-for-seo.net
 0.0.0.0 12masterov.com
 0.0.0.0 12u.info
 0.0.0.0 1pamm.ru
@@ -21,6 +23,7 @@
 0.0.0.0 7kop.ru
 0.0.0.0 7makemoneyonline.com
 0.0.0.0 7zap.com
+0.0.0.0 99-reasons-for-seo.com
 0.0.0.0 abcdefh.xyz
 0.0.0.0 abcdeg.xyz
 0.0.0.0 abclauncher.com
@@ -67,6 +70,7 @@
 0.0.0.0 animenime.ru
 0.0.0.0 anticrawler.org
 0.0.0.0 antiguabarbuda.ru
+0.0.0.0 apteka-doc.ru
 0.0.0.0 apteka-pharm.ru
 0.0.0.0 arendakvartir.kz
 0.0.0.0 arendovalka.xyz
@@ -79,6 +83,7 @@
 0.0.0.0 ask-yug.com
 0.0.0.0 atleticpharm.org
 0.0.0.0 atyks.ru
+0.0.0.0 auto-b2b-seo-service.com
 0.0.0.0 auto-complex.by
 0.0.0.0 auto-kia-fulldrive.ru
 0.0.0.0 auto-seo-service.org
@@ -125,6 +130,7 @@
 0.0.0.0 black-friday.ga
 0.0.0.0 blackhatworth.com
 0.0.0.0 blog100.org
+0.0.0.0 blog2019.xyz
 0.0.0.0 blog4u.top
 0.0.0.0 blogstar.fun
 0.0.0.0 blogtotal.de
@@ -322,6 +328,7 @@
 0.0.0.0 floating-share-buttons.com
 0.0.0.0 flowertherapy.ru
 0.0.0.0 flyblog.xyz
+0.0.0.0 for-marketersy.info
 0.0.0.0 for-your.website
 0.0.0.0 forex-procto.ru
 0.0.0.0 forsex.info
@@ -360,6 +367,7 @@
 0.0.0.0 get-your-social-buttons.info
 0.0.0.0 getaadsincome.info
 0.0.0.0 getadsincomely.info
+0.0.0.0 getfy-click.info
 0.0.0.0 getlamborghini.ga
 0.0.0.0 getpy-click.info
 0.0.0.0 getrichquick.ml
@@ -379,6 +387,9 @@
 0.0.0.0 googlsucks.com
 0.0.0.0 gorgaz.info
 0.0.0.0 grafaman.ru
+0.0.0.0 growth-hackingan.info
+0.0.0.0 growth-hackingor.info
+0.0.0.0 growth-hackingy.info
 0.0.0.0 guardlink.org
 0.0.0.0 guidetopetersburg.com
 0.0.0.0 handicapvantoday.com
@@ -480,6 +491,9 @@
 0.0.0.0 kozhasobak.com
 0.0.0.0 krasnodar-avtolombard.ru
 0.0.0.0 kredytbank.com.ua
+0.0.0.0 krumble-adsde.info
+0.0.0.0 krumble-adsen.info
+0.0.0.0 krumbleent-ads.info
 0.0.0.0 laminat.com.ua
 0.0.0.0 landliver.org
 0.0.0.0 landoftracking.com
@@ -501,6 +515,7 @@
 0.0.0.0 livia-pache.ru
 0.0.0.0 livingroomdecoratingideas.website
 0.0.0.0 lk-gosuslugi.ru
+0.0.0.0 local-seo-for-multiple-locations.com
 0.0.0.0 login-tinkoff.ru
 0.0.0.0 loveorganic.ch
 0.0.0.0 lsex.xyz
@@ -541,6 +556,7 @@
 0.0.0.0 minegam.com
 0.0.0.0 mirobuvi.com.ua
 0.0.0.0 mirtorrent.net
+0.0.0.0 misselle.ru
 0.0.0.0 mksport.ru
 0.0.0.0 mobilemedia.md
 0.0.0.0 mockupui.com
@@ -559,6 +575,7 @@
 0.0.0.0 muscle-factory.com.ua
 0.0.0.0 musichallaudio.ru
 0.0.0.0 mybuh.kz
+0.0.0.0 mycheaptraffic.com
 0.0.0.0 myftpupload.com
 0.0.0.0 myplaycity.com
 0.0.0.0 nachalka21.ru
@@ -602,6 +619,8 @@
 0.0.0.0 paidonlinesites.com
 0.0.0.0 palvira.com.ua
 0.0.0.0 pc-services.ru
+0.0.0.0 perform-like-alibabaity.info
+0.0.0.0 perform-likeism-alibaba.info
 0.0.0.0 perm.dienai.ru
 0.0.0.0 perper.ru
 0.0.0.0 petrovka-online.com
@@ -711,6 +730,8 @@
 0.0.0.0 semaltmedia.com
 0.0.0.0 seo-2-0.com
 0.0.0.0 seo-platform.com
+0.0.0.0 seo-services-b2b.com
+0.0.0.0 seo-services-wordpress.com
 0.0.0.0 seo-smm.kz
 0.0.0.0 seoanalyses.com
 0.0.0.0 seocheckupx.com

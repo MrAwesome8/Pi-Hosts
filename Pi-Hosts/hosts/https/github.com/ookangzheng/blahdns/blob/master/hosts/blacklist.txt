@@ -1,6 +1,15 @@
 ## This blacklist maintaince by @ookangzheng
 ## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# show ads on mahuaren.com android ads (outside china, singapore server)
+0.0.0.0 api.zcoup.com
+0.0.0.0 sdk.adtiming.com
+0.0.0.0 ad.sitemaji.com
+0.0.0.0 logger.zcoup.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 userdata.andrcool.com
+0.0.0.0 ad4.com.cn
+0.0.0.0 static.youappi.com
 
 # CERT Vulnerability (#598349)
 0.0.0.0 wpad.example.com
@@ -124,6 +133,28 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 pbcde.com
+0.0.0.0 m-shes.ru
+0.0.0.0 pl14960438.pvclouds.com
+0.0.0.0 adsbb.depositfiles.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 ads.exdynsrv.com
+0.0.0.0 bj1110.online
+0.0.0.0 wpad.example.com
+0.0.0.0 2ip.ru
+0.0.0.0 sky.2ip.ru
+0.0.0.0 syndication.twitter.com
+0.0.0.0 sp2.baidu.com
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 m.henxg.cn
+0.0.0.0 m.lsiwd.cn
+0.0.0.0 photo.0234408.cn
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 photo.yingtaiboli.cn
+0.0.0.0 yingtaiboli.cn
+0.0.0.0 m.syxsa.cn
+0.0.0.0 m.sdfvk.cn
 
 # Akamai DNS tools
 # https://developer.akamai.com/blog/2018/05/10/introducing-new-whoami-tool-dns-resolver-information

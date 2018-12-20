@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 19 Nov 2018 at 05:21:03 GMT
+# Last updated: Mon, 10 Dec 2018 at 06:03:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from
@@ -525,7 +525,7 @@
 0.0.0.0 cig-arrete.com
 0.0.0.0 ci-mpsnare.iesnare.com
 0.0.0.0 ci-mpsnare.iesnare.co.uk
-0.0.0.0 ci-mpsnare.iovation.com
+#0.0.0.0 ci-mpsnare.iovation.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 ci-snare.iovation.com
 0.0.0.0 citrix.tradedoubler.com
 0.0.0.0 cjt1.net
@@ -4349,7 +4349,7 @@
 0.0.0.0 a.as-us.falkag.net
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
+#0.0.0.0 aax-eu.amazon-adsystem.com # may interfere with Amazon ad preferences
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab913aa797e78b3.com
@@ -7982,7 +7982,6 @@
 0.0.0.0 enquete-annuelle.info
 0.0.0.0 entertainment-rewardpath.com
 0.0.0.0 entertainment-specials.com
-0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 epomads2.4shared.com
 0.0.0.0 eren.ecoencomputer.com
 0.0.0.0 erie.smartage.com
@@ -9670,6 +9669,7 @@
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
 0.0.0.0 platads.com
+0.0.0.0 play.heavymetalmachines.com
 0.0.0.0 playinvaders.com
 0.0.0.0 play.istlandoll.com
 0.0.0.0 play.leadzupc.com
@@ -10139,7 +10139,7 @@
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
 0.0.0.0 salesforcecom.tt.omtrdc.net
-0.0.0.0 s.amazon-adsystem.com
+#0.0.0.0 s.amazon-adsystem.com # may interfere with Amazon ad preferences
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
 0.0.0.0 sarah.dntrx.com
@@ -12201,7 +12201,6 @@
 0.0.0.0 www.trndsys.mobi
 0.0.0.0 www.trourted.pro
 0.0.0.0 www.ttnet.yandex.com.tr
-0.0.0.0 www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.turn.com
 0.0.0.0 www.tutop.com
 0.0.0.0 www.tuttosessogratis.org

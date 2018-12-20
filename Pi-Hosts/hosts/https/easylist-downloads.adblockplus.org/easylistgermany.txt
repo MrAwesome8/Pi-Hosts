@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: YVsEJXE4B8MQ5V7qcXuN8Q
-! Version: 201811220311
+! Checksum: pcf9aNdBZlu3McOMPimmpw
+! Version: 201812201921
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2018 03:11 UTC
+! Last modified: 20 Dec 2018 19:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -571,6 +571,7 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 11freunde.de,cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
+telekom.de#@#a[href^="https://track.adform.net/"]
 daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
 11freunde.de,gofeminin.de,notebooksbilliger.de#@#div[id^="google_ads_iframe_"]
@@ -1138,6 +1139,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||conserva.de^*/banner_$third-party
 ||coolespiele.com/contentbox/$subdocument,third-party
 ||coolespiele.com/cs.php?popupurl=$third-party
+||couponcustomer.cpstatic.ch^
 ||crack-it.net/img/$third-party
 ||crawler.pearl.de/pearl-crawler/banner?
 ||crawli.net/go/$third-party
@@ -2923,6 +2925,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||movie-stream.to/do.php
 ||movie-stream.to^*/pop*.js
 ||movie-stream.to^*/system.js
+||movie2k.ag/sw.js
 ||moviebb.to/img/banner/
 ||moviebox.to/do.php
 ||moviebox.to^*/*pop*.js
@@ -4523,6 +4526,7 @@ drehscheibe-foren.de,drehscheibe-online.de###dsBanner
 onlinewebservice4.de###dwindow
 abacho.de###eatg_partnertipps_main
 billiger.de###ebay_footer_widget_ajax
+businessinsider.de###editorial2
 fremdwort.de###elgnatcer
 report-k.de###empf
 kueche1.com###empfbox
@@ -4711,6 +4715,9 @@ eurogamer.de###low-leaderboard
 hornoxe.com###lside > center > a[target="_blank"] > img
 mov-world.net,xxx-4-free.net###lyr
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
+t-online.de###ma_ar
+t-online.de###ma_ar_2
+t-online.de###ma_mrec
 crackajack.de###madcowdesease_premium
 gmx.net,web.de###mail-list .iba
 gmx.net,web.de###mail-list .new.nma
@@ -5347,7 +5354,7 @@ aero.de##.add_balken
 tes-5-skyrim.de##.addleft
 oxygen-scene.com##.adoxygen
 baronbuff.de##.adp_pls
-20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,dhb.de,eintracht.de,fischkopf.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,regenbogen.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,viamichelin.at,viamichelin.ch,worldofminecraft.eu,zdnet.de##.ads
+20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,autoscout24.ch,bild.de,channelpartner.de,dhb.de,eintracht.de,fischkopf.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,regenbogen.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,viamichelin.at,viamichelin.ch,worldofminecraft.eu,zdnet.de##.ads
 psychic.de##.ads5
 tagesanzeiger.ch##.adsTitle
 stayfriends.de##.adsWrapper
@@ -6264,6 +6271,7 @@ downloadstube.net##.top_frame
 xrel.to##.top_news_adv
 xrel.to##.top_news_box
 softonic.de##.topbanner
+queer.de##.toplinks
 digital-eliteboard.com##.toplinks + div[style="position:absolute;top:50px;right:40px;"]
 deraktionaer.de##.tradeOuterShell
 finanzen100.de##.tradernews
@@ -6360,6 +6368,7 @@ heise.de##A-PATERNOSTER
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
 verivox.de##NRG-RESULT-LIST > ul > .position-zero
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
+goldesel.to##[class^="wrn_"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
@@ -6375,6 +6384,7 @@ goldesel.to##a[href$="-download"]
 g4u.me##a[href$="/download/nzb.html"]
 pi-news.net##a[href$="/werbung.pdf"]
 94.199.241.194##a[href$="_zalando"]
+pctipp.ch##a[href*="&utm_campaign="]
 metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
 bild.de##a[href*=".smartadserver.com/"]
 lesen.to##a[href*="/?f="]
@@ -6979,6 +6989,7 @@ goldesel.to##div[class^="p"][style="margin-top:20px;"] > div[class^="c"] > div[c
 goldesel.to##div[class^="p"][style="margin-top:20px;"] > ul[class^="c"] > li > a[href^="apps/windows/"] > img[src^="img/"]
 1fcm.de,fc-magdeburg.de##div[class^="reklame_"]
 bildderfrau.de,gofeminin.de##div[class^="sas_FormatID_"]
+goldesel.to##div[class^="warn"]
 car.de##div[class^="wrb-"]
 rtl.de,sport.de,vox.de##div[data-adformat="halfpage"]
 rtl.de##div[data-adformat="octopus_hr"]
@@ -7231,6 +7242,7 @@ wunderweib.de##div[style="text-align:center; width:988px;height:90px;line-height
 echte-abzocke.de##div[style="text-align:center;width:490px;height:71px;padding-top:10px;background-color: #ffffff;border:1px solid #DFE6ED"]
 acer-userforum.de##div[style="text-align:center;width:750px;height:105px;padding-top:8px;background-color: #ffffff;border:1px solid #005856"]
 acer-userforum.de##div[style="text-align:center;width:760px;height:120px;padding-top:15px;background-color: #ffffff;border:1px solid #005856"]
+marketing-boerse.de##div[style="text-align:left; top: 5px; padding-left:40px; margin-bottom: 10px; visibility:visible; overflow: visible; height: 90px;width: 1280px;"]
 gamestar.de##div[style="top:0px;position:absolute;left:1001px;"] + [class] > img
 abkuerzungen.de##div[style="vertical-align:center;margin-left:8px;padding:8px;border:1px solid gray;background-color:white;"]
 xvideo-deutsch.com##div[style="width: 1000px; margin: 0 auto; height: 80px; overflow: hidden;"]
@@ -7312,6 +7324,7 @@ ka-news.de##div[style^="width:145px;height:150px;"]
 windowspro.de##div[style^="width:300px;height:250px;"]
 winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
+1und1.de,gmx.net,web.de##ela-bing-card-list[c-type="'ad'"]
 lix.in##form[action="ads.php"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
@@ -7332,6 +7345,8 @@ rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
+goldesel.to#?#:-abp-properties(height: 68px;*width: 958px;)
+goldesel.to#?#div[class^="d_"]:-abp-has(div:-abp-contains(Anonym & Sicher im Netz))
 rtl.de##h2[onclick^="verivox_go_"]
 rtl.de##h2[onclick^="xdot_go_trpix(document.getElementById('parshipform_"]
 heise.de##heisetext > .img[width="100%"]
@@ -7861,6 +7876,7 @@ wetteronline.de##div[style*="display: block !important"]
 @@||adform.net/adfserve/?bn=$script,domain=rewe.de
 @@||adform.net/adx/$script,domain=rewe.de
 @@||adform.net/banners/$domain=consorsbank.de|rewe.de
+@@||adform.net/Banners/$domain=telekom.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
@@ -8168,6 +8184,8 @@ wetteronline.de##div[style*="display: block !important"]
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s1.adform.net^$script,domain=rewe.de
+@@||s357.mxcdn.net^$script,domain=welect.de
+@@||s79.mxcdn.net^$script,domain=welect.de
 @@||s79.research.de.com^$domain=welect.de
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de

@@ -1,7 +1,7 @@
+http://phishing.mailscanner.info/phishing.bad.sites.conf
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 https://adaway.org/hosts.txt
-https://adblock.mahakala.is/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://dshield.org/feeds/suspiciousdomains_High.txt
 https://dshield.org/feeds/suspiciousdomains_Low.txt
@@ -49,7 +49,6 @@ https://github.com/CHEF-KOCH/Audio-fingerprint-pages/blob/master/AudioFp.txt
 https://github.com/CHEF-KOCH/BarbBlock-filter-list/blob/master/HOSTS.txt
 https://github.com/CHEF-KOCH/Canvas-fingerprinting-pages/blob/master/Canvas.txt
 https://github.com/CHEF-KOCH/Canvas-Font-Fingerprinting-pages/blob/master/Canvas.txt
-https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 https://github.com/CHEF-KOCH/Spotify-Ad-free/blob/master/Spotifynulled.txt
 https://github.com/CHEF-KOCH/WebRTC-tracking/blob/master/WebRTC.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/extra.txt
@@ -94,6 +93,7 @@ https://github.com/Marfjeh/coinhive-block/blob/master/domains
 https://github.com/mat1th/Dns-add-block/blob/master/hosts
 https://github.com/matomo-org/referrer-spam-blacklist/blob/master/spammers.txt
 https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/hosts
+https://github.com/mmotti/pihole-regex/blob/master/regex.list
 https://github.com/m-parashar/adbhostgen/blob/master/blacklist
 https://github.com/m-parashar/adbhostgen/blob/master/blacklists/blacklist
 https://github.com/m-parashar/adbhostgen/blob/master/blacklists/facebookall.block
@@ -176,15 +176,16 @@ https://github.com/wolfsrealm/AdBlockLists/blob/master/Mal-Spy-Ware.txt
 https://github.com/wolfsrealm/AdBlockLists/blob/master/WindowsPrivacy.txt
 https://hostsfile.mine.nu/hosts0.txt
 https://hostsfile.org/Downloads/hosts.txt
-https://https4all.org/hosts.txt
 https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
 https://joewein.net/dl/bl/dom-bl.txt
 https://joewein.net/dl/bl/dom-bl-base.txt
+https://lists.blocklist.de/lists/all.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/justdomains
 https://ncloud.zaclys.com/index.php/s/MPYSjLkb8cE8gPN/download
 https://openphish.com/feed.txt
+https://pastebin.com/sq81V4xz
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext;showintro=0
 https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt

@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xTt0x4Xj7ZQ9WMm3LWkNGg
-! Version: 201811220302
+! Checksum: ILEv2z6yzqfHCOgs11f3qQ
+! Version: 201812201921
 ! Title: EasyList Italy
-! Last modified: 22 Nov 2018 03:02 UTC
+! Last modified: 20 Dec 2018 19:21 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -2102,6 +2102,9 @@ ladyblitz.it###ai_widget-10
 qds.it###altro
 outcast.it###amazon
 ilsole24ore.com###annunci
+amazon.it###ape_detail_btf_detail-mWeb_wrapper
+amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
+amazon.it###ape_search_btf_search-mWeb_wrapper
 palermomania.com###area_banner_top
 fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
@@ -2285,6 +2288,7 @@ firstonline.info###ctl00_cph_main_banner1_p1
 teleborsa.it###ctl00_if4WTV300x250
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 bikeitalia.it###desktop_banner
+amazon.it###detailILM_feature_div
 pianetatech.it###div-banner-300
 mmtitalia.it###div-bannerHome-Top
 amando.it###div-dx_300x250
@@ -2412,6 +2416,7 @@ amicidimotociclismo.it###partnerfooter
 fantascienza.com,ship2shore.it###partners
 p300.it###partners-cont
 pianetatech.it###partnerw
+amazon.it###pdagMwebCarousel
 lagazzettadelmezzogiorno.it###petizione
 tiburno.tv###popup_wrap
 cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
@@ -2617,6 +2622,7 @@ ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
 ilsole24ore.com##.a-leaderboard
 rietinvetrina.it##.a-single
+badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
@@ -2631,7 +2637,7 @@ zapster.it##.addx
 qnm.it##.adex
 tomshw.it##.adorable-cats
 tomshw.it##.adorable-puppies
-brocardi.it,caserta24ore.it,cb01.online,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
+autoscout24.ch,brocardi.it,caserta24ore.it,cb01.online,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 meteowebcam.it##.ads_menu
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,livesicilia.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
@@ -3275,7 +3281,7 @@ italia-film.org##a[href^="http://x.italia-film.org/get.php"]
 greenme.it##a[href^="https://ad.zanox.com/"]
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 autobusweb.com,corrieredellacalabria.it##a[href^="https://goo.gl/"]
-beppegrillo.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,frasicelebri.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it##a[href^="https://www.amazon."][href*="tag="]
+badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,frasicelebri.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it##a[href^="https://www.amazon."][href*="tag="]
 traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 eurostreaming.watch##div[style=" position: relative;\a width: 468px;\a height: 60px;\a border: none !important;\a background: none;\a margin: auto;\a clear: both;"]

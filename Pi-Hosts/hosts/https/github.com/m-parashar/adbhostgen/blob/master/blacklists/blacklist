@@ -155,7 +155,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gslbeacon.lijit.com
@@ -164,8 +163,6 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hyprmx.com
 0.0.0.0 i1-j4-20-1-1-13960-971905321-i.init.cedexis-radar.net
-0.0.0.0 i1.ytimg.com
-0.0.0.0 i9.ytimg.com
 0.0.0.0 ia.media-imdb.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 imageads.googleadservices.com

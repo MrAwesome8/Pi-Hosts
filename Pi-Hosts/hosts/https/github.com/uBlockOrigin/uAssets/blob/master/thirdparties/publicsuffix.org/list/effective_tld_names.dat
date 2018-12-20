@@ -8344,9 +8344,6 @@
 0.0.0.0 goo
 0.0.0.0 goo
 
-0.0.0.0 goodhands
-0.0.0.0 goodhands
-
 0.0.0.0 goodyear
 0.0.0.0 goodyear
 
@@ -8646,9 +8643,6 @@
 
 0.0.0.0 jio
 0.0.0.0 jio
-
-0.0.0.0 jlc
-0.0.0.0 jlc
 
 0.0.0.0 jll
 0.0.0.0 jll
@@ -9291,9 +9285,6 @@
 
 0.0.0.0 panasonic
 0.0.0.0 panasonic
-
-0.0.0.0 panerai
-0.0.0.0 panerai
 
 0.0.0.0 paris
 0.0.0.0 paris
@@ -9997,9 +9988,6 @@
 0.0.0.0 technology
 0.0.0.0 technology
 
-0.0.0.0 telecity
-0.0.0.0 telecity
-
 0.0.0.0 telefonica
 0.0.0.0 telefonica
 
@@ -10206,9 +10194,6 @@
 
 0.0.0.0 vision
 0.0.0.0 vision
-
-0.0.0.0 vista
-0.0.0.0 vista
 
 0.0.0.0 vistaprint
 0.0.0.0 vistaprint
@@ -10826,6 +10811,10 @@
 0.0.0.0 Submitted
 0.0.0.0 t3l3p0rt.net
 0.0.0.0 tele.amune.org
+
+0.0.0.0 Apigee
+0.0.0.0 Submitted
+0.0.0.0 apigee.io
 
 0.0.0.0 Aptible
 0.0.0.0 Submitted

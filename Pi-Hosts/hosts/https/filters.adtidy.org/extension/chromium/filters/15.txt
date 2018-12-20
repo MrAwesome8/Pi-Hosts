@@ -1,15 +1,15 @@
-! Checksum: zTyk+EuLEJeehUr7S61wxA
+! Checksum: mJ6i3n7TiySNKg/zkFB3ag
 ! Title: AdGuard Simplified domain names filter
 ! Description: Filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.2.89
-! TimeUpdated: 2018-11-21T18:11:59+03:00
+! Version: 2.0.3.22
+! TimeUpdated: 2018-12-20T18:30:28+03:00
 ! Expires: 2 days (update frequency)
 !
 !
 ! Title: AdGuard Simplified Domain Names filter
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2018-11-21 14:49:37
+! Last modified: 2018-12-20 15:06:08
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 !
 ! [Inclusion: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt]
@@ -17,8 +17,36 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||checkbl.ru^
+||tranzitstar.ru^
+||bshjzxt3apcciws.ru^
+||zhkzt.com^
+||lactonssofut.ru^
+||toothsome-crook.fun^
+||haphiterton.ru^
+||brdmin.com^
+||ahoff.ru^
+||alishop7.ru^
+||smpbhfiwr.com^
+||atshops1.ru^
+||mega-polza.ru^
+||clcktm.ru^
+||jeculdfores.ru^
+||cdn.steambets.net^
+||bannernetwork.net^
+||blckads.me^
+||towithdureb.ru^
+||rotator.promokrot.com^
+||faktty.com^
+||mbzl-pro.xyz^
+||ad.edugram.com^
+||kdsk32lfa.xyz^
+||vrt.news^
+||ehntqzv1apeizca.ru^
 ||nnavigation.info^
 ||dintsupnejec.ru^
+||cdn-my4.ru^
+||pgold.org^
 ||vam-nado.ru^
 ||impressionsme.net^
 ||retsiti.ru^
@@ -27,7 +55,12 @@
 ||paripartners.online^
 ||u1tshop.ru^
 ||u2tshop.ru^
+||zewkj.com^
+||gwxpv.com^
+||6a9c7d514c81589.com^
 ||amzbr.com^
+||nethatriheg.ru^
+||allergiya-na.ru^
 ||wer.glib-cough.fun^
 ||bashirian.biz^
 ||ecadikenaz.com^
@@ -38,11 +71,14 @@
 ||zurgerya.ru^
 ||doptik.ru^
 ||apiyandex.site^
+||bpyxg.com^
 ||adverdata.net^
 ||her-ber.top^
 ||blablabla.pp.ua^
 ||look-reklama.ru^
 ||ylkkp.com^
+||healthynews03.ru^
+||kak-bit-new.ru^
 ||cbgunpz3aoayscg.ru^
 ||7offers.ru^
 ||cqhciif9bjtplrc.ru^
@@ -1651,7 +1687,6 @@ http://wq3.ru^
 ||freddyman.com^
 ||freeavalanche.ru^
 ||freeexchange.ru^
-||freehd.com.ua^
 ||fresh-video.com^
 ||freshnews.su^
 ||frfgn.xyz^
@@ -3457,6 +3492,9 @@ http://wq3.ru^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||b.1istochnik.ru^
+||afbanner.kinobomber3.online^
+||easy.au.ru^
 ||sc.livetvcdn.net^
 ||ads.livetvcdn.net^
 ||isi-tracking.eventim.com^
@@ -3597,7 +3635,6 @@ ws*://video.docfilms.info^
 ||r.dimkriju.bget.ru^
 ||r.topdent.ru^
 ||r6.galya.ru^
-||rs.mail.ru^
 ||server.zombie-tv.org^
 ||showbiz.mail.ru^
 ||statistic.imgpay.ru^
@@ -3644,6 +3681,48 @@ ws*://video.docfilms.info^
 !
 ! The rules with hints are at the end of file
 !
+||aj1574.online^
+||zostofou.link^
+||adtube.ir^
+||hitplus.ir^
+||kaunairu.net^
+||stompebi.link^
+||eklcrpehu.com^
+||brinein.com^
+||jin33456.cn^
+||pzuth.cn^
+||hartookr.link^
+||dunellengez.info^
+||resentaticexhaus.info^
+||turngrind.com^
+||chouphoa.top^
+||chauksoa.net^
+||septembership.com^
+||thterras.com^
+||nepsauss.net^
+||jsybwjivrlhx.com^
+||1warie.com^
+||fessoovy.com^
+||doaraifa.click^
+||graftaub.com^
+||dompegho.net^
+||joredi.com^
+||us.b3018.pw^
+||keyrolan.com^
+||w13qh.cn^
+||neecnuaa.com^
+||btzuecidcshmmv.com^
+||foxypp.com^
+||lnkfast.com^
+||newspolovb.info^
+||uytestion.info^
+||cultidifficient.info^
+||bestadbid.com^
+||trafficclub-nde.netdna-ssl.com^
+||lovacmar.click^
+||niltutch.com^
+||gersairg.net^
+||unknownads.com^
 ||adblox.net^
 ||uniquecaptcha.com^
 ||marial.pro^
@@ -3658,6 +3737,8 @@ ws*://video.docfilms.info^
 ||otefauks.link^
 ||ptocmaux.com^
 ||ads.avocet.io^
+||adswrapme.click^
+||cdn.pljs.ru^
 ||hgub2polye.com^
 ||ihowed.info^
 ||siterdm.com^
@@ -5109,6 +5190,9 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d3vpf6i51y286p.cloudfront.net^
+||ds02gfqy6io6i.cloudfront.net^
+||dybxezbel1g44.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
 ||bidr.trellian.com^
 ||dxprljqoay4rt.cloudfront.net^
@@ -5273,6 +5357,8 @@ www.llllllllllll.net^
 ! [Inclusion: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt]
 !
 !
+||adnatro.com^
+||betkanyon100.com^
 ||performancenative.com^
 ||git.emarketing724.com^
 ||smrtbnr.top^
@@ -5472,6 +5558,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||kamuajans-com.cdn.vidyome.com^
 ||zafrc.5780.site^
 ||campaign.nmobs.com^
 ||bultenler.klscdn.com^
@@ -5597,6 +5684,7 @@ www.llllllllllll.net^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||a.6d47c1118927cf53ba9654931df80e8d.com^
 ||rtb.appbid.com^
 ||rtapi.abbi.io^
 ||ade.clmbtech.com^
@@ -6348,7 +6436,7 @@ www.llllllllllll.net^
 ||websexy.mobi^
 ||widespace.com^
 ||wordego.com^
-||wsback*.presage.io^
+||presage.io^
 ||wtraff.com^
 ||ximad.com^
 ||yandexadexchange.net^
@@ -6803,6 +6891,7 @@ www.llllllllllll.net^
 ||acrabbey.info^
 ||acronym.com^
 ||acrossiblel.info^
+||actionbutton.co^
 ||activedancer.com^
 ||ad-back.net^
 ||ad-balancer.net^
@@ -7329,6 +7418,7 @@ www.llllllllllll.net^
 ||adxpower.com^
 ||adxprts.com^
 ||adxprtz.com^
+||adxscope.com^
 ||adxxx.me^
 ||adxxx.org^
 ||adyoulike.com^
@@ -7414,6 +7504,7 @@ www.llllllllllll.net^
 ||aglocobanners.com^
 ||agmtrk.com^
 ||agvzvwof.com^
+||aidaigry.com^
 ||aim4media.com^
 ||aimatch.com^
 ||aio.media^
@@ -7529,6 +7620,7 @@ www.llllllllllll.net^
 ||atmalinks.com^
 ||atomex.net^
 ||atomicblast.lol^
+||atonato.de^
 ||atrinsic.com^
 ||atterlocus.com^
 ||atwola.com^
@@ -7996,6 +8088,7 @@ www.llllllllllll.net^
 ||commissionfactory.com.au^
 ||commissionlounge.com^
 ||commissionmonster.com^
+||commodates.info^
 ||completecarrd.com^
 ||complive.link^
 ||concert.io^
@@ -8184,6 +8277,7 @@ www.llllllllllll.net^
 ||dianomi.com^
 ||dianomioffers.co.uk^
 ||digipathmedia.com^
+||digitalthrottle.com^
 ||digitrevenue.com^
 ||dinclinx.com^
 ||dinorslick.icu^
@@ -8791,6 +8885,7 @@ www.llllllllllll.net^
 ||implix.com^
 ||impore.com^
 ||impresionesweb.com^
+||impresix.com^
 ||impressionaffiliate.com^
 ||impressionaffiliate.mobi^
 ||impressioncontent.info^
@@ -8895,7 +8990,6 @@ www.llllllllllll.net^
 ||izeads.com^
 ||jacquarter.com^
 ||jadcenter.com^
-||jango.com^
 ||jangonetwork.com^
 ||jarvinzo.com^
 ||javacript.ga^
@@ -8961,6 +9055,7 @@ www.llllllllllll.net^
 ||kikuzip.com^
 ||kinley.com^
 ||kintokup.com^
+||kip5j.com^
 ||kitnmedia.com^
 ||kjgh5o.com^
 ||klikadvertising.com^
@@ -9082,6 +9177,7 @@ www.llllllllllll.net^
 ||lockerdomecdn.com^
 ||lockhosts.com^
 ||lockscalecompare.com^
+||locktdguw9.com^
 ||logo-net.co.uk^
 ||loodyas.com^
 ||lookit-quick.com^
@@ -9391,6 +9487,7 @@ www.llllllllllll.net^
 ||newsadstream.com^
 ||newsmaxfeednetwork.com^
 ||newstogram.com^
+||newsushe.info^
 ||newtention.net^
 ||nexage.com^
 ||nexeps.com^
@@ -9697,6 +9794,7 @@ www.llllllllllll.net^
 ||pnd.gs^
 ||pnoss.com^
 ||pnsandbox.com^
+||pobaftern.info^
 ||pointclicktrack.com^
 ||pointroll.com^
 ||points2shop.com^
@@ -9803,6 +9901,7 @@ www.llllllllllll.net^
 ||protally.net^
 ||provider-direct.com^
 ||proximic.com^
+||prpops.com^
 ||prxio.github.io^
 ||prxio.pw^
 ||prxio.site^
@@ -10361,7 +10460,6 @@ www.llllllllllll.net^
 ||superloofy.com^
 ||supersitetime.com^
 ||superwebs.pro^
-||supplyframe.com^
 ||supprent.com^
 ||supremeadsonline.com^
 ||supuv2.com^
@@ -10535,6 +10633,7 @@ www.llllllllllll.net^
 ||traffic-media.co.uk^
 ||traffic-supremacy.com^
 ||traffic2bitcoin.com^
+||trafficadbar.com^
 ||trafficbarads.com^
 ||trafficbee.com^
 ||trafficbroker.com^
@@ -10672,6 +10771,7 @@ www.llllllllllll.net^
 ||v2cigs.com^
 ||v2mlblack.biz^
 ||v3g4s.com^
+||vacaneedasap.com^
 ||vadpay.com^
 ||validclick.com^
 ||valuead.com^
@@ -10735,6 +10835,7 @@ www.llllllllllll.net^
 ||vihub.ru^
 ||vinterrals.info^
 ||vipquesting.com^
+||viral782.com^
 ||viralcpm.com^
 ||viralmediatech.com^
 ||visiads.com^
@@ -10989,6 +11090,7 @@ www.llllllllllll.net^
 ||zerozo.work^
 ||zferral.com^
 ||zidae.com^
+||zidedge.com^
 ||zipropyl.com^
 ||zisboombah.net^
 ||zm232.com^
@@ -11992,6 +12094,7 @@ www.llllllllllll.net^
 ! Tag adservers
 ||1el-1el-fie.com^
 ||1elllwrite.com^
+||1han-rit-ten.com^
 ||1hanritten.com^
 ||1sen-pit-fan.com^
 ||2an-hit-ren.com^
@@ -12005,12 +12108,15 @@ www.llllllllllll.net^
 ||bip-bip-blip.com^
 ||bipwrite.com^
 ||bit-bork-boodle.com^
+||blu5fdclr.com^
 ||bob-bob-bobble.com^
 ||bobblewrite.com^
 ||bororango.com^
 ||borrango.com^
+||brtsumthree.com^
 ||cap-cap-pop.com^
 ||cash-ca-ching.com^
+||cashcawrite.com^
 ||catwrite.com^
 ||centwrite.com^
 ||clickperks.info^
@@ -12022,7 +12128,9 @@ www.llllllllllll.net^
 ||ditdotsol.com^
 ||ditwrite.com^
 ||dogwrite.com^
+||dubvacasept.com^
 ||erniphiq.com^
+||flipy6sudy.com^
 ||garo-garo-osh.com^
 ||garowrite.com^
 ||ge-ge-force.com^
@@ -12037,6 +12145,7 @@ www.llllllllllll.net^
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||livwrite.com^
+||lnkrdr.com^
 ||meepwrite.com^
 ||netrosol.net^
 ||new-new-years.com^
@@ -12053,6 +12162,7 @@ www.llllllllllll.net^
 ||selwrite.com^
 ||tek-tek-trek.com^
 ||tel-tel-fie.com^
+||thurnflfant.com^
 ||tic-tic-bam.com^
 ||tic-tic-toc.com^
 ||tin-tin-win.com^
@@ -12174,13 +12284,18 @@ www.llllllllllll.net^
 ||viuboin4.com^
 ||yie4zooseif.info^
 ! popads.net
+||aabmxezph.com^
 ||aayaknbn.com^
+||abbahoxgss.com^
 ||abfcfxfkzmiqht.com^
 ||acduswfvyjylzq.com^
 ||achsijkc.com^
+||aclhagvngkjf.com^
+||aclwlkyzxxhn.com^
 ||acrsgxeah.com^
 ||acvxsptoqh.com^
 ||adeyujimmmh.com^
+||adxpddpc.com^
 ||aeobzaii.com^
 ||afgbvhocfvpm.com^
 ||afzoyaquhjltdd.com^
@@ -12193,19 +12308,26 @@ www.llllllllllll.net^
 ||aizopowmtnho.com^
 ||ajoaorexnieym.com^
 ||ajttqxeqg.com^
+||ajzdkkzv.com^
 ||akdzimverrss.com^
 ||akmihtdbbz.com^
 ||akzvxmjnubq.com^
+||alikuvxxwy.com^
 ||aljsuubo.com^
 ||alkagrkgvltzlk.com^
 ||allnvbtrtpku.com^
 ||amaecylce.com^
 ||amauzaqp.com^
+||amlcscfr.com^
 ||aneqmscervl.com^
+||anpwsppugpu.com^
+||aomegwesrfbvxe.com^
 ||aonxktnn.com^
 ||apddozcgdh.com^
+||apiryrkxkhil.com^
 ||aplfkrppjsutf.com^
 ||aqussxtpjfelp.com^
+||arcfwcxi.com^
 ||arkhamxojvr.com^
 ||artsdvaguur.com^
 ||arwlvjqzxxnftz.com^
@@ -12216,6 +12338,7 @@ www.llllllllllll.net^
 ||asrjtcddksm.com^
 ||atczxgxuxloqf.com^
 ||aultemeztokc.com^
+||authmoumrl.com^
 ||auyyklnpj.com^
 ||avjxftprif.com^
 ||avkigyhrazah.com^
@@ -12226,6 +12349,7 @@ www.llllllllllll.net^
 ||axmxarqxbkc.com^
 ||ayyxveilslz.com^
 ||azdhfnoojvpuvr.com^
+||azfoibmukpwz.com^
 ||azgmbqhlr.com^
 ||azgwyeyjufdqc.com^
 ||azgyimccolyyo.com^
@@ -12233,12 +12357,17 @@ www.llllllllllll.net^
 ||baphruesqm.com^
 ||bbxaumvpzqpunx.com^
 ||bcxronvqkwe.com^
+||bdhxpxohwssdfd.com^
 ||bdtmbiezv.com^
 ||bdtwxreri.com^
 ||begnsbnjegnolq.com^
+||bekiruvppl.com^
+||bfhlxjwc.com^
 ||bfmrffluuazwn.com^
+||bgfdrngowyy.com^
 ||bgzyppwk.com^
 ||bhfuoayzqqv.com^
+||bhmzjxrf.com^
 ||bikuetrh.com^
 ||bimwswreljucxa.com^
 ||binullxzwnsqws.com^
@@ -12247,9 +12376,12 @@ www.llllllllllll.net^
 ||bixolsoqluvzpu.com^
 ||bksbcawzviwcw.com^
 ||bkvwnbkq.com^
+||blwfqlmhi.com^
 ||bmoshyiypks.com^
+||bnpmudgktroz.com^
 ||bonxsqstn.com^
 ||bowqoedgldc.com^
+||bpniszadiuc.com^
 ||bpnjigwalqjho.com^
 ||bpudfbrc.com^
 ||bqvgpuvjwhjggp.com^
@@ -12271,6 +12403,7 @@ www.llllllllllll.net^
 ||camrfajedgku.com^
 ||caucqpoeg.com^
 ||cavdzowr.com^
+||cayqecxokz.com^
 ||cbdjzemui.com^
 ||cbzkrwjdskg.com^
 ||ccemeoqbqb.com^
@@ -12297,6 +12430,7 @@ www.llllllllllll.net^
 ||coshfgpgab.com^
 ||cqhxrlnhzlda.com^
 ||cqjnxsbuplcqri.com^
+||cracwrddcb.com^
 ||crgfbmzsk.com^
 ||crjsrbyybipozq.com^
 ||crvvrxfgsvohiy.com^
@@ -12307,14 +12441,19 @@ www.llllllllllll.net^
 ||cukwbpne.com^
 ||cvhcrbbbfaa.com^
 ||cvjzauehxjsy.com^
+||cwvdzcqvg.com^
+||cwvqtapvqbmxfd.com^
 ||cxxsegmhltakq.com^
 ||cxzisvjhpt.com^
 ||cybzsdkmrqgy.com^
 ||cyfzthaduxhb.com^
+||cygngisr.com^
 ||cyhcpeprgy.com^
+||cymeeoolym.com^
 ||cytpfucbb.com^
 ||czqrilwnayq.com^
 ||czzzwuvvc.com^
+||danunnpvy.com^
 ||dbcxaicjyt.com^
 ||dbuwkhpggim.com^
 ||dcyeufoq.com^
@@ -12327,7 +12466,10 @@ www.llllllllllll.net^
 ||dfkpqvhcl.com^
 ||dglfkgmhahilp.com^
 ||dgnuumyxpqiget.com^
+||dgowzelhoaqqb.com^
+||dgqktjmxtlp.com^
 ||dgrvnlhz.com^
+||dhmwedckf.com^
 ||dhtqupvxujyfp.com^
 ||dieohupl.com^
 ||dijutbdzbv.com^
@@ -12336,9 +12478,12 @@ www.llllllllllll.net^
 ||dktaqipmquo.com^
 ||dlotljikswmvq.com^
 ||dmkadnohjoqh.com^
+||dmnangpsbpm.com^
 ||dmrqnwtyttd.com^
 ||dpoffxqjlgt.com^
+||dpwsvrkmfxrt.com^
 ||dqekudhbwprx.com^
+||drsemkuhpg.com^
 ||dsemgngou.com^
 ||dsgjefwejkc.com^
 ||dtqcjtkytuqn.com^
@@ -12358,10 +12503,16 @@ www.llllllllllll.net^
 ||eaffxhnzh.com^
 ||ebbhjxspf.com^
 ||ebifuaad.com^
+||ectysptouy.com^
 ||eekmkywfke.com^
 ||efebafmqn.com^
+||efekvyyynwd.com^
+||efzhzqtyomldfj.com^
 ||egcocjwpzqsa.com^
+||ehlfynuo.com^
 ||ekggptrw.com^
+||ekmztfadigi.com^
+||ekuuarqe.com^
 ||ekxlneryaiefwn.com^
 ||elcolpplwua.com^
 ||elvfmxguozafu.com^
@@ -12370,10 +12521,13 @@ www.llllllllllll.net^
 ||enynwkvdb.com^
 ||eofaplocyrcxhq.com^
 ||eotbkgjqu.com^
+||eozbwwxniksmb.com^
+||epbathcyav.com^
 ||ephtwbxuqy.com^
 ||eplocjhuxsoj.com^
 ||eqezqqdpjmxbpb.com^
 ||eqhawyidkdug.com^
+||erificyggw.com^
 ||ervinguewty.com^
 ||esgnyfznnihl.com^
 ||etkhujhmhjix.com^
@@ -12390,12 +12544,14 @@ www.llllllllllll.net^
 ||fdbrwxtm.com^
 ||fdrkesvb.com^
 ||febalwby.com^
+||fevrbniqa.com^
 ||ffcqkvdaklrqkg.com^
 ||ffjzebtmdwi.com^
 ||fgnzizhe.com^
 ||fgsjjpjhdlfthp.com^
 ||fhtlyoqzyjjof.com^
 ||fjeqkpblfb.com^
+||fjszsffyfihqlg.com^
 ||fkfmujcudpwdn.com^
 ||fkvjntfj.com^
 ||flbecoidmt.com^
@@ -12407,6 +12563,7 @@ www.llllllllllll.net^
 ||fofjazpwccc.com^
 ||fpdsavexteno.com^
 ||fpluhtibx.com^
+||fpqeowmsv.com^
 ||fpxkjlzmkqp.com^
 ||fqckdxjgle.com^
 ||fqhpssdbenl.com^
@@ -12421,16 +12578,20 @@ www.llllllllllll.net^
 ||ftuohzeijbkm.com^
 ||ftymzxmic.com^
 ||fuaawvoqbzza.com^
+||fukkzdxfyrchhc.com^
 ||fuwgbbkktwbu.com^
 ||fveugxikrgrbsh.com^
 ||fwbhvrpiunlzyh.com^
 ||fwzqogrlgsdl.com^
 ||fxazopwrns.com^
 ||fxdglnldbnyq.com^
+||fxvbsnwnwoib.com^
 ||fynprrom.com^
 ||fyyyyppk.com^
 ||fzbnuyjgyexs.com^
 ||fzccvcrsbtb.com^
+||fzrqfakeaqikwm.com^
+||fzwxuqoy.com^
 ||gaqhseuqp.com^
 ||gbwhqbiiq.com^
 ||gbybvvfo.com^
@@ -12438,13 +12599,17 @@ www.llllllllllll.net^
 ||gdtbpaqa.com^
 ||gdyelbwku.com^
 ||gdyjhclaxvqz.com^
+||gecxceztcnhkmh.com^
 ||gekywqwky.com^
 ||gfuhjlpnuj.com^
 ||ggijrjktcld.com^
+||gguvdsglzjyca.com^
 ||ghjlhnbc.com^
+||ghytjserb.com^
 ||gifjvmfkzykp.com^
 ||girrjaqgjb.com^
 ||gjliurjvfnkymq.com^
+||gjriyqsfrnvuv.com^
 ||gkaatcjxwa.com^
 ||glvjbogft.com^
 ||glzaaewyvdkae.com^
@@ -12464,10 +12629,13 @@ www.llllllllllll.net^
 ||grsnseuoispsco.com^
 ||gsghbxydcyum.com^
 ||gsjhehtqvin.com^
+||gtkikiwa.com^
 ||gtorsoxdh.com^
 ||gudlhvxz.com^
+||guoyhfjrpt.com^
 ||gutccaxnwso.com^
 ||gvahzhgblkkyr.com^
+||gvhqnlti.com^
 ||gwxaulcgmizcq.com^
 ||gxeoadmo.com^
 ||gxleeixyzlaaab.com^
@@ -12481,6 +12649,7 @@ www.llllllllllll.net^
 ||hasrijwnxtn.com^
 ||hauvkkwrbme.com^
 ||hayxktgbqpmult.com^
+||hbbgrhzqezz.com^
 ||hbycvbyyj.com^
 ||hcijbbzz.com^
 ||hcmafnawzxfnam.com^
@@ -12489,11 +12658,15 @@ www.llllllllllll.net^
 ||hdcfyrzx.com^
 ||hdoabbjyyebca.com^
 ||hduefoyd.com^
+||hdwjwooqvnm.com^
 ||hdxfyoziizy.com^
 ||heaaizwhm.com^
 ||hefgfqcyfmv.com^
+||hehraybryciyls.com^
 ||hezasoiduicbha.com^
+||hfedqcww.com^
 ||hfslmsbj.com^
+||hfubvezyoyqs.com^
 ||hgbxmqyqoplpif.com^
 ||hgdmzshm.com^
 ||hhffiibyamkvyu.com^
@@ -12506,6 +12679,7 @@ www.llllllllllll.net^
 ||hkhotpewfxr.com^
 ||hkjxihngzlmwc.com^
 ||hkoxznukwpdhxu.com^
+||hloyloppqpvnmd.com^
 ||hlvvlouaeicp.com^
 ||hmepgymo.com^
 ||hmzwcomigpqia.com^
@@ -12528,10 +12702,12 @@ www.llllllllllll.net^
 ||hwiccseamrs.com^
 ||hxhyejtblmu.com^
 ||hxqetblh.com^
+||iacexhglty.com^
 ||iapxxrjzc.com^
 ||iatwyqgvpq.com^
 ||ibfueyttemsefi.com^
 ||ibnuoduab.com^
+||icahllwjc.com^
 ||icfjzmqsejzfb.com^
 ||icfxndxwpan.com^
 ||icjpdubxgab.com^
@@ -12541,6 +12717,8 @@ www.llllllllllll.net^
 ||iddvmkxme.com^
 ||ideprjebdvj.com^
 ||idernzastoeok.com^
+||idqzpnea.com^
+||ieqbsnteuyn.com^
 ||ifbhceoxx.com^
 ||ifdmdfqysaacqa.com^
 ||ifecuwzjajkiq.com^
@@ -12563,13 +12741,17 @@ www.llllllllllll.net^
 ||imnsmvmjrdiwwr.com^
 ||inhcrirmboz.com^
 ||iogutpkrkkycq.com^
+||ioujbpldicfgm.com^
 ||ipehunxxyir.com^
 ||ipxdoldjsvnjvw.com^
 ||irfiysdcrnleu.com^
+||isnsgjhthhaqtu.com^
 ||isxwajatbig.com^
 ||itlmnxlauah.com^
 ||itsyuvrlesq.com^
 ||itzgybxfrbodq.com^
+||iuncajvw.com^
+||ivvoooxuyjfuo.com^
 ||iwfzluau.com^
 ||iwgdguuz.com^
 ||ixsogpaexhgzn.com^
@@ -12586,8 +12768,10 @@ www.llllllllllll.net^
 ||jbcadlpdfsxsfe.com^
 ||jcmdvfrn.com^
 ||jdbovkzjtuup.com^
+||jdskyjntuhea.com^
 ||jecbbkrnfn.com^
 ||jeeumttalzwt.com^
+||jenaowzhtbi.com^
 ||jevxjcdnrd.com^
 ||jffdktcyr.com^
 ||jfjuhxfllw.com^
@@ -12595,6 +12779,7 @@ www.llllllllllll.net^
 ||jhmmbrfsqm.com^
 ||jhxpbihkucrq.com^
 ||jiiyddosyv.com^
+||jimqcqsyhser.com^
 ||jkjcoyeeglunz.com^
 ||jkvkhgztow.com^
 ||jkywbooyc.com^
@@ -12613,6 +12798,8 @@ www.llllllllllll.net^
 ||juvqtttkhz.com^
 ||jvkhhxwcnijvmf.com^
 ||jvqbbfrg.com^
+||jxnwpeqkhtkrw.com^
+||jxseoruuv.com^
 ||jxusrymeeqyi.com^
 ||jyujouii.com^
 ||jzbutifk.com^
@@ -12624,11 +12811,14 @@ www.llllllllllll.net^
 ||kaojrivmhys.com^
 ||katxkxcncwool.com^
 ||kbgyxsoskilli.com^
+||kbqebfcubeiaa.com^
 ||kbwortdqjbns.com^
 ||kcarnzeaipjssg.com^
 ||kcitwbcc.com^
 ||kcnyhfmowc.com^
+||kcodndvh.com^
 ||kcugdqmmfcqrb.com^
+||kdfjjvidllnbaa.com^
 ||kdyfsgpa.com^
 ||kfxrukfzqazrs.com^
 ||kfyhxmycgjaqkn.com^
@@ -12642,30 +12832,40 @@ www.llllllllllll.net^
 ||klhvqeajy.com^
 ||klxteeltivy.com^
 ||klzvkrzluqnx.com^
+||kmkdkefa.com^
+||knqjhdkndh.com^
 ||kozloiczght.com^
+||kpchywhqcrkz.com^
 ||kpoplhjnhlagy.com^
 ||kqohskoysgxx.com^
 ||krpdqnnb.com^
 ||krtdobasy.com^
 ||ksrcnyrntlyfo.com^
+||ksufusxqd.com^
 ||ktdthraxzxt.com^
+||ktjcrhdppesdd.com^
 ||kujwlsnl.com^
 ||kvhxckkd.com^
 ||kwajysvvjeyvs.com^
 ||kwcrryneebg.com^
 ||kweayxzfazrws.com^
+||kwkxvbjz.com^
 ||kwomkjjoajcyyt.com^
 ||kwsmqtposrub.com^
+||kwygntce.com^
 ||kxzmmtdx.com^
 ||labdwkqyavb.com^
+||lajpmujdntg.com^
 ||lanktydm.com^
 ||lawvcpqtapzsh.com^
 ||lbaybxwiklnfe.com^
 ||lbkprcoosfgk.com^
 ||lcsgdwlxrlgq.com^
 ||ledvqaldtf.com^
+||lesmyjzc.com^
 ||lfjvaaswkxqj.com^
 ||lfqocbhv.com^
+||lhuetsviudr.com^
 ||liadlzantv.com^
 ||ljkihuolgoh.com^
 ||ljkmwpvahv.com^
@@ -12677,8 +12877,11 @@ www.llllllllllll.net^
 ||lliumrpvj.com^
 ||llpdtbmowsg.com^
 ||llvidwpt.com^
+||lmcoiiwpguaorp.com^
 ||lnicyniqxdxg.com^
+||lnpqqigowz.com^
 ||lnwbiuetoymifj.com^
+||logkzudhrg.com^
 ||lojuxbnt.com^
 ||lovvznyhujf.com^
 ||lpbhbwpbpnl.com^
@@ -12691,6 +12894,8 @@ www.llllllllllll.net^
 ||lvctzafuvn.com^
 ||lvldcxnq.com^
 ||lwajqohv.com^
+||lwequndmgc.com^
+||lxcpprjfgkt.com^
 ||lxelgoqzvjfw.com^
 ||lxlisrvzz.com^
 ||lxnimmyikuekn.com^
@@ -12700,6 +12905,7 @@ www.llllllllllll.net^
 ||lybmmxah.com^
 ||lykuxkxsvvnxqd.com^
 ||lyyenjcocog.com^
+||lzkuqbptcjqta.com^
 ||lzopoqzlihfbc.com^
 ||maidlytsnrn.com^
 ||mbixofultnnd.com^
@@ -12714,6 +12920,7 @@ www.llllllllllll.net^
 ||mdurqeiydegwzy.com^
 ||meguanha.com^
 ||mfxxpyhzofbsg.com^
+||mgpejafvxxn.com^
 ||mgxjvidt.com^
 ||mgyovgqq.com^
 ||mhfivsdhbpfgk.com^
@@ -12722,6 +12929,7 @@ www.llllllllllll.net^
 ||mkalruavzrtmh.com^
 ||mldsiekmhy.com^
 ||mmsdewfvxhw.com^
+||moginhstnxswt.com^
 ||mpfzgidlxsqtyt.com^
 ||mqgvsxqc.com^
 ||mqobpsctcxnbi.com^
@@ -12735,20 +12943,26 @@ www.llllllllllll.net^
 ||muasoctv.com^
 ||muxtpvixahawy.com^
 ||mvxhbajzn.com^
+||mwggummxeygq.com^
 ||mwnhdnkevthkz.com^
 ||mwuiykzqwaic.com^
 ||mxpzslze.com^
 ||mxzxeersjv.com^
 ||mykhtesikvuz.com^
 ||myqvhpjyd.com^
+||mzhcaexrrl.com^
 ||mzwaqcfbx.com^
 ||mzxexigxkb.com^
 ||mzzouiciajems.com^
+||naohofhbprtx.com^
 ||napickmw.com^
 ||nbvbblmksiahf.com^
 ||nbxfvfeanq.com^
 ||ncsyyeabk.com^
 ||ndilzwjgblea.com^
+||ndprxvzgy.com^
+||ndxtyryloc.com^
+||neschaypaxkk.com^
 ||nfbjwvmndabthb.com^
 ||nfbpcvzj.com^
 ||nfijzdjtpglk.com^
@@ -12759,6 +12973,7 @@ www.llllllllllll.net^
 ||nhkhxvnhfdkn.com^
 ||nidksyrrrtckzj.com^
 ||nikxhdrys.com^
+||nirqmbrzplvtjr.com^
 ||njeozjhyjb.com^
 ||njgogjkwlzroh.com^
 ||nkfqzyqmkp.com^
@@ -12768,11 +12983,16 @@ www.llllllllllll.net^
 ||nmlvcxad.com^
 ||nmywwgnnkmud.com^
 ||nnroeulsnslk.com^
+||nntvphjayapz.com^
+||nnulezwhvbrzwu.com^
 ||nofhtrsaz.com^
 ||noiaifyednjt.com^
 ||novhyaxaioxaon.com^
+||nowymmrxj.com^
 ||npujhntk.com^
+||nqlrewsfmywgbx.com^
 ||nqtyrwyklcmh.com^
+||nrcrbfqa.com^
 ||nrzhlsvqxbgpbn.com^
 ||ntgqcnferh.com^
 ||ntkuokicthbxc.com^
@@ -12787,15 +13007,19 @@ www.llllllllllll.net^
 ||nwwuhiukrq.com^
 ||nxewruvxprbd.com^
 ||nyltsyud.com^
+||nyskocbhfz.com^
 ||nytqlenw.com^
 ||nywpxugigwfzb.com^
 ||nywuthdzdacoq.com^
 ||oamhzvwle.com^
+||oansiwcmc.com^
 ||oarqgvtkco.com^
+||oartozvwzv.com^
 ||obczphph.com^
 ||obpzuctfozram.com^
 ||obwvmzdb.com^
 ||ocrwyhamhfpfc.com^
+||odukhsymyua.com^
 ||oebdarcqsqcdk.com^
 ||oeevatisopdl.com^
 ||oeppesfmzlbpa.com^
@@ -12803,12 +13027,14 @@ www.llllllllllll.net^
 ||ogjascdgq.com^
 ||ognybevu.com^
 ||ogqclfvaq.com^
+||ohrdpvkzhzbg.com^
 ||oixisqtlbhygp.com^
 ||ojbevkqot.com^
 ||ojsfjyekvmyb.com^
 ||olgjzpgp.com^
 ||omakfhugexq.com^
 ||onocjgpq.com^
+||ootqfqjhzfrtn.com^
 ||ooutqfslr.com^
 ||opbneuozwyuvpk.com^
 ||opfrjkmmvqmm.com^
@@ -12821,6 +13047,7 @@ www.llllllllllll.net^
 ||oybahnktadxjju.com^
 ||oyiqurfqulhuq.com^
 ||oynmftlgufr.com^
+||paecbeeavmopbl.com^
 ||pcdzsowmktz.com^
 ||pcfobwzmlts.com^
 ||pckbizoed.com^
@@ -12829,24 +13056,34 @@ www.llllllllllll.net^
 ||peyttlwbznahi.com^
 ||pfihfdmwdsjum.com^
 ||pfiuzxey.com^
+||pfoohjpdbxt.com^
 ||pfvfwielz.com^
 ||pfxcnvjoysztb.com^
 ||pgfxwbgema.com^
 ||phiubpdrh.com^
+||pidbbdxixp.com^
 ||pifsistcwycouc.com^
+||pimygjumeyrtxe.com^
+||pitduougk.com^
+||pjyuftrh.com^
 ||pkxquvydrgin.com^
 ||pllregftgbgmdi.com^
+||pmjwztzpuhb.com^
 ||pmohsibnim.com^
 ||pncbscbuzss.com^
 ||pnwhrmyit.com^
 ||pnzchguyctrsyb.com^
 ||povqrvsoljy.com^
+||ppbvmesssyacij.com^
 ||ppgzokht.com^
+||pprcfwhlmtagay.com^
+||ppxoxkdpxtu.com^
 ||pqajjgjg.com^
 ||pqkorfrurnn.com^
 ||prgncwamr.com^
 ||prulogzjtyksnh.com^
 ||psborsxlcorxuq.com^
+||ptarywzhyzri.com^
 ||ptiniretm.com^
 ||ptkgzsqf.com^
 ||ptrahwwg.com^
@@ -12858,9 +13095,11 @@ www.llllllllllll.net^
 ||pwlqrkgkk.com^
 ||pxcveedcuzy.com^
 ||pxjmdtryd.com^
+||pxphhwnmwuey.com^
 ||pxzacgmr.com^
 ||pyhtclpgzbe.com^
 ||pzfittkdqrrsa.com^
+||qaiqromd.com^
 ||qaxtgbdxjpibc.com^
 ||qbsanzpkfj.com^
 ||qcaejiouuvgk.com^
@@ -12869,7 +13108,9 @@ www.llllllllllll.net^
 ||qdpxpnmh.com^
 ||qduijsyonrmfke.com^
 ||qevmzohvwxesrd.com^
+||qezcdxxskinzi.com^
 ||qfcsljgckvpz.com^
+||qfedsccxccfzut.com^
 ||qfpqmxkiwh.com^
 ||qfsutura.com^
 ||qgawivqfotfyrw.com^
@@ -12895,7 +13136,10 @@ www.llllllllllll.net^
 ||qoiagrfbmquek.com^
 ||qolrlwwirf.com^
 ||qopqudzeaywc.com^
+||qosrridifvsr.com^
+||qouiruhpxoa.com^
 ||qowmqduocv.com^
+||qpbaammdcwu.com^
 ||qpganepbkw.com^
 ||qpmswrurt.com^
 ||qpqnbnsnosdss.com^
@@ -12910,6 +13154,7 @@ www.llllllllllll.net^
 ||qtjxalkllc.com^
 ||qukqptxilr.com^
 ||qupiinlyjuf.com^
+||qvilmdus.com^
 ||qvivzreleolawc.com^
 ||qwittqgogiip.com^
 ||qwzhaqtbiygid.com^
@@ -12917,6 +13162,7 @@ www.llllllllllll.net^
 ||qxcibgzsxegxc.com^
 ||qxmecqgzrgdh.com^
 ||qydylxmzlnqw.com^
+||qyfunsvmtudozq.com^
 ||qyiiudex.com^
 ||qyrzcsoaey.com^
 ||qytabshszekf.com^
@@ -12925,6 +13171,7 @@ www.llllllllllll.net^
 ||qzhaqsxb.com^
 ||qzizjjyvsa.com^
 ||rahvoujjgmtvft.com^
+||raqucjjblu.com^
 ||rbefggthfx.com^
 ||rbfgsoanxw.com^
 ||rbtpsbtzh.com^
@@ -12933,6 +13180,7 @@ www.llllllllllll.net^
 ||rdizmyst.com^
 ||rdooybwcuyg.com^
 ||realnwspfbumn.com^
+||regqrfuvncqcm.com^
 ||relnocyyxhpjb.com^
 ||rereghpaz.com^
 ||reztksclx.com^
@@ -12946,6 +13194,7 @@ www.llllllllllll.net^
 ||rjeksrigwzm.com^
 ||rjirxadtq.com^
 ||rjszckwlctpup.com^
+||rkcxzwlkk.com^
 ||rkczvumivvb.com^
 ||rkgznnhikrfphq.com^
 ||rlgungosm.com^
@@ -12953,13 +13202,18 @@ www.llllllllllll.net^
 ||rmjwdosemtg.com^
 ||rmwjtqazyk.com^
 ||rnagwksouk.com^
+||rniiylqxvxybv.com^
 ||rnlfitypkucbhi.com^
 ||roibwbjaclwgg.com^
 ||ropkrhilt.com^
 ||rpcncuzsmpni.com^
 ||rpzcwgrpbkltp.com^
+||rqaobxvj.com^
+||rqbxfbls.com^
 ||rqigvkwoqafpjz.com^
 ||rquagrre.com^
+||rqwozrkmtwiuri.com^
+||rrnqzntj.com^
 ||rrvpscehvjuz.com^
 ||rscqizsukecevh.com^
 ||rstjainimptgn.com^
@@ -12973,17 +13227,25 @@ www.llllllllllll.net^
 ||rwugglxboxgw.com^
 ||ryybhoklizmuew.com^
 ||rzfldcrlwe.com^
+||rzuwelgm.com^
 ||sawdfbwxqcpcs.com^
+||sbifdctojpisuw.com^
 ||sbmijpifoszz.com^
 ||sbudbyidtdrgey.com^
 ||scjczeqyuqjs.com^
+||scsklzqwme.com^
+||sdeadbqsjam.com^
 ||secfpgpqx.com^
 ||sepyqhipq.com^
+||seuojaesymeriv.com^
 ||sfrsuihcubepzd.com^
+||sfxmdqbi.com^
+||sgggjaosyrxr.com^
 ||sgiueejx.com^
 ||shapzwwy.com^
 ||shgvuhvf.com^
 ||shkfrsif.com^
+||shmpdqwucl.com^
 ||shohabiymgjxdb.com^
 ||sinyfqrmiqgd.com^
 ||sisrgcvomn.com^
@@ -12994,15 +13256,19 @@ www.llllllllllll.net^
 ||slwclrwmruuxav.com^
 ||smpbzsjpk.com^
 ||snxvrnhe.com^
+||soehcsryxyd.com^
+||sosbyncpkyw.com^
 ||spwssohsyqgq.com^
 ||srgszwexkpehb.com^
 ||srhovuokux.com^
 ||sthtrtvkkt.com^
 ||sudolljkjzxdfc.com^
 ||sueolwxxosqch.com^
+||sukgtuksypr.com^
 ||svbsvbwci.com^
 ||swezbddhwcz.com^
 ||swpopynngk.com^
+||sxhpwsgdyhw.com^
 ||sxmmgiuilt.com^
 ||symydvmqjjp.com^
 ||szlkqxlkcz.com^
@@ -13014,13 +13280,16 @@ www.llllllllllll.net^
 ||tbnnsmwfjzttct.com^
 ||tdjoaosibes.com^
 ||teefpagayhb.com^
+||tehkvecryl.com^
 ||teipgupp.com^
 ||tepazmynhvo.com^
 ||tfijbdegozfh.com^
 ||tfqexqeldxjvet.com^
 ||tfxorvbelxfbmk.com^
 ||tfyxcbougqvmk.com^
+||tgkcxtvryb.com^
 ||thbuhcnpt.com^
+||thjlnyagmxrbt.com^
 ||thqwivyhdpoem.com^
 ||tiphkuloov.com^
 ||tjdrxdsto.com^
@@ -13036,6 +13305,7 @@ www.llllllllllll.net^
 ||tnvghrlg.com^
 ||tnznswilqtni.com^
 ||tphwlmybvamq.com^
+||tpnaabdwy.com^
 ||tptfopotrzg.com^
 ||tqixovpneycfmk.com^
 ||tqlypenbt.com^
@@ -13045,6 +13315,7 @@ www.llllllllllll.net^
 ||tufpmrcdc.com^
 ||tuggbdzprgudk.com^
 ||tuliprfawfq.com^
+||tuxgnhcrhyugjf.com^
 ||tuzmouxn.com^
 ||tuzvjlqrpzpugj.com^
 ||tvevyrrrnbcbyk.com^
@@ -13056,12 +13327,15 @@ www.llllllllllll.net^
 ||tzyvolvenvyim.com^
 ||uabdikmdwqdbr.com^
 ||uafgymcern.com^
+||uamgajydnv.com^
+||uaneklzqph.com^
 ||uanomwcxixed.com^
 ||uaofcvzlhhh.com^
 ||uclylhzwg.com^
 ||uembrcfeuwtsjy.com^
 ||uemjnvyn.com^
 ||uenpibqyjvim.com^
+||uescuqejoirsh.com^
 ||ufelatujvbhtbo.com^
 ||ufnozeotbqsn.com^
 ||ufugfbtpp.com^
@@ -13070,15 +13344,23 @@ www.llllllllllll.net^
 ||ugzpvflxa.com^
 ||uimrmuoztkoia.com^
 ||uisrihozphejjt.com^
+||ujpakyfu.com^
 ||ujwdwwfuqcgnv.com^
 ||ukdjbubvp.com^
+||ukjsibgu.com^
 ||ukksghzwxha.com^
 ||ulrryqpp.com^
 ||ultjaimlrjlfl.com^
+||umaglven.com^
+||umqhjmowzjrl.com^
 ||umvgcqaxmie.com^
+||unmdrnuzgel.com^
+||uoapkzwkoqnk.com^
 ||uoccvsdh.com^
+||uohpnvpynvsz.com^
 ||uqemcyylvcdrgs.com^
 ||uqihbnpqtwwzdv.com^
+||uqmkkfaoqnnmlx.com^
 ||uqouplgwlmeqt.com^
 ||urfdvrrg.com^
 ||uryvzhvgpulaog.com^
@@ -13098,8 +13380,10 @@ www.llllllllllll.net^
 ||uyxjfkgudefv.com^
 ||uyznjuyfyjc.com^
 ||uzrrqqzlktpymn.com^
+||uzxyqxolrc.com^
 ||uzylpwfamhcb.com^
 ||vajiyqbb.com^
+||vbdrzplqtgk.com^
 ||vbguaqweaif.com^
 ||vbjpddtj.com^
 ||vbqcwfleda.com^
@@ -13112,15 +13396,20 @@ www.llllllllllll.net^
 ||vemrhavwgchp.com^
 ||veoujrnenng.com^
 ||vepatyei.com^
+||vewpwrqebmwu.com^
 ||vfnemtpehzmzwc.com^
+||vglpukrekfij.com^
 ||vgogzrukn.com^
 ||vhbyakilp.com^
 ||vhdvllhgyrjy.com^
 ||vickgdkdrwpdt.com^
+||viphdsrlec.com^
+||vjcewkcjqu.com^
 ||vjzcgotoy.com^
 ||vkhrnisuky.com^
 ||vkrgljxqn.com^
 ||vlhdmywfi.com^
+||vlkdntgqqfjusm.com^
 ||vlpufjkwpmjhbn.com^
 ||vlyqzdsucomih.com^
 ||vmftwflt.com^
@@ -13134,10 +13423,12 @@ www.llllllllllll.net^
 ||vptkyunlzfy.com^
 ||vqaizaukh.com^
 ||vqnruxpecsn.com^
+||vqqvpouifhv.com^
 ||vrzparvhipmo.com^
 ||vsrpztnxdejo.com^
 ||vsrsviytlb.com^
 ||vsxjjmyz.com^
+||vtcxhnri.com^
 ||vtgdjgtwl.com^
 ||vtmkgqcvzvlsdt.com^
 ||vudbfsnvyzxo.com^
@@ -13150,6 +13441,7 @@ www.llllllllllll.net^
 ||vyjwsifvybc.com^
 ||vzhlsmmboaqxlv.com^
 ||vzlyapss.com^
+||wanrtqneiissrb.com^
 ||wawlfosfkdy.com^
 ||wblkmmxi.com^
 ||wbshrysmjwfplk.com^
@@ -13164,13 +13456,17 @@ www.llllllllllll.net^
 ||wgrbdqucfoieha.com^
 ||wgssxjoac.com^
 ||whgvyswets.com^
+||whzavlaamjcnt.com^
 ||wiazkkjbeqr.com^
 ||widpzvyx.com^
 ||wiklrrrwqqf.com^
+||wiklweefcuorh.com^
+||wjavelurhgx.com^
 ||wjgddzpvx.com^
 ||wjmckfsdcxpj.com^
 ||wjpdgueqasdgeq.com^
 ||wjvwxcnavjodj.com^
+||wkhkffefck.com^
 ||wkwakmsttsehi.com^
 ||wlhbgwzgep.com^
 ||wmqdgaptep.com^
@@ -13178,15 +13474,21 @@ www.llllllllllll.net^
 ||woghqyjpiwddme.com^
 ||wozltvfxtntaqk.com^
 ||wplqgfpj.com^
+||wqkpadciw.com^
+||wqnpcflbcv.com^
 ||wqobjrevtkqym.com^
 ||wqpyqirgzfqsc.com^
+||wrwwvymy.com^
 ||wstvcgfkvc.com^
 ||wsucuzkmnd.com^
 ||wszpjhuosjeexj.com^
+||wtrzjadunrzx.com^
 ||wubdkryfkr.com^
 ||wucbuvitibyiy.com^
 ||wuldvrdfie.com^
 ||wurgaxfamfgyo.com^
+||wvetuwwcojfgw.com^
+||wvvftburvtyz.com^
 ||wwngdgldlsv.com^
 ||wxhpszslw.com^
 ||wybfcxze.com^
@@ -13198,14 +13500,21 @@ www.llllllllllll.net^
 ||wznnfwhwwjkp.com^
 ||xamxwvtsxdva.com^
 ||xasuekjguyub.com^
+||xblcqncce.com^
 ||xcgebfplttrdg.com^
+||xcjelwzs.com^
+||xctiblmetgwr.com^
 ||xcwqzbcpberyp.com^
 ||xcyptaqhl.com^
 ||xdonzpjglqxi.com^
 ||xdqjeggqm.com^
+||xdxzfqxudc.com^
+||xedybxtqd.com^
 ||xeflnvycs.com^
 ||xeirmdgphdl.com^
 ||xfmjleuaqgnuvv.com^
+||xghretunapafes.com^
+||xgmlmmulciz.com^
 ||xgpiuhyxbevjgs.com^
 ||xgwslgpad.com^
 ||xgznkebnjme.com^
@@ -13220,16 +13529,20 @@ www.llllllllllll.net^
 ||xkgbbiqqekja.com^
 ||xkhxejeaarq.com^
 ||xkjlcqbufdlwrq.com^
+||xklrckmslshvq.com^
 ||xkzzkxntmryst.com^
+||xlldzsgt.com^
 ||xlspkqpnnqj.com^
 ||xmgrjuqqc.com^
 ||xmlqerwrehfqo.com^
+||xmrchaqjwqyvz.com^
 ||xmufoqjx.com^
 ||xndskrtxkiv.com^
 ||xnfwhndl.com^
 ||xnjsdpohkgn.com^
 ||xnnbvckd.com^
 ||xnqfpnszqwpijd.com^
+||xnwqhydt.com^
 ||xpbjjdrcwuqkks.com^
 ||xqtymopje.com^
 ||xrkfqpbubaq.com^
@@ -13239,8 +13552,10 @@ www.llllllllllll.net^
 ||xsgacudwlysw.com^
 ||xskbsyssik.com^
 ||xtixyzjeibh.com^
+||xudfxpvm.com^
 ||xuqdbqkqgj.com^
 ||xurrehqawu.com^
+||xvgfmbrifa.com^
 ||xvijskugh.com^
 ||xvxcpdcnfgte.com^
 ||xwavfvpzg.com^
@@ -13251,20 +13566,28 @@ www.llllllllllll.net^
 ||xzywlbgldmpi.com^
 ||yaikleyabl.com^
 ||ybhgzvkqtocedj.com^
+||yblileapbnc.com^
 ||ybqqjrjf.com^
+||yckdywmihuabu.com^
 ||ycyrgutjregkw.com^
+||yczdebjfskegsd.com^
 ||ydaynvgmkjxvy.com^
+||ydfntydegmdbk.com^
 ||ydoksieuml.com^
 ||ydolseawnutnf.com^
+||ydutvhtw.com^
+||ydwjfuhuiesrhp.com^
 ||yeuotdalcxqwr.com^
 ||yfiycpeebse.com^
 ||yflyluiqdig.com^
 ||yfsbprwln.com^
+||ygdnflmhslwi.com^
 ||ygefxaurh.com^
 ||ygngaqihz.com^
 ||yimfcnxzyqhpih.com^
 ||yintkfbxaopyb.com^
 ||yisscbyq.com^
+||yjdbnkgonfp.com^
 ||yjijmpezje.com^
 ||yjipohjtdrxncg.com^
 ||yjseeodbma.com^
@@ -13278,16 +13601,23 @@ www.llllllllllll.net^
 ||ymvkirvjqgha.com^
 ||ynhetcoypgnl.com^
 ||ynhonjqahrh.com^
+||ynuyzeqtswtd.com^
 ||ynzdtoawstxvh.com^
+||yofyzgkoktwlc.com^
 ||ypictqesjuib.com^
+||ypixrvxi.com^
+||ypnespepnln.com^
 ||yrkozodemantj.com^
+||yrtyflmurngv.com^
 ||yruwnpnam.com^
 ||ysljgoytuyfbg.com^
 ||yuanaayutyd.com^
+||yvbrgzeu.com^
 ||yvlhxqxw.com^
 ||yvlmcehqt.com^
 ||ywegbjiv.com^
 ||yxbglezas.com^
+||yyupkqqokrus.com^
 ||yzyalgnxo.com^
 ||yzysnbqc.com^
 ||zaattuotjbkj.com^
@@ -13304,25 +13634,32 @@ www.llllllllllll.net^
 ||zisbrygtluib.com^
 ||zjhnmbfqylme.com^
 ||zjkdrqtjowihn.com^
+||zjsbdjkdtjzoxh.com^
 ||zjsbeont.com^
 ||zjujxffup.com^
 ||zjwcddahpz.com^
 ||zkfhdpogauqb.com^
 ||zkowrpcb.com^
+||zlegojgwg.com^
 ||zlgokeby.com^
 ||zlxfpawyyoq.com^
 ||zmkkiqghh.com^
 ||zmujsnyzujuy.com^
+||znbokxhkwx.com^
 ||znoumvve.com^
+||znztvqgtaivf.com^
 ||zonhpljclov.com^
 ||zoszujvvlu.com^
 ||zoyxbjmmlsrc.com^
 ||zpcxpdpqllyrb.com^
 ||zpghmretcikhzs.com^
+||zpkshggvjif.com^
 ||zplvjgpxvh.com^
 ||zpxlmtujszhixe.com^
+||zramisxvxmkf.com^
 ||zreqmcewq.com^
 ||zsikmzoehqw.com^
+||ztiqalyrbfsnl.com^
 ||ztxohhagymj.com^
 ||zuiiyzgiof.com^
 ||zukipoayrlh.com^
@@ -13330,6 +13667,7 @@ www.llllllllllll.net^
 ||zvdacnjhetcrq.com^
 ||zvovdtomwa.com^
 ||zxbzuyuifdqj.com^
+||zxczritytzsjz.com^
 ||zxeyqwgwsfv.com^
 ||zxiikxeagmferu.com^
 ||zxkrdvrijsp.com^
@@ -17785,6 +18123,19 @@ www.llllllllllll.net^
 ||zzgqqdmnrhhals.com^
 ||zzhgpbovlhinj.com^
 ||zzkrxder.com^
+! Chameleon Advertising Technologies
+||addonsmash.com^
+||axeldivision.com^
+||chameleon.ad^
+||cleanbrowser.network^
+||handy-tab.com^
+||mybitsearch.com^
+||planktab.com^
+||searchdims.network^
+||securesurf.biz^
+||smashnewtab.com^
+||spiralstab.com^
+||yatab.net^
 ! Yavli.com
 ||vicegnem.click^
 ! "info" adservers
@@ -18415,6 +18766,14 @@ www.llllllllllll.net^
 ! Should be uncommented once v2.10 goes live
 ! ||app-measurement.com^
 !
+||2iui01.com^
+||target.mixi.media^
+||analytics.servogram.io^
+||checkmygeo.com^
+||collector-*.perimeterx.net^
+||client.perimeterx.net^
+||shifoagn.uk^
+||stats.coronalabs.com^
 ||track.special-offers.online^
 ||crm-analytics.imweb.ru^
 ||i.clean.gg^
@@ -19725,7 +20084,7 @@ www.llllllllllll.net^
 ||iperceptions.com^
 ||ipfingerprint.com^
 ||ipfrom.com^
-||ipify.org^
+||api.ipify.org^
 ||ipinfo.info^
 ||ipinfodb.com^
 ||ipinyou.com.cn^
@@ -20923,7 +21282,6 @@ www.llllllllllll.net^
 ||uptime.monitorus.ru^
 ||uptimeviewer.com^
 ||uptracs.com^
-||uralweb.ru^
 ||uriuridfg.com^
 ||urlbrief.com^
 ||urlself.com^
@@ -21194,35 +21552,28 @@ www.llllllllllll.net^
 !
 ! https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
 ||functionalclam.com^
+!
 ! Admiral domains
-||jamexistence.com^
-||partplanes.com^
-||actuallysnake.com^
-||bulbbait.com^
-||referdriving.com^
-||innocentinvention.com^
-||stickssheep.com^
-||tranquilside.com^
-||screechingfurniture.com^
-||raresummer.com^
-||basketballbelieve.com^
-||ariseboundary.com^
-||hammerhearing.com^
-||frightenedpotato.com^
-||abashedangle.com^
-||sixscissors.com^
+! These domains are used for tracking purposes according to the data that is being sent there.
+! More info: https://getadmiral.com/products/measure
 ||2znp09oa.com^
 ||4jnzhl0d0.com^
 ||6ldu6qa.com^
 ||82o9v830.com^
 ||abandonedclover.com^
+||abashedangle.com^
 ||abruptroad.com^
+||actuallysnake.com^
 ||ak0gsh40.com^
 ||ambitiousagreement.com^
 ||anxiousapples.com^
 ||argyresthia.com^
+||ariseboundary.com^
 ||awzbijw.com^
+||axiomaticalley.com^
+||balancebreath.com^
 ||balloontexture.com^
+||basketballbelieve.com^
 ||baskettexture.com^
 ||bawdybeast.com^
 ||beamincrease.com^
@@ -21230,8 +21581,12 @@ www.llllllllllll.net^
 ||boredcrown.com^
 ||broadboundary.com^
 ||broadcastbed.com^
+||bulbbait.com^
+||butterburst.com^
+||calculatorcamera.com^
 ||calmfoot.com^
 ||cherrythread.com^
+||chickensstation.com^
 ||chinchickens.com^
 ||comfortablecheese.com^
 ||consciouscabbage.com^
@@ -21239,29 +21594,42 @@ www.llllllllllll.net^
 ||copycarpenter.com^
 ||crawlclocks.com^
 ||critictruck.com^
+||culturedcrayon.com^
 ||curtaincows.com^
 ||cutecushion.com^
 ||decisiveducks.com^
+||detailedglue.com^
 ||docksalmon.com^
 ||doubtfulrainstorm.com^
+||dragzebra.com^
 ||elasticchange.com^
 ||elephantqueue.com^
 ||exclusivebrass.com^
 ||floodprincipal.com^
+||frightenedpotato.com^
 ||futuristicfairies.com^
 ||fuzzyflavor.com^
+||gammamaximum.com^
 ||giddycoat.com^
+||giraffepiano.com^
 ||gorgeousground.com^
 ||greetzebra.com^
 ||greyinstrument.com^
 ||guardedgovernor.com^
 ||guitarbelieve.com^
 ||h78xb.pw^
+||hammerhearing.com^
 ||hfc195b.com^
 ||hilariouszinc.com^
+||humdrumhat.com^
+||innocentinvention.com^
 ||ivykiosk.com^
 ||j93557g.com^
+||jamexistence.com^
 ||jewelcheese.com^
+||justicejudo.com^
+||leaplunchroom.com^
+||lettucelimit.com^
 ||limpingline.com^
 ||lizardslaugh.com^
 ||lopsidedspoon.com^
@@ -21270,6 +21638,11 @@ www.llllllllllll.net^
 ||messagenovice.com^
 ||mixedreading.com^
 ||mowfruit.com^
+||noiselessplough.com^
+||optimallimit.com^
+||partplanes.com^
+||perceivequarter.com^
+||petiteumbrella.com^
 ||photographpan.com^
 ||pietexture.com^
 ||possibleboats.com^
@@ -21278,32 +21651,48 @@ www.llllllllllll.net^
 ||profitrumour.com^
 ||quaintcan.com^
 ||quicksandear.com^
+||raresummer.com^
 ||readgoldfish.com^
 ||rebelsubway.com^
 ||receptiveink.com^
+||receptivereaction.com^
+||referdriving.com^
 ||resolutekey.com^
 ||rulerabbit.com^
 ||saysidewalk.com^
 ||scarcestream.com^
+||screechingfurniture.com^
 ||scrubsky.com^
 ||scrubswim.com^
 ||separatesilver.com^
 ||shakesea.com^
 ||shakytaste.com^
+||shelterstraw.com^
 ||shiveringsail.com^
 ||shockingswing.com^
 ||simplisticnose.com^
+||sincerebuffalo.com^
+||sixscissors.com^
 ||sneaklevel.com^
 ||spectacularsnail.com^
+||spuriousstranger.com^
 ||squeamishscarecrow.com^
+||standtrouble.com^
+||steamsecretary.com^
+||stickssheep.com^
 ||stormyachiever.com^
 ||stormysponge.com^
 ||straightnest.com^
+||straightschool.com^
 ||strivesidewalk.com^
+||suddensidewalk.com^
 ||superficialsink.com^
+||terriblethumb.com^
 ||thirdrespect.com^
 ||throattrees.com^
+||ticklesign.com^
 ||tracedesire.com^
+||tranquilside.com^
 ||trickycelery.com^
 ||tritetongue.com^
 ||truckstomatoes.com^
@@ -21334,6 +21723,16 @@ www.llllllllllll.net^
 ||collection-endpoint-staging.herokuapp.com^
 ! end:
 !
+||p.gazeta.pl^
+||st.dynamicyield.com^
+||log.outbrainimg.com^
+||analytics-udg.netdna-ssl.com^
+||collecte.audience.acpm.fr^
+||stats.otempo.com.br^
+||banstat.nadavi.net^
+||pixel.4players.de^
+||lexip.4players.de^
+||monitor-targeting-failures.sqrt-5041.de^
 ||analytics.businessinsider.com^
 ||tracking.hotel.check24.de^
 ||stats01.20min.ch^
@@ -21424,8 +21823,6 @@ www.llllllllllll.net^
 ||cnt.nicemix.com^
 ||cnt.nuvid.com^
 ||cnt.vivatube.com^
-||collect.sas.com^
-||collect2.sas.com^
 ||collection.theaa.com^
 ||collector-cdn.github.com^
 ||collector-medium.lightstep.com^
@@ -21882,7 +22279,6 @@ www.llllllllllll.net^
 ||abs.proxistore.com^
 ||cdn.tagcommander.com^
 ||mc.webvisor.org^
-||client.perimeterx.net^
 ||phen.fabricmedia.ru^
 ||m.dubcm.com^
 ||a1.huiqituan.com^
@@ -22939,7 +23335,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||angorch-cdr7.com^
 ||answerscloud.com^
 ||ape78cn2.com^
-||app.link^
 ||appn.center^
 ||aprtn.com^
 ||arianelab.com^
@@ -22970,6 +23365,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||calltrk.com^
 ||captora.com^
 ||capturemedia.network^
+||carrotquest.io^
 ||cbtrk.net^
 ||ccgateway.net^
 ||cdn-analytics.pl^
@@ -22991,6 +23387,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contentsquare.net^
 ||conversionfly.com^
 ||coralogix.com^
+||customerlabs.co^
 ||cux.io^
 ||cvtr.io^
 ||d-1.co^
@@ -23004,6 +23401,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||digitru.st^
 ||distiltag.com^
 ||districtm.io^
+||dm-event.net^
 ||dmpcounter.com^
 ||dmxleo.com^
 ||dtxngr.com^
@@ -23027,6 +23425,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||feathr.co^
 ||fonderredd.info^
 ||fqsecure.com^
+||freshmarketer.com^
 ||gameanalytics.com^
 ||gammachug.com^
 ||gear5.me^
@@ -23037,6 +23436,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gnpge.com^
 ||gostats.org^
 ||group-ib.ru^
+||grumrt.com^
 ||gweini.com^
 ||halo77.com^
 ||hdmtools.com^
@@ -23059,6 +23459,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||intellimize.co^
 ||invisioncloudstats.com^
 ||ipapi.co^
+||ipify.org^
 ||iproanalytics.com^
 ||iprotrk.com^
 ||ironbeast.io^
@@ -23073,6 +23474,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||keytiles.com^
 ||km-sea.net^
 ||knowlead.io^
+||ladsp.com^
 ||lansrv030.com^
 ||lasagneandands.com^
 ||leadintel.io^
@@ -23135,7 +23537,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||personalicanvas.com^
 ||pipfire.com^
 ||pizzaandads.com^
-||plusgrade.com^
 ||polarcdn-pentos.com^
 ||popt.in^
 ||pt-trx.com^
@@ -23155,6 +23556,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||recruitics.com^
 ||remarketingpixel.com^
 ||report-uri.io^
+||resulticks.com^
 ||retargettracker.com^
 ||retentionscience.com^
 ||rezync.com^
@@ -23180,6 +23582,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shoptimally.com^
 ||showheroes.com^
 ||silvergamed.com^
+||simility.com^
 ||simpleanalytics.io^
 ||simpleheatmaps.com^
 ||sitelabweb.com^
@@ -23189,6 +23592,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smartsuppchat.com^
 ||smct.co^
 ||smrk.io^
+||snapdeal.biz^
 ||social-sb.com^
 ||soflopxl.com^
 ||sojern.com^
@@ -23209,6 +23613,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||strossle.it^
 ||surefire.link^
 ||synerise.com^
+||tagmngrs.com^
 ||tamgrt.com^
 ||taplytics.com^
 ||tdsrmbl.net^
@@ -23222,9 +23627,12 @@ charlestownwyllie.oaklawnnonantum.com^
 ||thisisacoolthing.com^
 ||thisisanothercoolthing.com^
 ||tighting.info^
+||tinb.net^
 ||tnctrx.com^
 ||traceless.me^
+||track-server-100.com^
 ||trackmytarget.com^
+||trackmyusers.com^
 ||trafficfuel.com^
 ||transactionale.com^
 ||traversedlp.com^
@@ -23247,6 +23655,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||upapi.net^
 ||uptain.de^
 ||uptrendsdata.com^
+||uralweb.ru^
 ||useitbetter.com^
 ||user-api.com^
 ||user-red.com^
@@ -23259,6 +23668,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whizstats.com^
 ||widerplanet.com^
 ||xlisting.jp^
+||xtraffstat.com^
 ||yandex-metrica.ru^
 ||yldr.io^
 ||youbora.com^
@@ -23638,7 +24048,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||onlinereserchstatistics.online^
 ||open-hive-server-1.pp.ua^
 ||openguid.org^
-||outbrainimg.com^
 ||oxwwoeukjispema.ru^
 ||p2poolmining.com^
 ||p2poolmining.net^
@@ -23782,8 +24191,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zymerget.win^
 ! Admiral
 ||aheadday.com^
-||axiomaticalley.com^
-||balancebreath.com^
 ||bh8yx.xyz^
 ||broaddoor.com^
 ||consciouschairs.com^
@@ -23794,19 +24201,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flakyfeast.com^
 ||frailoffer.com^
 ||importedincrease.com^
-||petiteumbrella.com^
 ||puffyloss.com^
 ||ritzykey.com^
 ||scintillatingspace.com^
 ||selectivesummer.com^
 ||sharppatch.com^
-||shelterstraw.com^
 ||spiffymachine.com^
 ||spurioussteam.com^
 ||storesurprise.com^
-||suddensidewalk.com^
 ||sugarcurtain.com^
-||ticklesign.com^
 ||truthfulturn.com^
 !
 ! [Inclusion: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt]
@@ -23843,6 +24246,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||affilizr.com^
 ||air360tracker.net^
 ||alkemics.com^
+||analytics-cdiscount.com^
 ||browsiprod.com^
 ||carts.guru^
 ||casualstat.com^
@@ -23892,15 +24296,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||he2d.com^
 ||ipinyou.com^
 ||irs01.
+||iteye.com^
 ||lndata.com^
 ||logly.co.jp^
 ||miaozhen.com^
 ||p0y.cn^
 ||pp8.com^
 ||pvmax.net^
+||qchannel03.cn^
+||qhupdate.com^
 ||reachmax.cn^
 ||sagetrc.com^
 ||scupio.com^
+||sjv.io^
 ||tagmanager.cn^
 ||tenmax.io^
 ||tomonline-inc.com^
@@ -23928,8 +24336,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||erate.co.il^
 ||fortvision.com^
 ||lead.im^
+||mimgoal.com^
 ! Hungarian
 ||gpr.hu^
+||p24.hu^
+||ripost.services^
 ! Icelandic
 ! Indonesian
 ! Italian
@@ -23954,6 +24365,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ec-concier.com^
 ||ec-optimizer.com^
 ||genieedmp.com^
+||genieessp.jp^
 ||im-apps.net^
 ||iogous.com^
 ||keyword-match.com^
@@ -23964,13 +24376,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pagoda56.com^
 ||r-ad.ne.jp^
 ||sibulla.com^
+||speee-ad.jp^
 ||tgknt.com^
 ||ukw.jp^
 ||wonder-ma.com^
 ! Korean
 ||adpick.co.kr^
 ||adtive.com^
+||aicontents.net^
 ||contentsfeed.com^
+||dawin.tv^
 ||oevery.com^
 ||tenping.kr^
 ! Latvian
@@ -24009,17 +24424,21 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hsdn.org^
 ||idntfy.ru^
 ||infox.sg^
+||inrd.ru^
 ||instreamatic.com^
 ||k3dqv.ru^
+||leadslabpixels.net^
 ||livetex.ru^
 ||r24-tech.com^
 ||retag.xyz^
 ||rnet.plus^
 ||sarov.ws^
 ||sas.com^
+||semantiqo.com^
 ||stat-well.com^
 ||tbex.ru^
 ||tds.io^
+||tnative.ru^
 ||toptracker.ru^
 ||tpm.pw^
 ||track.cooster.ru^
@@ -24037,6 +24456,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ccrtvi.com^
 ||contadorvisitasgratis.com^
 ||delidatax.net^
+||easysol.net^
 ||mabaya.com^
 ||seedtag.com^
 ! Swedish
@@ -24051,12 +24471,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tidningsnatet.se^
 ||tns-sifo.se^
 ||vastpaketet.se^
-||worldoftulo.com^
 ! Thai
 ||d-stats.com^
 ! Turkish
 ! Ukranian
+||getaim.info^
+||zmctrack.net^
 ! Vietnamese
+||amcdn.vn^
+||contineljs.com^
 !
 ! [Inclusion: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt]
 !
@@ -24150,6 +24573,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
+||analytics.supplyframe.com^
 ||analytics.themarketiq.com^
 ||analytics.tribeca.vidavee.com^
 ||analytics.urx.io^
@@ -24313,12 +24737,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d1rnw04e6mc22h.cloudfront.net^
 ||d1ssbq1bwjg5ux.cloudfront.net^
 ||d23pi6hvdpcc5i.cloudfront.net^
+||d24cze5sab2jwg.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
 ||d2kyy9hvbrzkgn.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
+||d3n6i6eorggdxk.cloudfront.net^
 ||d3rmnwi2tssrfx.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||data.alexa.com^
@@ -24391,7 +24817,9 @@ charlestownwyllie.oaklawnnonantum.com^
 ||filament-stats.herokuapp.com^
 ||flashstats.libsyn.com^
 ||fluidsurveys-com.fs.cm^
+||fourmtagservices.appspot.com^
 ||friends.totallynsfw.com^
+||future-fie-assets.co.uk^
 ||g.delivery.net^
 ||ga-beacon.appspot.com^
 ||ga.kvideo.io^
@@ -24423,6 +24851,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hop.clickbank.net^
 ||hpr.outbrain.com^
 ||i-stats.ieurop.net^
+||i.viafoura.co^
 ||ib.adnxs.com^
 ||icu.getstorybox.com^
 ||ihstats.cloudapp.net^
@@ -24456,6 +24885,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||link.huffingtonpost.com^
 ||link.informer.com^
 ||link.tym.cool^
+||links.voyeurweb.com^
 ||livestats.kaltura.com^
 ||log-*.previewnetworks.com^
 ||log.aimtell.com^
@@ -24479,6 +24909,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||magnify360-cdn.s3.amazonaws.com^
 ||marketinghub.hp.com^
 ||mas.nth.ch^
+||mc.webvisor.com^
+||mc.webvisor.ru^
 ||mcs.delvenetworks.com^
 ||mediametrics.mpsa.com^
 ||mediapartner.bigpoint.net^
@@ -24528,6 +24960,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||p.dsero.net^
 ||p.po.st^*&pub=
 ||p.po.st^*&vguid=
+||p.travelsmarter.net^
 ||pages-stats.rbl.ms^
 ||partner.cynapse.com^
 ||partners.etoro.com^
@@ -24731,10 +25164,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tag.email-attitude.com^
 ||tag.myplay.com^
 ||tag.sonymusic.com^
+||tags.cdn.circlesix.co^
 ||tags.master-perf-tools.com^
 ||tags.newscgp.com^
 ||target.fark.com^
-||target.mixi.media^
 ||tc.airfrance.com^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
@@ -24961,6 +25394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pix.news.at^
 ||pixel.holtzbrinckdigital.info^
 ||pixel.nbsp.de^
+||px.staticfiles.at^
 ||retrack.q-divisioncdn.de^
 ||sett.i12.de^
 ||sim-technik.de^*&uniqueTrackId=
@@ -25063,6 +25497,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||css.aliyun.com^
 ||d17m68fovwmgxj.cloudfront.net^
 ||da.netease.com^
+||epro.sogou.com^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||idigger.qtmojo.com^
@@ -25080,11 +25515,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||r.sax.sina.com.cn^
 ||report.meituan.com^
 ||stat.ws.126.net^
+||sugs.m.sm.cn^
 ||t.hypers.com.cn^
 ||toruk.tanx.com^
+||tr.n2.hk^
 ||track.ra.icast.cn^
 ||tracking.cat898.com^
 ||traffic.bokecc.com^
+||useg.nextdigital.com.hk^
 ||v.emedia.cn^
 ! Croatian
 ||tracking.vid4u.org^
@@ -25125,6 +25563,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Hebrew
 ! Hungarian
 ||pagerank.g-easy.hu^
+||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
 ! Icelandic
@@ -25181,11 +25620,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Japanese
 ||analysis.shinobi.jp^
 ||analyzer51.fc2.com^
+||asumi.shinobi.jp^
 ||clickanalyzer.jp^
 ||imgstat.ameba.jp^
 ||omt.shinobi.jp^
+||rcm.shinobi.jp^
+||sync.shinobi.jp^
 ||userdive.com^
+||x9.shinobi.jp^
 ! Korean
+||log.cizion.com^
 ||log2.adop.cc^
 ! Latvian
 ||counter.hackers.lv^
@@ -25287,6 +25731,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stat.matichon.co.th^
 ! Turkish
 ! Ukranian
+||informers.sinoptik.ua^
 ! Vietnamese
 ||analytics.mecloud.vn^
 !
@@ -25309,6 +25754,7 @@ charlestownwyllie.oaklawnnonantum.com^
 .3.n.2.2.l30.js
 !
 !
+||jwuqescfqa.xyz^
 ://mine.torrent.pw^
 ||besstahete.info^
 ||hostingcloud.*.wasm^
@@ -25352,17 +25798,16 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||128cash.org^
 ||130.211.212.60^
 ||1iklanbaris.com^
-||1sakong.com^
 ||1st-iklan.com^
 ||35.188.59.75^
 ||3b7c0f01022f61d5.com^
 ||4dasli.com^
 ||690179b5160e450.com^
 ||899-cash.com^
-||899cash.co^
 ||8a333bc2b4d6.com^
 ||99doyan.com^
 ||abrts.pro^
+||accesstrade.co.id^
 ||ad.adflazz.com^
 ||addesigner.com^
 ||adexp.net^
@@ -25372,43 +25817,21 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||ads-link.net^
 ||adsbingo.com^
 ||adstars.co.id^
-||adxscope.com^
-||afapkr.net^
-||afatogel1.com^
 ||afbcashidr.com^
-||agensakong.org^
 ||ajangiklangratis.com^
 ||alertpay.com^
-||alternatif188bet.com^
 ||ampclicks.com^
 ||anekaiklan.com^
-||anekaqq.org^
 ||angkakembar.org^
-||asia-bandarkiu.com^
-||asia-bandarq.com^
 ||asian4d.net^
-||asianbandarq.com^
 ||axzsd.pro^
 ||azxsd.pro^
-||baftarbandarkiu.com^
 ||bakaratonline.com^
 ||baliadv.com^
-||bandarkiu.mobi^
-||bandarpoker.us^
-||bandarq.mobi^
-||bandarqterpercaya.net^
-||bandarsakong.info^
-||beliqq.me^
 ||bellaads.com^
 ||bmnet-ads.com^
-||bola168.me^
-||bunchofwinners.win^
 ||c-4fambt.com^
-||caradaftarpoker.co^
-||cariqqiu.com^
 ||cd87c85eb2890d048d2.com^
-||cdnasiaclub.com^
-||ceritasex.gratis^
 ||cjsab.com^
 ||clickmedia.co.id^
 ||cpaclickoffers.com^
@@ -25416,24 +25839,13 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||dafa.io^
-||daftarbandarkiu.com^
-||daftarbandartogelterpercaya.com^
-||daftardomino.net^
 ||daftarfun88.com^
-||daftarpoker228.com^
-||daftarqq.net^
-||daftarqqonline.com^
 ||dearerfonder.info^
 ||dermaga4d.net^
-||dewa757.org^
-||dewahoki.tk^
 ||dgnvmw.xyz^
 ||divisix.org^
-||domino757.net^
-||dominoqqwin.com^
 ||download.televisionfanatic.com^
 ||doyan-99.com^
-||doyanbandarq.com^
 ||dzbx8qv1at614.cloudfront.net^
 ||eclkmpbn.com^
 ||edomz.com^
@@ -25449,10 +25861,6 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||groupiklan.com^
 ||gudangbanner.com^
 ||halal.ad^
-||hoki365.me^
-||hoyajackpot.com^
-||hoyajackpot.org^
-||hoyapoker99.org^
 ||hwoxt.com^
 ||iklan-indo.org^
 ||iklan-laris.com^
@@ -25472,6 +25880,7 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||iklangratismu.com^
 ||iklanhemat.com^
 ||iklanhoki.com^
+||iklaninter.net^
 ||iklanoke.com^
 ||iklanonlinemu.com^
 ||iklanpasanggratis.com^
@@ -25483,8 +25892,6 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||ikoh6ie.top^
 ||indobanner.com^
 ||indofreeads.com^
-||indotogel1.com^
-||inidomino.net^
 ||istana-impian.com^
 ||istana-impian2.net^
 ||istana3.net^
@@ -25493,11 +25900,8 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||istanaimpian2.me^
 ||istanaimpian3.net^
 ||itudewa.info^
-||itupk.net^
-||jagoanpoker99.com^
 ||jagoiklan.com^
 ||jagopromo.com^
-||jarumpoker.me^
 ||jasaiklan.com^
 ||javaiklan.com^
 ||jayabola.tk^
@@ -25515,50 +25919,32 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||kodealam2.net^
 ||l9tdhe6.com^
 ||liga88.me^
-||livehkpools.com^
 ||lokeriklan.com^
 ||lotus-4d.com^
 ||macarier.review^
-||maenpokerasli.com^
-||maindomino.net^
-||maindominoqq.net^
-||maintogelonline.me^
-||maintogelonline.net^
 ||maruduthutabarat.com^
 ||masteriklan.net^
-||masterpoker99.com^
 ||mediab.uy^
-||menangqq.org^
 ||mesiniklan.andipublisher.com^
 ||mobalert.online^
 ||mybannermaker.com^
-||nontonbokep.mobi^
-||nusantarabet4d.net^
 ||octafx.com^
 ||offerjuice.me^
 ||onedollarptc.com^
 ||openadserving.com^
-||orientalpoker.net^
 ||paidforfree.com^
-||pangerantoto1.net^
-||pangerantoto3.com^
 ||pasangiklan.com^
 ||pasangiklangratisbaris.com^
 ||pasangiklangratisbaris.net^
 ||pasangnomor2.net^
-||pasarantogel.me^
 ||pasariklanbaris.com^
 ||paypopup.com^
-||pendekarqq.co^
-||pokergalaxy.us^
 ||pondokiklan.com^
 ||promobagus.com^
 ||promosi365.me^
 ||promotioncamp.com^
 ||publish.web.id^
 ||pusatiklan.com^
-||qqdoyan.com^
-||qqpendekar.com^
 ||raja12shio.org^
 ||rajanusantara.org^
 ||realwap.net^
@@ -25567,11 +25953,8 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||sanglah.com^
 ||scriptall.ml^
 ||sebar.idblognetwork.com^
-||sedapqqq.com^
 ||see-work.info^
 ||seen-on-screen.thewhizmarketing.com^
-||seniqq.me^
-||sentanapoker.net^
 ||sentrapromosi.com^
 ||sepakbolagol.com^
 ||serbapromo.com^
@@ -25582,35 +25965,24 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||situsiklanbaris.com^
 ||strainemergency.com^
 ||sumberiklan.com^
-||sundulqq.me^
 ||surya4d.org^
 ||suryaiklan.com^
 ||teliad.com^
 ||theclickers.net^
 ||tinggalklik.com^
-||togelcc1.com^
-||togeljackpot2.com^
-||togelmarket2.com^
 ||topklik.com^
 ||topsurfer.com^
-||totobett.com^
-||totokita.org^
-||track.aptitudemedia.co^
-||track.spzan.com^
-||trk.cpaoptimizer.com^
 ||trndoffers.com^
 ||twap.eu^
 ||u-on.eu^
 ||uadexchange.com^
 ||useads.com^
-||wahanatoto1.com^
 ||webiklan.com^
 ||weblogiklan.com^
 ||window-close.cf^
 ||window-close.ga^
-||wong-poker.com^
+||www.adflazz.com^
 ||yesads.com^
-||ysbjaya88.org^
 ||yx-ads6.com^
 !
 ! Adguard DNS rules
@@ -25624,6 +25996,8 @@ estream.nu#%#Object.defineProperty(window, 'WebAssembly', { get: function() { re
 ||analytics.twitter.com^
 ||click.aliexpress.com^$image,script
 ||clientlog.portal.office.com^
+||collect.sas.com^
+||collect2.sas.com^
 ||log.optimizely.com^
 ||log.prezi.com^
 ||pixel.redditmedia.com^
@@ -25718,6 +26092,15 @@ raovat.vnecdn.net^
 !
 ! Adguard DNS exceptions
 !
+! Fixing the issue with "Wi-Fi" connection mark when you configure private DNS on Android 9
+! Once you enable private DNS, Android 9 starts resolving random domains looking like
+! `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
+! AdGuard DNS blocks this domain but for some reason, it messes with Android's network validation process.
+@@dnsotls-ds.metric.gstatic.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/26607
+@@||imasdk.googleapis.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/23
+@@||sas.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23929
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|

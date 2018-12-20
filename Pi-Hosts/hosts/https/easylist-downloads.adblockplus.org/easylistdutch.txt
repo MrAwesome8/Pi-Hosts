@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Lk2HEfHLqN+vtR5fLcKmmA
-! Version: 201811220303
+! Checksum: D2EL9JGgR3Ntv8qShw2xpw
+! Version: 201812201923
 ! Title: EasyList Dutch
 ! Description: Dutch supplement for the Easylist filters
-! Last modified: 22 Nov 2018 03:03 UTC
+! Last modified: 20 Dec 2018 19:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING

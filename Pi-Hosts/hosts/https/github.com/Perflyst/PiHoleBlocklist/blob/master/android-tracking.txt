@@ -66,7 +66,7 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 android.clients.google.com
+# android.clients.google.com # needed to reach google play store with android 8 and newer
 0.0.0.0 clients1.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 ade.googlesyndication.com

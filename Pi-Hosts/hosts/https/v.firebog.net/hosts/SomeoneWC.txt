@@ -383,7 +383,6 @@
 0.0.0.0 cig-arrete.com
 0.0.0.0 ci-mpsnare.iesnare.com
 0.0.0.0 ci-mpsnare.iesnare.co.uk
-0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 ci-snare.iovation.com
 0.0.0.0 citrix.tradedoubler.com
 0.0.0.0 cjt1.net
@@ -2807,6 +2806,7 @@
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.kinomarathon.ru
 0.0.0.0 www.kpremium.com
+0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.likeportal.com
 0.0.0.0 www.likespike.com
 0.0.0.0 www.likethislist.biz
@@ -4140,7 +4140,6 @@
 0.0.0.0 a.as-us.falkag.net
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab913aa797e78b3.com
@@ -9456,6 +9455,7 @@
 0.0.0.0 plasmatv4free.com
 0.0.0.0 plasmatvreward.com
 0.0.0.0 platads.com
+0.0.0.0 play.heavymetalmachines.com
 0.0.0.0 playinvaders.com
 0.0.0.0 play.istlandoll.com
 0.0.0.0 play.leadzupc.com
@@ -9924,7 +9924,6 @@
 0.0.0.0 safenyplanet.in
 0.0.0.0 sagent.io
 0.0.0.0 salesforcecom.tt.omtrdc.net
-0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 sanalreklam.com
 0.0.0.0 sarah.dntrx.com
@@ -11982,7 +11981,6 @@
 0.0.0.0 www.trndsys.mobi
 0.0.0.0 www.trourted.pro
 0.0.0.0 www.ttnet.yandex.com.tr
-0.0.0.0 www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.turn.com
 0.0.0.0 www.tutop.com
 0.0.0.0 www.tuttosessogratis.org
@@ -12043,6 +12041,7 @@
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xbn.ru
 0.0.0.0 www.xl-trk.com
+0.0.0.0 www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yibaruxet.cn
 0.0.0.0 www.yieldmanager.net
