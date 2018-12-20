@@ -1,3 +1,4 @@
+http://malwaredomains.lehigh.edu/files/BOOT
 http://phishing.mailscanner.info/phishing.bad.sites.conf
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
@@ -130,8 +131,6 @@ https://github.com/smokingwheels/NSABlocklist/blob/master/Trackers/Canvas%20font
 https://github.com/smokingwheels/NSABlocklist/blob/master/Trackers/trackers.txt
 https://github.com/smokingwheels/NSABlocklist/blob/master/Trackers/webrtc%20tracking.txt
 https://github.com/smokingwheels/recruiterdomains/blob/master/domains.txt
-https://github.com/Soham3-1415/PiHole-Block-Lists/blob/master/Youtube%20Blocklist/Youtube%20Ad%20Fingerprints.txt
-https://github.com/Soham3-1415/PiHole-Block-Lists/blob/master/Youtube%20Blocklist/Youtube%20Blocklist%20Generator.py
 https://github.com/Soham3-1415/PiHole-Block-Lists/blob/master/Youtube%20Blocklist/Youtube%20Blocklist.txt
 https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn/hosts
 https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-gambling-porn-social/hosts

@@ -54,6 +54,9 @@ namespace Pi_Hosts {
                 url = GetNormalGithub(url);
             }
 
+            if (url.Contains("pastebin") && (url.Contains("/raw"))) {
+                url = url.Replace("/raw", "");
+            }
             return url;
         }
 

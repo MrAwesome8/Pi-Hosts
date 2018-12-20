@@ -66,7 +66,9 @@ namespace Pi_Hosts {
                     if (file.Exists && file.Length > 0) {
                         if (!valid) { MarkListAs(url, ListType.BackedUp); return; }
 
-                        if (!shouldUpdate) { MarkListAs(url, ListType.Cached); return; }
+                        var stillRecent = File.GetLastWriteTimeUtc(path).AddMinutes(30) > DateTime.UtcNow;
+
+                        if (!shouldUpdate || stillRecent) { MarkListAs(url, ListType.Cached); return; }
 
                         var result = WriteListToFile(path, url);
                         if (result == ListType.Good) {
@@ -146,7 +148,10 @@ namespace Pi_Hosts {
                 url = GetRawGithub(url);
             }
 
-            string n = "\n";
+            if (url.Contains("pastebin.com") && !url.Contains("/raw")) {
+                url = url.Insert(url.LastIndexOf("/"), "/raw");
+            }
+            const string n = "\n";
 
             using (WebClient client = new WebClient() { Encoding = encoding }) {
                 client.Headers.Add("user-agent", "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705;)"); //pretend to be web browser https://stackoverflow.com/a/40275488
