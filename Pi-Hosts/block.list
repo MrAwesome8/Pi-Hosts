@@ -1,8 +1,8 @@
-http://malwaredomains.lehigh.edu/files/BOOT
 http://phishing.mailscanner.info/phishing.bad.sites.conf
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 https://adaway.org/hosts.txt
+https://adblock.mahakala.is/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://dshield.org/feeds/suspiciousdomains_High.txt
 https://dshield.org/feeds/suspiciousdomains_Low.txt
@@ -37,6 +37,7 @@ https://gist.github.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1
 https://gist.github.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500
 https://gist.github.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0
 https://gist.github.com/MrAwesome8/0839c6cd9c80cf1026d9a9724d7f8d5a
+https://gist.github.com/MrAwesome8/1c19f9e00f66297f462ecc0b4facf37a
 https://gist.github.com/MrAwesome8/72e9909f7c8dc25cc3927b20983dc6cc
 https://gist.github.com/MrAwesome8/cf26f30063cc903c609bd5979063970c
 https://github.com/AdAway/adaway.github.io/blob/master/hosts.txt

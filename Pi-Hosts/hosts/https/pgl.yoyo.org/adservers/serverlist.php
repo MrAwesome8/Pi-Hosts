@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated: Thu, 20 Dec 2018 14:54:24 GMT
-# entries: 2948
+# last updated: Fri, 21 Dec 2018 08:03:24 GMT
+# entries: 2943
 # format: hosts (hosts -- in hosts file format)
 # credits: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext;showintro=0
@@ -11,7 +11,7 @@
 # other formats: https://pgl.yoyo.org/adservers/formats.php
 # policy: https://pgl.yoyo.org/adservers/policy.php
 #
-# start date: Fri, 25 Dec 1998 00:00:00
+# start date: Sun, 27 Dec 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -82,7 +82,6 @@
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
 0.0.0.0 ad-delivery.net
-0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.gulasidorna.se
@@ -331,7 +330,6 @@
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
 0.0.0.0 adprofile.net
-0.0.0.0 adq.nextag.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adreactor.com
 0.0.0.0 adreclaim.com
@@ -365,6 +363,7 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.allvatar.com
+0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.aol.co.uk
@@ -846,7 +845,6 @@
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 adverts.carltononline.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
@@ -1127,7 +1125,6 @@
 0.0.0.0 blogads.com
 0.0.0.0 blogcounter.de
 0.0.0.0 blogherads.com
-0.0.0.0 blogrush.com
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 blueadvertise.com
@@ -1153,7 +1150,6 @@
 0.0.0.0 braincash.com
 0.0.0.0 branch.io
 0.0.0.0 brandreachsys.com
-0.0.0.0 brid.tv
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightinfo.com
 0.0.0.0 british-banners.com
@@ -1234,6 +1230,7 @@
 0.0.0.0 claria.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 clearcomb.com
+0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
@@ -1241,7 +1238,6 @@
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
-0.0.0.0 clickbank.net
 0.0.0.0 clickbooth.com
 0.0.0.0 clickboothlnk.com
 0.0.0.0 clickbrokers.com
@@ -1374,7 +1370,6 @@
 0.0.0.0 crownclam.com
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
-0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 cumbersomecloud.com
@@ -2092,7 +2087,6 @@
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.repubblica.it
 0.0.0.0 oas.roanoke.com
-0.0.0.0 oas.salon.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
@@ -2931,6 +2925,7 @@
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yabuka.com
 0.0.0.0 yadro.ru
+0.0.0.0 yepads.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldads.com

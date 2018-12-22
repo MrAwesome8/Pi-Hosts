@@ -1,15 +1,15 @@
-! Checksum: mJ6i3n7TiySNKg/zkFB3ag
+! Checksum: Ln+MGmedelD+lzr1qBCadQ
 ! Title: AdGuard Simplified domain names filter
 ! Description: Filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Version: 2.0.3.22
-! TimeUpdated: 2018-12-20T18:30:28+03:00
+! Version: 2.0.3.24
+! TimeUpdated: 2018-12-22T18:30:25+03:00
 ! Expires: 2 days (update frequency)
 !
 !
 ! Title: AdGuard Simplified Domain Names filter
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2018-12-20 15:06:08
+! Last modified: 2018-12-22 15:07:11
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 !
 ! [Inclusion: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt]
@@ -17,6 +17,7 @@
 !
 ! Содержит доменные имена, использующиеся рекламными сетями.
 !
+||ed98512111bb19e5.in.net^
 ||checkbl.ru^
 ||tranzitstar.ru^
 ||bshjzxt3apcciws.ru^
@@ -3681,6 +3682,8 @@ ws*://video.docfilms.info^
 !
 ! The rules with hints are at the end of file
 !
+||mobileoffers-cb-download.com^
+||fabrkrup.com^
 ||aj1574.online^
 ||zostofou.link^
 ||adtube.ir^
@@ -3956,7 +3959,6 @@ www.llllllllllll.net^
 ||linker.hr^
 ||cdn.midas-network.com^
 ||vvbox.cz^
-||imedia.cz^
 ||eclick.vn^
 ||ad2017.meo4.info^
 ||sbbanner.com^
@@ -7539,6 +7541,7 @@ www.llllllllllll.net^
 ||amazon-cornerstone.com^
 ||amazonily.com^
 ||ambaab.com^
+||ambientplatform.vn^
 ||ambra.com^
 ||amd2016.com^
 ||amertazy.com^
@@ -9218,6 +9221,7 @@ www.llllllllllll.net^
 ||madsone.com^
 ||magicalled.info^
 ||magnetisemedia.com^
+||mahimeta.com^
 ||mailmarketingmachine.com^
 ||mainroll.com^
 ||makecashtakingsurveys.biz^
@@ -13370,6 +13374,7 @@ www.llllllllllll.net^
 ||utmcttmdaoqd.com^
 ||utuqrzwg.com^
 ||utxatnjs.com^
+||uuaajohul.com^
 ||uubxhbwnwmfqp.com^
 ||uvlyzxml.com^
 ||uvniygdwmoojfm.com^
@@ -13437,6 +13442,7 @@ www.llllllllllll.net^
 ||vwkyuawm.com^
 ||vwpoxvufxnon.com^
 ||vxkupxpf.com^
+||vxrpmslex.com^
 ||vxyqsxeo.com^
 ||vyjwsifvybc.com^
 ||vzhlsmmboaqxlv.com^
@@ -13599,6 +13605,7 @@ www.llllllllllll.net^
 ||ymgjtzciu.com^
 ||ymhqeelitngcr.com^
 ||ymvkirvjqgha.com^
+||ymzrrizntbhde.com^
 ||ynhetcoypgnl.com^
 ||ynhonjqahrh.com^
 ||ynuyzeqtswtd.com^
@@ -18766,6 +18773,8 @@ www.llllllllllll.net^
 ! Should be uncommented once v2.10 goes live
 ! ||app-measurement.com^
 !
+||metrics-collector.s-onetag.com^
+||cinarra.com^
 ||2iui01.com^
 ||target.mixi.media^
 ||analytics.servogram.io^
@@ -21713,6 +21722,9 @@ www.llllllllllll.net^
 !
 ! Section contains the list of tracking servers, which are hosted on useful sites as subdomains
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/25467
+||ct.pinterest.com^
+!
 ! Big Star Labs
 ||ben.crxmouse.com^
 ||api2.poperblocker.com^
@@ -21723,6 +21735,10 @@ www.llllllllllll.net^
 ||collection-endpoint-staging.herokuapp.com^
 ! end:
 !
+||t.arianelab.com^
+||t.karte.io^
+||beacon.tws.toyota.jp^
+||c.marsflag.com^
 ||p.gazeta.pl^
 ||st.dynamicyield.com^
 ||log.outbrainimg.com^
@@ -22623,7 +22639,6 @@ www.llllllllllll.net^
 ||ui.oix.net^
 ||video-ad-stats.googlesyndication.com^
 ||udc.msn.com^
-||beacon.tws.toyota.jp^
 ||dd6zx4ibq538k.cloudfront.net^
 ||track.express.de^
 ||track.mopo.de^
@@ -22931,7 +22946,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||counter.mediastealer.com^
 ||counter.tovarro.com^
 ||counter.yadro.ru^
-||ct.pinterest.com^
 ||d.haberler.com^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
@@ -23497,6 +23511,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||markitondemand.com^
 ||maropost.com^
 ||maryneallynndyl.com^
+||mdxapi.io^
 ||meatballsandads.com^
 ||media01.eu^
 ||mediarithmics.com^
@@ -24400,7 +24415,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tagcdn.com^
 ||volvelle.tech^
 ! Portuguese
+||ad5track.com^
+||cifraclub.com.br^
+||clearsale.com.br^
 ||denakop.com^
+||percycle.com^
 ||sambaads.com^
 ||trugaze.io^
 ! Romanian
@@ -24652,6 +24671,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||carl.pubsvs.com^
 ||caspionlog.appspot.com^
 ||cdn.trafficexchangelist.com^
+||cdnbigdata.azureedge.net^
 ||ce.lijit.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
@@ -25653,6 +25673,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Portuguese
 ||api.nobeta.com.br^
 ||contadorgratis.web-kit.org^
+||events.chaordicsystems.com^
 ||hitserver.ibope.com.br^
 ||nctrk.abmail.com.br^
 ||track.e7r.com.br^

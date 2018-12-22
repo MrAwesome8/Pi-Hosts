@@ -38,6 +38,9 @@ namespace Pi_Hosts {
         private static int retryCount = 0;
         private static bool shouldUpdate = true;
 
+        private const string SkipListPath = "skip.list";
+        private static ISet<string> SkipList = new SortedSet<string>();
+
         private static void ArchiveLists(TreeNode<string> root) {
             List<TreeNode<string>> leafs = new List<TreeNode<string>>();
             root.ForEachNode(node => {
@@ -66,7 +69,7 @@ namespace Pi_Hosts {
                     if (file.Exists && file.Length > 0) {
                         if (!valid) { MarkListAs(url, ListType.BackedUp); return; }
 
-                        var stillRecent = File.GetLastWriteTimeUtc(path).AddMinutes(30) > DateTime.UtcNow;
+                        var stillRecent = false;// File.GetLastWriteTimeUtc(path).AddMinutes(30) > DateTime.UtcNow;
 
                         if(stillRecent) {
                             Console.WriteLine(path + " still recent");
@@ -187,6 +190,11 @@ namespace Pi_Hosts {
                     return page.Split(n);
                 }
 
+                if (sample.ContainsAny("^")) {
+                    Console.WriteLine(results + "Format: Regex");
+                    return page.Split(n);
+                }
+
                 Console.WriteLine(results + "Format: Domains");
 
                 return page.Split(n).Select(line => {
@@ -194,8 +202,12 @@ namespace Pi_Hosts {
                     if (!line.Exists() || line.StartsWith('#') || line.StartsWith("::")) return line;
                     var parts = line.Split(' ');
                     var domain = parts.Length == 1 ? line : parts[1];
-                    if (!domain.Contains('.')) {
-                        Console.WriteLine("Skipping: " + domain);
+                    if (domain.Contains('.') || domain.Contains(':')) { } else {
+                        if (!domain.StartsWith("#")) {
+                            SkipList.Add($"{Hole} {domain}");
+                            //Console.WriteLine("Skipping: " + domain);
+                        }
+
                         return "";
                     }
                     return $"{Hole} {domain}";
@@ -245,6 +257,9 @@ namespace Pi_Hosts {
             File.WriteAllLines(BlockListPath, GoodList); //lists which are active
             File.WriteAllLines(BackupListPath, BackupList); //no longer active, but we have a copy
             File.WriteAllLines(DeadListPath, MissingList); //no longer active and no copy
+
+            File.WriteAllLines(SkipListPath, SkipList);
+
 
             using (var status = new StreamWriter(StatusPath)) {
                 status.WriteLine("Pi-Hosts Status Report");

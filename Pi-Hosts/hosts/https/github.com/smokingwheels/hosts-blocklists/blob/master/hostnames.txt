@@ -47,7 +47,7 @@
 # - https://www.void.gr/kargig/void-gr-filters.txt
 # - https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
 ##############################[LOCALHOSTS]###############################
-0.0.0.0 localhost
+
 ::1 localhost
 #############################[COMBINED_LIST]#############################
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -33029,7 +33029,7 @@
 0.0.0.0 xiao2013-14.yxdown.cn
 0.0.0.0 xiao2013-15.yxdown.cn
 0.0.0.0 xiao2013-17.yxdown.cn
-0.0.0.0 xiaoqiang
+
 0.0.0.0 xia.xiazailou.la
 0.0.0.0 xiazai.cdren.com
 0.0.0.0 xiazai.downok.com

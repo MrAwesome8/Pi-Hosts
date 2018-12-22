@@ -716,6 +716,7 @@
 0.0.0.0 adxpose.com
 0.0.0.0 adxpower.com
 0.0.0.0 adxprtz.com
+0.0.0.0 adxscope.com
 0.0.0.0 adxxx.me
 0.0.0.0 adxxx.org
 0.0.0.0 adyoulike.com
@@ -847,6 +848,7 @@
 0.0.0.0 amazon-cornerstone.com
 0.0.0.0 amazonily.com
 0.0.0.0 ambaab.com
+0.0.0.0 ambientplatform.vn
 0.0.0.0 ambra.com
 0.0.0.0 amd2016.com
 0.0.0.0 amertazy.com
@@ -1432,7 +1434,6 @@
 0.0.0.0 completecarrd.com
 0.0.0.0 complive.link
 0.0.0.0 comscore.com
-0.0.0.0 concert.io
 0.0.0.0 conduit-banners.com
 0.0.0.0 conduit-services.com
 0.0.0.0 conferentse.com
@@ -2287,6 +2288,7 @@
 0.0.0.0 implix.com
 0.0.0.0 impore.com
 0.0.0.0 impresionesweb.com
+0.0.0.0 impresix.com
 0.0.0.0 impressionaffiliate.com
 0.0.0.0 impressionaffiliate.mobi
 0.0.0.0 impressioncontent.info
@@ -2656,6 +2658,7 @@
 0.0.0.0 madsone.com
 0.0.0.0 magicalled.info
 0.0.0.0 magnetisemedia.com
+0.0.0.0 mahimeta.com
 0.0.0.0 mailmarketingmachine.com
 0.0.0.0 mainadv.com
 0.0.0.0 mainroll.com
@@ -4212,6 +4215,7 @@
 0.0.0.0 traffic-media.co
 0.0.0.0 traffic-supremacy.com
 0.0.0.0 traffic2bitcoin.com
+0.0.0.0 trafficadbar.com
 0.0.0.0 trafficbarads.com
 0.0.0.0 trafficbee.com
 0.0.0.0 trafficbroker.com
@@ -4434,6 +4438,7 @@
 0.0.0.0 vindicosuite.com
 0.0.0.0 vinterrals.info
 0.0.0.0 vipquesting.com
+0.0.0.0 viral782.com
 0.0.0.0 viralcpm.com
 0.0.0.0 viralmediatech.com
 0.0.0.0 visiads.com
@@ -16905,6 +16910,7 @@
 0.0.0.0 ls.webmd.com
 0.0.0.0 lw2.gamecopyworld.com
 0.0.0.0 mads.dailymail.co.uk
+0.0.0.0 marketing.al.ly
 0.0.0.0 mb.hockeybuzz.com
 0.0.0.0 mealsandsteals.sandiego6.com
 0.0.0.0 media-delivery.armorgames.com
@@ -17018,6 +17024,7 @@
 0.0.0.0 rev.fapdu.com
 0.0.0.0 site.img.4tube.com
 0.0.0.0 static.kinghost.com
+0.0.0.0 sub.avgle.com
 0.0.0.0 t.xtubetv.net
 0.0.0.0 x.eroticity.net
 0.0.0.0 x.vipergirls.to

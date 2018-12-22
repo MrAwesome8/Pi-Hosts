@@ -6,12 +6,12 @@
 #
 # ===============================================================
 
-0.0.0.0 localhost
+
 0.0.0.0 localhost.localdomain
-0.0.0.0 local
-0.0.0.0 broadcasthost
+
+
 ::1 localhost
-0.0.0.0 localhost
+
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.

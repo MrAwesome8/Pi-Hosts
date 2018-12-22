@@ -1,6 +1,6 @@
 ##########################################################################
 # TorrentLocker Ransomware C2 domain blocklist (TL_C2_DOMBL) #
-# Generated on 2018-12-20 20:35:02 UTC #
+# Generated on 2018-12-22 18:00:01 UTC #
 # #
 # For questions please refer to: #
 # https://ransomwaretracker.abuse.ch/blocklist/ #

@@ -21,7 +21,7 @@
 # #
 # License info for commercial purposes contact Winhelp2002 #
 
-0.0.0.0 localhost
+
 
 ::1 localhost #[IPv6]
 

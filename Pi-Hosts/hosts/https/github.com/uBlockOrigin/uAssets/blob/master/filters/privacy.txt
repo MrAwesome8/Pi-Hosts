@@ -43,7 +43,7 @@
 # Redirect to neutered Google Analytics
 0.0.0.0 ||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js
 
-0.0.0.0 Redirect
+
 0.0.0.0 ||google-analytics.com/cx/api.js$script,redirect=google-analytics.com/cx/api.js
 
 # https://github.com/gorhill/uBlock/issues/1411
@@ -84,10 +84,10 @@
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/49
 0.0.0.0 free18.net,gadgetlove.com,nrc.gov,onbeing.org,rapgenius.com,tech.co,tmz.com#@#.addthis_toolbox
 
-0.0.0.0 Foil
+
 0.0.0.0 architecturaldigest.com,arstechnica.com,bonappetit.com,brides.com,cntraveler.com,details.com,epicurious.com,gq.com,golfdigest.com,newyorker.com,pitchfork.com,self.com,teenvogue.com,thescene.com,vanityfair.com,vogue.com,wmagazine.com##+js(fuckadblock.js-3.2.0)
 
-0.0.0.0 Examples
+
 0.0.0.0 https://twitter.com/kenn_butler/status/709163241021317120
 0.0.0.0 https://adblockplus.org/forum/viewtopic.php?f=10&t=48183
 0.0.0.0 https://forums.lanik.us/viewtopic.php?f=64&t=32161
@@ -99,34 +99,34 @@
 0.0.0.0 https://github.com/gorhill/uBlock/issues/2155
 0.0.0.0 ||widgets.outbrain.com/outbrain.js$script,redirect=widgets.outbrain.com/outbrain.js
 
-0.0.0.0 Fingerprinting
+
 0.0.0.0 ||thisisacoolthing.com^
 0.0.0.0 https://forums.lanik.us/viewtopic.php?p=110198
 0.0.0.0 ||thisisanothercoolthing.com^
 
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/227
-0.0.0.0 /g00/*/clientprofiler/adb
+
 
 0.0.0.0 gravity.com,
-0.0.0.0 Creates
-0.0.0.0 meaning
-0.0.0.0 Will
-0.0.0.0 this
-0.0.0.0 Example
+
+
+
+
+
 0.0.0.0 ||rma-api.gravity.com/*/api/intelligence
 0.0.0.0 ||api.gravity.com/*/recommendations
 0.0.0.0 ||b.grvcdn.com/moth-min.js
-0.0.0.0 The
-0.0.0.0 spotted
-0.0.0.0 The
-0.0.0.0 However,
+
+
+
+
 0.0.0.0 rma-api.gravity.com
 0.0.0.0 content.
 0.0.0.0 ||secure-api.gravity.com/*/api/intelligence
 0.0.0.0 ||b-ssl.grvcdn.com/moth-min.js
 
 0.0.0.0 pubexchange.com:
-0.0.0.0 Examples
+
 0.0.0.0 http://variety.com/2017/film/news/james-franco-the-disaster-artist-trailer-preview-1202497897/
 0.0.0.0 ||pubexchange.com^$third-party
 
@@ -143,9 +143,9 @@
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/2190#issuecomment-386827128
 0.0.0.0 ||log.logrocket.io^$script
 
-0.0.0.0 abort
+
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/3169
-0.0.0.0 setTimeout,
+
 0.0.0.0 .API,
 0.0.0.0 ||scappoosebirds.com^$third-party
 
@@ -153,10 +153,10 @@
 0.0.0.0 $.tstracker,
 
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/3673
-0.0.0.0 webkitRequestFileSystem,
+
 
 0.0.0.0 https://github.com/uBlockOrigin/uAssets/issues/4138
-0.0.0.0 onclick,
-0.0.0.0 onmousedown,
+
+
 0.0.0.0 ||track.rediff.com^
 

@@ -103,5 +103,14 @@ namespace Pi_Hosts {
                 }
             }
         }
+
+
+        public static bool ContainsAny(this string str, string values) {
+            foreach (var value in values.ToCharArray()) {
+                if (str.Contains(value.ToString())) return true;
+            }
+
+            return false;
+        }
     }
 }

@@ -1,4 +1,4 @@
-0.0.0.0 localhost
+
 0.0.0.0 ammyy.com
 0.0.0.0 www.ammyy.com
 0.0.0.0 gotomypc.com

@@ -1,4 +1,4 @@
-0.0.0.0 localhost
+
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 tracking.klickthru.com
 0.0.0.0 gsmtop.net

@@ -39,7 +39,7 @@
 # the malware hosts I am investigating have a life-time of staying
 # in DNS less than 8 hours. Blocking those by host name is impossible.
 #
-0.0.0.0 localhost
+
 
 # ALL OF THE HOSTS IN THIS COMMENTED OUT SECTION CAUSE PROBLEMS
 # IN ONE WAY OR ANOTHER. UNCOMMENT / ACTIVATE AT YOUR OWN RISK!

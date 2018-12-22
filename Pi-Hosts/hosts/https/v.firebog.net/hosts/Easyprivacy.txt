@@ -392,6 +392,7 @@
 0.0.0.0 captora.com
 0.0.0.0 capturemedia.network
 0.0.0.0 capturly.com
+0.0.0.0 carrotquest.io
 0.0.0.0 cashburners.com
 0.0.0.0 cashcount.com
 0.0.0.0 castelein.nu
@@ -559,6 +560,7 @@
 0.0.0.0 customer.io
 0.0.0.0 customerconversio.com
 0.0.0.0 customerdiscoverytrack.com
+0.0.0.0 customerlabs.co
 0.0.0.0 cux.io
 0.0.0.0 cvtr.io
 0.0.0.0 cxense.com
@@ -813,6 +815,7 @@
 0.0.0.0 formisimo.com
 0.0.0.0 forter.com
 0.0.0.0 foundry42.com
+0.0.0.0 fout.jp
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fprnt.com
 0.0.0.0 fqsecure.com
@@ -836,6 +839,7 @@
 0.0.0.0 freeweblogger.com
 0.0.0.0 frescoerspica.com
 0.0.0.0 freshcounter.com
+0.0.0.0 freshmarketer.com
 0.0.0.0 freshplum.com
 0.0.0.0 friendbuy.com
 0.0.0.0 fruitflan.com
@@ -1248,6 +1252,7 @@
 0.0.0.0 mbww.com
 0.0.0.0 md-ia.info
 0.0.0.0 mdotlabs.com
+0.0.0.0 mdxapi.io
 0.0.0.0 measure.ly
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
@@ -2062,6 +2067,7 @@
 0.0.0.0 tracer.jp
 0.0.0.0 tracetracking.net
 0.0.0.0 traceworks.com
+0.0.0.0 track-server-100.com
 0.0.0.0 track-web.net
 0.0.0.0 track2.me
 0.0.0.0 trackalyzer.com
@@ -2078,6 +2084,7 @@
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackkas.com
 0.0.0.0 trackmytarget.com
+0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackset.com
 0.0.0.0 tracksy.com
@@ -2334,6 +2341,7 @@
 0.0.0.0 xiti.com
 0.0.0.0 xlisting.jp
 0.0.0.0 xref.io
+0.0.0.0 xtraffstat.com
 0.0.0.0 xtremline.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyztraffic.com
@@ -3469,6 +3477,8 @@
 0.0.0.0 gpr.hu
 0.0.0.0 hirmatrix.hu
 0.0.0.0 mystat.hu
+0.0.0.0 p24.hu
+0.0.0.0 ripost.services
 0.0.0.0 modernus.is
 0.0.0.0 analytic.rocks
 0.0.0.0 props.id
@@ -3544,7 +3554,6 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-optimizer.com
 0.0.0.0 eco-tag.jp
-0.0.0.0 fout.jp
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 gmodmp.jp
@@ -3626,9 +3635,13 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 volvelle.tech
 0.0.0.0 way2traffic.com
+0.0.0.0 ad5track.com
+0.0.0.0 cifraclub.com.br
+0.0.0.0 clearsale.com.br
 0.0.0.0 denakop.com
 0.0.0.0 engageya.com
 0.0.0.0 marktest.pt
+0.0.0.0 percycle.com
 0.0.0.0 popstats.com.br
 0.0.0.0 rdstation.com.br
 0.0.0.0 sambaads.com
@@ -4018,6 +4031,7 @@
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cdn.trafficexchangelist.com
+0.0.0.0 cdnbigdata.azureedge.net
 0.0.0.0 ce.lijit.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -4372,6 +4386,9 @@
 0.0.0.0 marketing.net.jumia.com.ng
 0.0.0.0 marketinghub.hp.com
 0.0.0.0 mas.nth.ch
+0.0.0.0 mc.webvisor.com
+0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.webvisor.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mediametrics.mpsa.com
@@ -4426,6 +4443,7 @@
 0.0.0.0 p.adbrn.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.dsero.net
+0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pageview.goroost.com
@@ -5101,6 +5119,7 @@
 0.0.0.0 analyticsv2.dol.gr
 0.0.0.0 stats.e-go.gr
 0.0.0.0 pagerank.g-easy.hu
+0.0.0.0 rum.marquardmedia.hu
 0.0.0.0 videostat-new.index.hu
 0.0.0.0 videostat.index.hu
 0.0.0.0 analytics.bhaskar.com
@@ -5186,6 +5205,7 @@
 0.0.0.0 tracking.novem.pl
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 contadorgratis.web-kit.org
+0.0.0.0 events.chaordicsystems.com
 0.0.0.0 hitserver.ibope.com.br
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 track.e7r.com.br
@@ -6148,7 +6168,6 @@
 0.0.0.0 log.wilmaa.com
 0.0.0.0 logging.wilmaa.com
 0.0.0.0 mm.welt.de
-0.0.0.0 mms.blick.ch
 0.0.0.0 ms.computerbild.de
 0.0.0.0 multicounter.de
 0.0.0.0 pap.zalando.de
@@ -6168,7 +6187,9 @@
 0.0.0.0 rwt.reichelt.de
 0.0.0.0 s.edeka.de
 0.0.0.0 s.fsphp.t-online.de
+0.0.0.0 statistics.raiffeisen.ch
 0.0.0.0 statistics.riskommunal.net
+0.0.0.0 stats.autoscout24.ch
 0.0.0.0 stats.bmw.de
 0.0.0.0 stats.daserste.de
 0.0.0.0 stats01.20min.ch
@@ -6176,7 +6197,9 @@
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 tp.deawm.com
 0.0.0.0 tr.werkenntwen.de
+0.0.0.0 track.bernerzeitung.ch
 0.0.0.0 track.cinestar.de
+0.0.0.0 track.derbund.ch
 0.0.0.0 trackerstatistik.init-ag.de
 0.0.0.0 tracking.autoscout24.com
 0.0.0.0 tracking.beilagen-prospekte.de
@@ -6195,7 +6218,6 @@
 0.0.0.0 ts.faz.net
 0.0.0.0 ts.otto.de
 0.0.0.0 ts.rtl.de
-0.0.0.0 twch.20min.ch
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vv.ricardo.ch
 0.0.0.0 wdm.map24.com
@@ -6204,7 +6226,6 @@
 0.0.0.0 xara.hse24.de
 0.0.0.0 accn.allocine.net
 0.0.0.0 analytics.rtbf.be
-0.0.0.0 businessinsider-fr.businessinsider.fr
 0.0.0.0 cfcn.allocine.net
 0.0.0.0 dm.commentcamarche.net
 0.0.0.0 dm.hugolescargot.com
@@ -6358,6 +6379,8 @@
 0.0.0.0 cellstats.mako.co.il
 0.0.0.0 ds.haaretz.co.il
 0.0.0.0 stats.mako.co.il
+0.0.0.0 events.ingatlan.com
+0.0.0.0 outal.origo.hu
 0.0.0.0 analytics.tio.ch
 0.0.0.0 click.tv.repubblica.it
 0.0.0.0 emng.libero.it
@@ -6461,6 +6484,7 @@
 0.0.0.0 gx.idg.se
 0.0.0.0 prod-metro-collector.cloudapp.net
 0.0.0.0 stat.nyheter24.se
+0.0.0.0 ta.sanook.com
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 visit.hepsiburada.com

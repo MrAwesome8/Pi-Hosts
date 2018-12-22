@@ -6,7 +6,7 @@
 # Version: 0.0.18
 # Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 #
-0.0.0.0 localhost
+
 0.0.0.0 localhost.localdomain
 0.0.0.0 255.255.255.255
 #::1 localhost # [IPv6 only]

@@ -1353,3 +1353,17 @@ creative-chemistry.org.uk##+js(abort-current-inline-script.js, document.oncontex
 ! https://github.com/uBlockOrigin/uAssets/issues/4350
 endocrineweb.com##+js(abort-on-property-read.js, admiral)
 
+! https://github.com/uBlockOrigin/uAssets/issues/4357 right click / copy / ctrl-U
+techsupportall.com##+js(addEventListener-defuser.js, /^(?:contextmenu|copy|keydown)$/)
+
+! https://forums.lanik.us/viewtopic.php?p=144365#p144365
+itopmusic.com##+js(abort-current-inline-script.js, disableSelection, reEnable)
+itopmusic.com##+js(abort-on-property-read.js, document.oncontextmenu)
+itopmusic.com##.unselectable:style(-moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important; khtml-user-select: text !important;)
+
+! https://github.com/uBlockOrigin/uAssets/issues/4367 right click / copy
+badayak.com##+js(abort-current-inline-script.js, document.oncontextmenu)
+
+! https://github.com/NanoMeow/QuickReports/issues/366
+fin24.com##+js(abort-on-property-read.js, Date.prototype.toUTCString)
+

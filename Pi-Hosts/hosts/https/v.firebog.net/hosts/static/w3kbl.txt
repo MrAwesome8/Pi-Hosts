@@ -6,16 +6,16 @@
 ## You must give appropriate credit, and not use this list for commercial purposes
 
 # Ads
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
+
+
+
+
+
+
+
+
+
+
 0.0.0.0 yt.moatads.com
 0.0.0.0 us.intellitxt.com
 0.0.0.0 evolveplatform.net
@@ -27,7 +27,7 @@
 0.0.0.0 ad.fyber.angsrvr.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 www.vungle.com
-0.0.0.0 #
+
 0.0.0.0 rules.noadblock.org
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 sdk.appsflyer.com
@@ -89,21 +89,21 @@
 0.0.0.0 roosterfirework.com
 
 # Tracking & Telemetry
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
+
+
+
 0.0.0.0 cws.conviva.com
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
+
+
+
+
+
+
 #events.gfe.nvidia.com # Nvidia (Interferes with GeForce Experience driver updates)
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
+
+
+
+
 0.0.0.0 metrics.plex.tv
 0.0.0.0 analytics.plex.tv
 0.0.0.0 invisioncloudstats.com
@@ -111,20 +111,20 @@
 0.0.0.0 www.usekahuna.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 msmetrics.ws.sonos.com
-0.0.0.0 #
+
 0.0.0.0 sdk.kidoz.net
 0.0.0.0 cdn.kidoz.net
 0.0.0.0 advertising.oriel.io
-0.0.0.0 #
+
 0.0.0.0 adiode.com
-0.0.0.0 #
+
 0.0.0.0 rules.quantcount.com
 0.0.0.0 api.viafoura.co
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 content.tapjoy.com
 0.0.0.0 rpc.tapjoy.com
-0.0.0.0 #
-0.0.0.0 #
+
+
 0.0.0.0 tracking.monsido.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 static.zotabox.com
@@ -135,8 +135,8 @@
 0.0.0.0 analytics.servogram.io
 0.0.0.0 ancestry.siteintercept.qualtrics.com
 0.0.0.0 www.movable-ink-2183.com
-0.0.0.0 #
-0.0.0.0 #
+
+
 0.0.0.0 c.tracking.goodgamestudios.com
 0.0.0.0 cdn.monsido.com
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -161,14 +161,14 @@
 0.0.0.0 rs.fullstory.com
 0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 www.fullstory.com
-0.0.0.0 #
+
 0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 file-cdn.beeketing.com
-0.0.0.0 #
+
 0.0.0.0 acdn.adnxs.com
-0.0.0.0 #
+
 0.0.0.0 update.aut5.com
-0.0.0.0 #
+
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 v7event.stats.avast.com
@@ -202,15 +202,15 @@
 0.0.0.0 piano.io
 
 # Malware
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
-0.0.0.0 #
+
+
+
+
+
+
+
+
+
 0.0.0.0 exclusive-vouchers.com
 0.0.0.0 specialdeals.g5e.com
 

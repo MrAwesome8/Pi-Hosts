@@ -1,5 +1,6 @@
 http://localhost/adblock.hosts
 https://adzhosts.fr/hosts/adzhosts-mac-linux.txt
+https://github.com/chadmayfield/pihole-blocklists/raw/blob/master/lists/pi_blocklist_porn_all.list
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win10/spy.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win7/spy.txt
 https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/win81/spy.txt

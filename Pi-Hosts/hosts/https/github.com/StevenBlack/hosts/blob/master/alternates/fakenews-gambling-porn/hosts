@@ -11,19 +11,19 @@
 #
 # ===============================================================
 
-0.0.0.0 localhost
+
 0.0.0.0 localhost.localdomain
-0.0.0.0 local
-0.0.0.0 broadcasthost
+
+
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
-0.0.0.0 localhost
-0.0.0.0 ip6-localnet
-0.0.0.0 ip6-mcastprefix
-0.0.0.0 ip6-allnodes
-0.0.0.0 ip6-allrouters
-0.0.0.0 ip6-allhosts
+
+
+
+
+
+
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
@@ -61877,7 +61877,7 @@
 0.0.0.0 www.wf.adserve.video
 0.0.0.0 www.adserve.video
 0.0.0.0 targeting.washpost.nile.works
-0.0.0.0 wpad
+
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 autodiscover.marketingmachine.co.za
 0.0.0.0 insights.marketingmachine.co.za

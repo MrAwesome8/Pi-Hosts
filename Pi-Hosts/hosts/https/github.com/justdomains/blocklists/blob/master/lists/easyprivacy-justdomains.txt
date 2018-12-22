@@ -378,6 +378,7 @@
 0.0.0.0 captora.com
 0.0.0.0 capturemedia.network
 0.0.0.0 capturly.com
+0.0.0.0 carrotquest.io
 0.0.0.0 cashburners.com
 0.0.0.0 cashcount.com
 0.0.0.0 castelein.nu
@@ -535,6 +536,7 @@
 0.0.0.0 customer.io
 0.0.0.0 customerconversio.com
 0.0.0.0 customerdiscoverytrack.com
+0.0.0.0 customerlabs.co
 0.0.0.0 cux.io
 0.0.0.0 cvtr.io
 0.0.0.0 cxt.ms
@@ -776,6 +778,7 @@
 0.0.0.0 formisimo.com
 0.0.0.0 forter.com
 0.0.0.0 foundry42.com
+0.0.0.0 fout.jp
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fprnt.com
 0.0.0.0 fqsecure.com
@@ -798,6 +801,7 @@
 0.0.0.0 freeweblogger.com
 0.0.0.0 frescoerspica.com
 0.0.0.0 freshcounter.com
+0.0.0.0 freshmarketer.com
 0.0.0.0 freshplum.com
 0.0.0.0 friendbuy.com
 0.0.0.0 fruitflan.com
@@ -1191,6 +1195,7 @@
 0.0.0.0 mbww.com
 0.0.0.0 md-ia.info
 0.0.0.0 mdotlabs.com
+0.0.0.0 mdxapi.io
 0.0.0.0 measure.ly
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
@@ -1990,6 +1995,7 @@
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackkas.com
 0.0.0.0 trackmytarget.com
+0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackset.com
 0.0.0.0 tracksy.com
@@ -2237,6 +2243,7 @@
 0.0.0.0 xiti.com
 0.0.0.0 xlisting.jp
 0.0.0.0 xref.io
+0.0.0.0 xtraffstat.com
 0.0.0.0 xtremline.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyztraffic.com
@@ -3441,7 +3448,6 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-optimizer.com
 0.0.0.0 eco-tag.jp
-0.0.0.0 fout.jp
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 gmodmp.jp
@@ -3523,8 +3529,12 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 volvelle.tech
 0.0.0.0 way2traffic.com
+0.0.0.0 ad5track.com
+0.0.0.0 cifraclub.com.br
+0.0.0.0 clearsale.com.br
 0.0.0.0 denakop.com
 0.0.0.0 engageya.com
+0.0.0.0 percycle.com
 0.0.0.0 popstats.com.br
 0.0.0.0 rdstation.com.br
 0.0.0.0 sambaads.com
@@ -3905,6 +3915,7 @@
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cdn.trafficexchangelist.com
+0.0.0.0 cdnbigdata.azureedge.net
 0.0.0.0 ce.lijit.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -5053,6 +5064,7 @@
 0.0.0.0 tracking.novem.pl
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 contadorgratis.web-kit.org
+0.0.0.0 events.chaordicsystems.com
 0.0.0.0 hitserver.ibope.com.br
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 track.e7r.com.br

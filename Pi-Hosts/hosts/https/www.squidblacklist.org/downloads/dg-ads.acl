@@ -1,4 +1,4 @@
-# Last Update: Thu Dec 20 09:37:22 EST 2018
+# Last Update: Sat Dec 22 09:29:37 EST 2018
 #
 # sbl-dg-ads: Squidguard or Dansguardian compatible - blacklist compiled by squidblacklist.org. -Made In USA-
 #
@@ -333,7 +333,6 @@
 0.0.0.0 adinterax.com
 0.0.0.0 adinvigorate.com
 0.0.0.0 ad.ipredictive.com
-0.0.0.0 adiqglobal.com
 0.0.0.0 adiquity.com
 0.0.0.0 adiro.se
 0.0.0.0 ad.ir.ru
@@ -341,6 +340,7 @@
 0.0.0.0 adisn.com
 0.0.0.0 adition.com
 0.0.0.0 adition.de
+0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adit-media.com
 0.0.0.0 adizio.com
@@ -350,7 +350,6 @@
 0.0.0.0 adjector.com
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 adjix.com
-0.0.0.0 adjs.net
 0.0.0.0 adjuggler.com
 0.0.0.0 adjuggler.yourdictionary.com
 0.0.0.0 ad.juliepost.com
@@ -424,6 +423,7 @@
 0.0.0.0 admex.com
 0.0.0.0 ad.mgd.de
 0.0.0.0 adminder.com
+0.0.0.0 adminshop.com
 0.0.0.0 admission.net
 0.0.0.0 admitad.com
 0.0.0.0 admixer.net
@@ -446,6 +446,7 @@
 0.0.0.0 adnet.com
 0.0.0.0 adnet.de
 0.0.0.0 adnetinteractive.com
+0.0.0.0 adnet-media.net
 0.0.0.0 adnet.ru
 0.0.0.0 adnet.vn
 0.0.0.0 adnetwork.ai
@@ -503,7 +504,6 @@
 0.0.0.0 adprojekt.pl
 0.0.0.0 ad.prv.pl
 0.0.0.0 adpushup.com
-0.0.0.0 adq.nextag.com
 0.0.0.0 ad.rambler.ru
 0.0.0.0 adrazzi.com
 0.0.0.0 adrcdn.com
@@ -820,6 +820,7 @@
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.honestpartners.com
 0.0.0.0 adshopping.com
+0.0.0.0 adshost2.com
 0.0.0.0 adshot.de
 0.0.0.0 ads.ibest.com.br
 0.0.0.0 ads.ibtracking.com
@@ -1756,7 +1757,6 @@
 0.0.0.0 click4free.info
 0.0.0.0 clickability.com
 0.0.0.0 clickable.com
-0.0.0.0 click.absoluteagency.com
 0.0.0.0 clickad.pl
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
@@ -2042,6 +2042,7 @@
 0.0.0.0 e8960.e2.akamaiedge.net
 0.0.0.0 e9mlrvy1.com
 0.0.0.0 e-adimages.scrippsnetworks.com
+0.0.0.0 eads.to
 0.0.0.0 earnify.com
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 easyflirt-partners.biz
@@ -3774,7 +3775,6 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topad.mobi
-0.0.0.0 topauto10.com
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 top-casting-termine.de
@@ -3782,7 +3782,6 @@
 0.0.0.0 topfox.co.uk
 0.0.0.0 topgamesites.net
 0.0.0.0 toplista.mw.hu
-0.0.0.0 toplistcity.com
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 top.list.ru
@@ -4177,6 +4176,7 @@
 0.0.0.0 usswrite.com
 0.0.0.0 us.tracking.justpremium.com
 0.0.0.0 usurv.com
+0.0.0.0 utarget.co.uk
 0.0.0.0 utarget.ru
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 v1.cnzz.com

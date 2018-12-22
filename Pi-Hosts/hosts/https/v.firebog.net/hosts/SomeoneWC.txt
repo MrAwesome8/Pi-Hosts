@@ -2639,6 +2639,7 @@
 0.0.0.0 toolbarnew.biz
 0.0.0.0 toolbarsale.biz
 0.0.0.0 toolbarweb.biz
+0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 trialreg.com
@@ -2787,6 +2788,7 @@
 0.0.0.0 www.froling.bee.pl
 0.0.0.0 www.gacatl.com
 0.0.0.0 www.gezinti.com
+0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.gns-consola.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.gozatar.com
@@ -2805,6 +2807,7 @@
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.kinomarathon.ru
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.likeportal.com
@@ -11743,7 +11746,6 @@
 0.0.0.0 www.mpression.net
 0.0.0.0 www.myadsl.co.za
 0.0.0.0 www.myaffiliateprogram.com
-0.0.0.0 www.myairbridge.com
 0.0.0.0 www.mycashback.co.uk
 0.0.0.0 www.mycelloffer.com
 0.0.0.0 www.mychoicerewards.com

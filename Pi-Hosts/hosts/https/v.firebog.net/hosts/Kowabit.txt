@@ -4172,7 +4172,7 @@
 0.0.0.0 apparelncs.com
 0.0.0.0 apparel-offer.com
 0.0.0.0 appcache.admission.net
-0.0.0.0 apple-info
+
 0.0.0.0 applelounge.com
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 applets.sulekha.com
@@ -10968,7 +10968,7 @@
 0.0.0.0 macdailynews.us.intellitxt.com
 0.0.0.0 macgamefiles.us.intellitxt.com
 0.0.0.0 machine.fairfaxbm.co.nz
-0.0.0.0 mac-info
+
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 mackeeperapp1.zeobit.com
 0.0.0.0 mackeeperapp3.mackeeper.com
@@ -11665,7 +11665,7 @@
 0.0.0.0 mno.tns-cs.net
 0.0.0.0 mnpolice.com
 0.0.0.0 moads.valuead.com
-0.0.0.0 moatadcom
+
 0.0.0.0 moatads.com
 0.0.0.0 mob.adnxs.com
 0.0.0.0 mobile.activeshopper.com
@@ -13377,7 +13377,7 @@
 0.0.0.0 phillyburbscom.112.2o7.net
 0.0.0.0 phillycom.112.2o7.net
 0.0.0.0 phillymedia.112.2o7.net
-0.0.0.0 phishing
+
 0.0.0.0 phlpolice.com
 0.0.0.0 phncdn.com
 0.0.0.0 phoenixads.co.in
@@ -13411,7 +13411,7 @@
 0.0.0.0 phormdiscover.com
 0.0.0.0 phormkorea.com
 0.0.0.0 phormlabs.com
-0.0.0.0 phormlabscom
+
 0.0.0.0 phormprivacy.com
 0.0.0.0 phormservice.com
 0.0.0.0 phormsolution.com
@@ -15354,7 +15354,7 @@
 0.0.0.0 skgde.adocean.pl
 0.0.0.0 skill.skilljam.com
 0.0.0.0 skimlinkscom.skimlinks.com
-0.0.0.0 skimresourcecom
+
 0.0.0.0 skocz.pl
 0.0.0.0 skpolice.com
 0.0.0.0 sky.estat.com
@@ -16072,7 +16072,7 @@
 0.0.0.0 stattrack.0catch.com
 0.0.0.0 stat-tracker.net
 0.0.0.0 stattrax.com
-0.0.0.0 statwordprescom
+
 0.0.0.0 stcwbd.com
 0.0.0.0 std.o.webmd.com
 0.0.0.0 std1.hit.gemius.pl

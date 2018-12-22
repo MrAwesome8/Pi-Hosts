@@ -3763,7 +3763,6 @@
 0.0.0.0 ad-maker.net
 0.0.0.0 ad-media.xe.gr
 0.0.0.0 ad-mediation.tuanguwen.com
-0.0.0.0 ad-miner.com
 0.0.0.0 ad-noise.net
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn
@@ -18302,6 +18301,7 @@
 0.0.0.0 adagiobanner.s3.amazonaws.com
 0.0.0.0 adagiof3.repubblica.it
 0.0.0.0 adailymovie.com
+0.0.0.0 adalliance.io
 0.0.0.0 adamhaley.com
 0.0.0.0 adamoads.com
 0.0.0.0 adamsfilms.com
@@ -24933,7 +24933,9 @@
 0.0.0.0 afform.co.uk
 0.0.0.0 affpartners.com
 0.0.0.0 affpool.com
+0.0.0.0 affrh2014.com
 0.0.0.0 affrh2019.com
+0.0.0.0 affrh2022.com
 0.0.0.0 affrh2023.com
 0.0.0.0 affscout.go2cloud.org
 0.0.0.0 affsharkoffer.com
@@ -25194,6 +25196,7 @@
 0.0.0.0 alertspy.com
 0.0.0.0 alex.fileburst.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
+0.0.0.0 alexametrics.com
 0.0.0.0 alexanderinteriorsanddesign.com
 0.0.0.0 alexandria90.etcserver.com
 0.0.0.0 alfa-search.com
@@ -25836,6 +25839,7 @@
 0.0.0.0 anouslab.cmail20.com
 0.0.0.0 anpqt.voluumtrk.com
 0.0.0.0 anquiro.com
+0.0.0.0 anrdoezrs.net
 0.0.0.0 anrtx.tacoda.net
 0.0.0.0 anrysys.popunder.ru
 0.0.0.0 ans-test.adsoftware.com
@@ -29042,6 +29046,7 @@
 0.0.0.0 blm.bz
 0.0.0.0 blobar.org
 0.0.0.0 block.sw1block.com
+0.0.0.0 blockadblock.com
 0.0.0.0 blockbuster.112.2o7.net
 0.0.0.0 blockbustercom.112.2o7.net
 0.0.0.0 blockdefense.com
@@ -29075,7 +29080,6 @@
 0.0.0.0 blogher.org.12469.9030.302br.net
 0.0.0.0 blogherads.com
 0.0.0.0 blogicar.com
-0.0.0.0 blogrush.com
 0.0.0.0 blogtalkradio.crwdcntrl.net
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
@@ -30370,7 +30374,6 @@
 0.0.0.0 brickandmobile.com
 0.0.0.0 bricklehtezjtjfi.download
 0.0.0.0 bricksandstonesgossip.us.intellitxt.com
-0.0.0.0 brid.tv
 0.0.0.0 bride.ru
 0.0.0.0 bride1.com
 0.0.0.0 bridge.ame.admarketplace.net
@@ -34224,6 +34227,9 @@
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.tradedoubler.com
 0.0.0.0 clk.voyages-sncf.com
+0.0.0.0 clk1005.com
+0.0.0.0 clk1011.com
+0.0.0.0 clk1015.com
 0.0.0.0 clk2.lookquick.com
 0.0.0.0 clkads.com
 0.0.0.0 clkax.tradedoubler.com
@@ -34770,6 +34776,7 @@
 0.0.0.0 cons.xrenoder.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 consensad.com
 0.0.0.0 consent-st.truste.com
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.webmasterplan.com
@@ -36694,7 +36701,6 @@
 0.0.0.0 cti.w55c.net
 0.0.0.0 ctix8.cheaptickets.com
 0.0.0.0 ctn.go2cloud.org
-0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
 0.0.0.0 ctnsnet.com
 0.0.0.0 ctologger01.analytics.go.com
@@ -39239,6 +39245,7 @@
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
 0.0.0.0 emerse.com
+0.0.0.0 emetriq.de
 0.0.0.0 emeza-ch01.webtrekk.net
 0.0.0.0 emeza-com01.webtrekk.net
 0.0.0.0 emeza-de01.webtrekk.net
@@ -49362,6 +49369,7 @@
 0.0.0.0 myap.liveperson.com
 0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 mybb.ero-advertising.com
+0.0.0.0 mybestmv.com
 0.0.0.0 mybinaryoptionsrobot.com
 0.0.0.0 mybip.go2cloud.org
 0.0.0.0 mybloglog.com
@@ -50325,6 +50333,7 @@
 0.0.0.0 nudegalleries.org
 0.0.0.0 nuera.go2cloud.org
 0.0.0.0 nufindings.info
+0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 nuggad.nuggad.net
 0.0.0.0 nugly.barginginfrance.net
@@ -51398,6 +51407,7 @@
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
 0.0.0.0 optmstr.com
+0.0.0.0 optnmstr.com
 0.0.0.0 optout.2cnt.net
 0.0.0.0 optout.ad1.adfarm1.adition.com
 0.0.0.0 optout.ad2.adfarm1.adition.com
@@ -54730,6 +54740,7 @@
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuegateway.directtrack.com
+0.0.0.0 revenuehits.com
 0.0.0.0 revenues.go2cloud.org
 0.0.0.0 revenues.performancerevenues.com
 0.0.0.0 revenueservice.com
@@ -60232,6 +60243,7 @@
 0.0.0.0 toptechreviews.us.intellitxt.com
 0.0.0.0 toptenreviews.us.intellitxt.com
 0.0.0.0 toptrafficsource.com
+0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 tor.redlightcenter.com
 0.0.0.0 torax.outwar.com
 0.0.0.0 torcherxotnnqq.download
@@ -66596,6 +66608,7 @@
 0.0.0.0 vtrack.larvtrk.com
 0.0.0.0 vtrack.wdavtrk.com
 0.0.0.0 vtracking.in.com
+0.0.0.0 vtracy.de
 0.0.0.0 vtrtl.de
 0.0.0.0 vu.adschoom.com
 0.0.0.0 vu.moatads.com
@@ -70307,6 +70320,7 @@
 0.0.0.0 www.glffogrmnpareses.review
 0.0.0.0 www.gliamicidellunicef.it
 0.0.0.0 www.global-adsrv.com
+0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.globalcharge.com
 0.0.0.0 www.globe7.com
 0.0.0.0 www.globirank.com
@@ -70961,6 +70975,7 @@
 0.0.0.0 www.knacads.com
 0.0.0.0 www.kneecappedgmlviym.download
 0.0.0.0 www.knnomeuaustringer.review
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.koch-backrezepte.de
 0.0.0.0 www.komodia.com
 0.0.0.0 www.komoona.com
@@ -71473,7 +71488,6 @@
 0.0.0.0 www.myadvertisingpays.com
 0.0.0.0 www.myaffiliateads.com
 0.0.0.0 www.myaffiliateprogram.com
-0.0.0.0 www.myairbridge.com
 0.0.0.0 www.myapp.com
 0.0.0.0 www.mycashback.co.uk
 0.0.0.0 www.mycelloffer.com
@@ -74461,6 +74475,7 @@
 0.0.0.0 yellspain.112.2o7.net
 0.0.0.0 yemobiads.com
 0.0.0.0 yen.appsfire.net
+0.0.0.0 yepads.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yepdigital.go2cloud.org
 0.0.0.0 yesads.com

@@ -7,89 +7,89 @@
 #Updated: 25 Aug 2018
 #LatestVersion 0.8.10
 #---------------------
-0.0.0.0 #Scam
-0.0.0.0 #Scam
-0.0.0.0 #Chinese
-0.0.0.0 #Chinese
-0.0.0.0 #Potentially
-0.0.0.0 #Chinese
-0.0.0.0 #Chinese
-0.0.0.0 #Chinese
-0.0.0.0 #Malware
-0.0.0.0 #Malicious
-0.0.0.0 #Malicious
-0.0.0.0 #Typo
-0.0.0.0 #Potentially
-0.0.0.0 #Fake
-0.0.0.0 #Scam
-0.0.0.0 #Phishing
-0.0.0.0 #Command
-0.0.0.0 #Malicious
-0.0.0.0 #Popups
-0.0.0.0 #Annoying
-0.0.0.0 #Malware
-0.0.0.0 #Ad
-0.0.0.0 #Ad
-0.0.0.0 #Malicious
-0.0.0.0 #Malicious
-0.0.0.0 #Malicious
-0.0.0.0 #DNS
-0.0.0.0 #RIG
-0.0.0.0 #Scam
-0.0.0.0 #Malware
-0.0.0.0 #Fake
-0.0.0.0 #Fake
-0.0.0.0 #Malicious
-0.0.0.0 #Fake
-0.0.0.0 #Typo
-0.0.0.0 #Phishing
-0.0.0.0 #Malware
-0.0.0.0 #Browser
-0.0.0.0 #Malware
-0.0.0.0 #PUA
-0.0.0.0 #suspicious
-0.0.0.0 #Scam
-0.0.0.0 #Suspicious
-0.0.0.0 #Annoying
-0.0.0.0 #Malvertising
-0.0.0.0 #Fake
-0.0.0.0 #CDN
-0.0.0.0 #Malicious
-0.0.0.0 #Ragentek
-0.0.0.0 #Data
-0.0.0.0 #Email
-0.0.0.0 #PUA
-0.0.0.0 #Malicious
-0.0.0.0 #Potentially
-0.0.0.0 #DNS
-0.0.0.0 #Typo
-0.0.0.0 #PUA
-0.0.0.0 #Annoying
-0.0.0.0 #Ragentek
-0.0.0.0 #Ragentek
-0.0.0.0 #Scam
-0.0.0.0 #Fake
-0.0.0.0 #Malware
-0.0.0.0 #Malicious
-0.0.0.0 #Malware
-0.0.0.0 #Malicious
-0.0.0.0 #Malicious
-0.0.0.0 #Fake
-0.0.0.0 #Buta
-0.0.0.0 #Malicious
-0.0.0.0 #Malware
-0.0.0.0 #Toluna
-0.0.0.0 #Android
-0.0.0.0 #Phishing
-0.0.0.0 #Malicious
-0.0.0.0 #PUA
-0.0.0.0 #Ad
-0.0.0.0 #Malware
-0.0.0.0 #Typo
-0.0.0.0 #Malicious
-0.0.0.0 #Fake
-0.0.0.0 #Scammer
-0.0.0.0 #Malicious
-0.0.0.0 #Malicious
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 0.0.0.0 zorwrite.com
 

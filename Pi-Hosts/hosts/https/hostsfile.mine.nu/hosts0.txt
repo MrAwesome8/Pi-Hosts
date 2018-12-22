@@ -27,7 +27,7 @@
 # the update and then rename this file back to "hosts" to re-enable it
 ######################################################################
 # You must keep the below lines
-0.0.0.0 localhost
+
 0.0.0.0 pop3.norton.antivirus
 0.0.0.0 pop3.spa.norton.antivirus
 ######################################################################
@@ -18970,7 +18970,7 @@
 0.0.0.0 linksponsor.com
 0.0.0.0 linkstoyou.com
 0.0.0.0 linkswaper.com
-0.0.0.0 linksynergy
+
 0.0.0.0 linksynergy.walmart.com
 0.0.0.0 linktarget.com
 0.0.0.0 linktrack.bravenet.com
@@ -59497,7 +59497,7 @@
 0.0.0.0 asia1.zcash.miningpoolhub.com
 0.0.0.0 asia1.zenmine.pro
 0.0.0.0 asia2.ethermine.org
-0.0.0.0 asicshack
+
 0.0.0.0 assets.coinbase.com
 0.0.0.0 assets.coincheck.com
 0.0.0.0 assets.lydian.io
@@ -65371,7 +65371,7 @@
 0.0.0.0 realty-odessa.com
 0.0.0.0 reliable007.com
 0.0.0.0 royalmediasoft.com
-0.0.0.0 rp
+
 0.0.0.0 rp.50orcdn.com
 0.0.0.0 rts.pgmediaserve.com
 0.0.0.0 rts.sparkstudios.com
@@ -66618,7 +66618,7 @@
 0.0.0.0 sunrisepcsupportsi.wordpress.com
 0.0.0.0 supertech.co
 0.0.0.0 support-for-dell.techvedic.co.uk
-0.0.0.0 support-for-malware-removal
+
 0.0.0.0 support-for-malwarebytes.techvedic.com
 0.0.0.0 support-helpdesk.us
 0.0.0.0 support.isupportcorp.com
@@ -92045,7 +92045,7 @@
 0.0.0.0 omni.pcworld.com
 0.0.0.0 omnis.pcworld.com
 0.0.0.0 omnistats.jetblue.com
-0.0.0.0 omniture
+
 0.0.0.0 omniture-ssl.112.2o7.net
 0.0.0.0 omniture-ssl.122.2o7.net
 0.0.0.0 omniture.112.207.net
@@ -99521,7 +99521,7 @@
 0.0.0.0 blackjackkk110034.uni.cc
 0.0.0.0 blinkltd.ru
 0.0.0.0 bombcreatorinvis.com
-0.0.0.0 Botnet
+
 0.0.0.0 box.tubehub.net
 0.0.0.0 bp.olofyj.ru
 0.0.0.0 braindefences.com
@@ -99574,7 +99574,7 @@
 0.0.0.0 evennote1990.com
 0.0.0.0 eye.b0x.su
 0.0.0.0 eyesecurr327458.net
-0.0.0.0 FastFlux
+
 0.0.0.0 feldmar.ru
 0.0.0.0 fff44gfsfdsdfsdf.com
 0.0.0.0 fgrag3.com
